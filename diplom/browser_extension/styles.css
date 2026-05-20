@@ -616,3 +616,63 @@ pre {
     transform: translateY(0) scale(1);
   }
 }
+
+
+.modal {
+  position: fixed;
+  inset: 0;
+  z-index: 50;
+  display: grid;
+  place-items: center;
+  padding: 14px;
+}
+
+.modal-backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgba(2, 10, 8, 0.66);
+  backdrop-filter: blur(7px);
+}
+
+.modal-card {
+  position: relative;
+  z-index: 1;
+  width: min(430px, 100%);
+  display: grid;
+  gap: 12px;
+  padding: 13px;
+  border: 1px solid rgba(220, 255, 235, 0.3);
+  border-radius: 18px;
+  background:
+    radial-gradient(circle at 10% 0%, rgba(84, 240, 163, 0.18), transparent 34%),
+    linear-gradient(145deg, #24463c, #122a22 70%, #071411);
+  box-shadow: 0 20px 70px rgba(0, 0, 0, 0.48);
+}
+
+.modal-head {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.modal-head strong {
+  display: block;
+  font-size: 16px;
+  line-height: 1.1;
+}
+
+.modal-head p {
+  margin-top: 4px;
+  font-size: 11px;
+}
+
+#askDebugQuestion {
+  min-height: 110px;
+}
+
+.modal-actions {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+}

@@ -60,9 +60,33 @@ function formatLastResult(data) {
   return lines.join("\n");
 }
 
+
+function formatDebugOutput(data) {
+  if (!data || typeof data !== "object") return compactText(data);
+
+  const lines = [
+    "ASK DEBUG",
+    `response_type: ${data.response_type || "unknown"}`,
+    "",
+    "answer:",
+    data.answer || "none",
+  ];
+
+  if (data.retrieved_context) {
+    lines.push("", "retrieved_context:", data.retrieved_context);
+  }
+
+  if (data.raw_result !== undefined && data.raw_result !== null) {
+    lines.push("", "raw_result:", JSON.stringify(data.raw_result, null, 2));
+  }
+
+  return lines.join("\n");
+}
+
 function compactText(data) {
   if (typeof data === "string") return data;
   if (!data || typeof data !== "object") return String(data);
+  if (data.response_type || data.retrieved_context || data.raw_result) return formatDebugOutput(data);
   if (data.answer) return data.answer;
   if (data.preview) {
     const limit = data.request?.max_sources || "all";
@@ -458,6 +482,65 @@ async function logChatToSheet(question, answer) {
   }
 }
 
+
+function openAskDebugModal() {
+  if (role !== "admin") {
+    writeOutput("Недостаточно прав");
+    return;
+  }
+
+  const modal = $("askDebugModal");
+  modal.classList.remove("hidden");
+  modal.setAttribute("aria-hidden", "false");
+  $("askDebugQuestion").value = "";
+  setTimeout(() => $("askDebugQuestion").focus(), 40);
+}
+
+function closeAskDebugModal() {
+  const modal = $("askDebugModal");
+  modal.classList.add("hidden");
+  modal.setAttribute("aria-hidden", "true");
+  setButtonState($("askDebugRunBtn"), "idle");
+}
+
+async function runAskDebugFromModal() {
+  if (role !== "admin") {
+    writeOutput("Недостаточно прав");
+    return;
+  }
+
+  const question = $("askDebugQuestion").value.trim();
+  if (!question) {
+    writeOutput("Введите вопрос для Ask Debug");
+    $("askDebugQuestion").focus();
+    return;
+  }
+
+  setButtonState($("askDebugRunBtn"), "busy", "Запрос");
+  setButtonState($("askDebugBtn"), "busy", "Debug");
+  writeOutput({
+    action: "/ask_debug",
+    status: "sending",
+    request: { question },
+    hint: "Ожидание ответа от сервера.",
+  });
+
+  try {
+    const data = await api("/ask_debug", {
+      method: "POST",
+      body: JSON.stringify({ question }),
+    });
+    closeAskDebugModal();
+    writeOutput(data);
+    refreshStatusBadge();
+    finishButton($("askDebugBtn"), true, "OK");
+  } catch (error) {
+    writeOutput(error);
+    finishButton($("askDebugBtn"), false, "Error");
+    finishButton($("askDebugRunBtn"), false, "Ошибка");
+  }
+}
+
 async function ask(debug = false, button = $("askBtn")) {
   const question = $("question").value.trim();
   if (!question) return;
@@ -563,7 +646,7 @@ function bindEvents() {
   $("statusBtn").onclick = () => checkStatus($("statusBtn"));
   $("mgrStatusBtn").onclick = () => checkStatus($("mgrStatusBtn"));
   $("askBtn").onclick = () => ask(false, $("askBtn"));
-  $("askDebugBtn").onclick = () => ask(true, $("askDebugBtn"));
+  $("askDebugBtn").onclick = () => openAskDebugModal();
   $("rebuildBtn").onclick = () => run($("rebuildBtn"), "/rebuild");
   $("parseUrlBtn").onclick = () => run($("parseUrlBtn"), "/parse/url", { url: $("singleUrl").value });
   $("parseFileBtn").onclick = () => {
@@ -595,6 +678,14 @@ function bindEvents() {
     $("sourceFilePath").value =
       $("sourceFileType").value === "docs" ? "xdt/rpo/docs_registry.json" : "xdt/rpo/packages.txt";
   };
+
+  $("askDebugCloseBtn").onclick = () => closeAskDebugModal();
+  $("askDebugCancelBtn").onclick = () => closeAskDebugModal();
+  $("askDebugBackdrop").onclick = () => closeAskDebugModal();
+  $("askDebugRunBtn").onclick = () => runAskDebugFromModal();
+  $("askDebugQuestion").onkeydown = (event) => {
+    if (event.key === "Enter" && (event.ctrlKey || event.metaKey)) runAskDebugFromModal();
+  };
   $("clearLogBtn").onclick = () => writeOutput("");
   document.querySelectorAll('input[name="outputMode"]').forEach((item) => {
     item.onchange = () => writeOutput(lastOutput);
@@ -622,6 +713,11 @@ function bindEvents() {
   $("emailCode").onkeydown = (event) => {
     if (event.key === "Enter") verifyEmailCode();
   };
+  document.addEventListener("keydown", (event) => {
+    if (event.key === "Escape" && !$("askDebugModal").classList.contains("hidden")) {
+      closeAskDebugModal();
+    }
+  });
 }
 
 loadSettings().then(() => {

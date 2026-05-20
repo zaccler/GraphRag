@@ -153,6 +153,29 @@
 
         </section>
       </section>
+
+      <section id="askDebugModal" class="modal hidden" aria-hidden="true">
+        <div class="modal-backdrop" id="askDebugBackdrop"></div>
+        <div class="modal-card" role="dialog" aria-modal="true" aria-labelledby="askDebugTitle">
+          <div class="modal-head">
+            <div>
+              <strong id="askDebugTitle">Ask Debug</strong>
+              <p class="muted">Вопрос будет отправлен на /ask_debug, ответ появится в Output.</p>
+            </div>
+            <button id="askDebugCloseBtn" class="link-btn" type="button">×</button>
+          </div>
+
+          <label class="field">
+            <span>Вопрос для отладки</span>
+            <textarea id="askDebugQuestion" placeholder="Например: какие пакеты nuget есть в базе?"></textarea>
+          </label>
+
+          <div class="modal-actions">
+            <button id="askDebugCancelBtn" class="btn ghost" type="button">Отмена</button>
+            <button id="askDebugRunBtn" class="btn primary" type="button">Отправить</button>
+          </div>
+        </div>
+      </section>
     </main>
     <script src="popup.js"></script>
   </body>
