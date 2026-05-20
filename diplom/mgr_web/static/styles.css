@@ -1,0 +1,234 @@
+:root {
+  --bg: #f4efe3;
+  --ink: #1d2520;
+  --muted: #667168;
+  --card: #fffaf0;
+  --line: #d9ceb9;
+  --accent: #1f6f5b;
+  --accent-2: #cc6b49;
+  --soft: #e8dbc2;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background:
+    radial-gradient(circle at top left, rgba(31, 111, 91, 0.18), transparent 34rem),
+    linear-gradient(135deg, #f4efe3, #eadcc4);
+  color: var(--ink);
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+button,
+input,
+textarea {
+  font: inherit;
+}
+
+.shell {
+  width: min(1180px, calc(100% - 32px));
+  margin: 0 auto;
+  padding: 28px 0;
+}
+
+.hero {
+  display: flex;
+  justify-content: space-between;
+  gap: 24px;
+  align-items: stretch;
+  margin-bottom: 20px;
+}
+
+.eyebrow {
+  margin: 0 0 8px;
+  color: var(--accent-2);
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  font-size: 12px;
+}
+
+h1,
+h2,
+h3,
+p {
+  margin-top: 0;
+}
+
+h1 {
+  max-width: 760px;
+  margin-bottom: 10px;
+  font-size: clamp(34px, 5vw, 66px);
+  line-height: 0.92;
+}
+
+h2 {
+  margin-bottom: 16px;
+  font-size: 24px;
+}
+
+h3 {
+  margin: 18px 0 10px;
+}
+
+.muted,
+.hint {
+  color: var(--muted);
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 330px 1fr;
+  gap: 16px;
+}
+
+.card,
+.status-card {
+  border: 1px solid var(--line);
+  border-radius: 24px;
+  background: rgba(255, 250, 240, 0.86);
+  box-shadow: 0 18px 40px rgba(69, 50, 24, 0.08);
+  padding: 20px;
+}
+
+.status-card {
+  min-width: 220px;
+  display: grid;
+  align-content: space-between;
+  gap: 18px;
+}
+
+#roleBadge {
+  display: inline-flex;
+  width: fit-content;
+  border-radius: 999px;
+  padding: 8px 12px;
+  background: var(--soft);
+  color: var(--muted);
+}
+
+#roleBadge.admin {
+  background: #dcece4;
+  color: var(--accent);
+}
+
+label {
+  display: grid;
+  gap: 6px;
+  margin-bottom: 12px;
+  color: var(--muted);
+}
+
+input,
+textarea {
+  width: 100%;
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  background: #fffdf8;
+  color: var(--ink);
+  padding: 12px 13px;
+  outline: none;
+}
+
+textarea {
+  min-height: 92px;
+  resize: vertical;
+}
+
+button {
+  border: 0;
+  border-radius: 999px;
+  background: var(--accent);
+  color: #fffdf8;
+  padding: 11px 16px;
+  cursor: pointer;
+}
+
+button.secondary,
+button.ghost {
+  background: var(--soft);
+  color: var(--ink);
+}
+
+.row,
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.chat-card {
+  min-height: 510px;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+}
+
+.messages {
+  min-height: 260px;
+  max-height: 420px;
+  overflow: auto;
+  display: grid;
+  align-content: start;
+  gap: 10px;
+  padding: 8px;
+  border: 1px dashed var(--line);
+  border-radius: 18px;
+  background: rgba(255, 255, 255, 0.35);
+}
+
+.message {
+  max-width: 82%;
+  padding: 12px 14px;
+  border-radius: 18px;
+  white-space: pre-wrap;
+}
+
+.message.user {
+  justify-self: end;
+  background: var(--accent);
+  color: white;
+}
+
+.message.bot {
+  justify-self: start;
+  background: var(--soft);
+}
+
+.ask-row {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 10px;
+  margin-top: 12px;
+  align-items: end;
+}
+
+.admin-card,
+.log-card {
+  grid-column: span 1;
+}
+
+.sheet-box input {
+  margin-bottom: 8px;
+}
+
+pre {
+  min-height: 160px;
+  max-height: 340px;
+  overflow: auto;
+  margin: 0;
+  white-space: pre-wrap;
+  font-family: "Courier New", monospace;
+  font-size: 13px;
+}
+
+@media (max-width: 850px) {
+  .hero,
+  .grid,
+  .ask-row {
+    grid-template-columns: 1fr;
+    display: grid;
+  }
+}

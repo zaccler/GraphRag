@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>GraphRAG Console</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="app">
+      <header class="header">
+        <div>
+          <div class="eyebrow">GraphRAG 2026</div>
+          <h1>Knowledge Console</h1>
+        </div>
+        <button id="logoutBtn" class="btn ghost hidden">Выйти</button>
+      </header>
+
+      <section id="loginView" class="card login-view">
+        <h2>Вход</h2>
+        <p class="muted">Пользователь входит по email-коду. Admin входит по постоянному коду для отладки.</p>
+        <div class="auth-switch">
+          <button id="showLoginBtn" class="auth-tab active" type="button">Админ-код</button>
+          <button id="showRegisterBtn" class="auth-tab" type="button">Вход / регистрация</button>
+        </div>
+
+        <div id="codeLoginForm" class="auth-panel">
+          <label class="field">
+            <span>Код администратора</span>
+            <input id="accessCode" placeholder="например A9vT3nQ6sL8wE2c" autocomplete="off" />
+          </label>
+          <button id="codeLoginBtn" class="btn primary full">Войти</button>
+          <p id="loginError" class="error hidden"></p>
+        </div>
+
+        <div id="registerForm" class="auth-panel hidden">
+          <label class="field">
+            <span>Email</span>
+            <input id="registerEmail" type="email" placeholder="name@example.com" autocomplete="email" />
+          </label>
+          <button id="registerBtn" class="btn primary full">Отправить код на почту</button>
+          <p id="registerError" class="error hidden"></p>
+          <div id="registerSent" class="sent-card hidden">
+            <span class="sent-icon">✓</span>
+            <div>
+              <strong>Код отправлен</strong>
+              <p>Проверь почту и введи код ниже.</p>
+            </div>
+          </div>
+          <div id="emailCodeBlock" class="auth-panel hidden">
+            <label class="field">
+              <span>Код из письма</span>
+              <input id="emailCode" inputmode="numeric" maxlength="12" placeholder="123456" autocomplete="one-time-code" />
+            </label>
+            <button id="verifyEmailCodeBtn" class="btn primary full">Войти</button>
+          </div>
+        </div>
+      </section>
+
+      <section id="mainView" class="main-view hidden">
+        <section class="top-grid">
+          <div class="card user-card">
+            <span id="roleBadge" class="badge">user</span>
+            <span id="apiStatusText" class="api-state">API: unknown</span>
+          </div>
+
+          <div class="card api-card">
+            <label class="field">
+              <span>API endpoint</span>
+              <input id="apiUrl" placeholder="http://127.0.0.1:8099" />
+            </label>
+            <button id="saveApiBtn" class="btn small">Save</button>
+            <button id="statusBtn" class="btn small ghost">Status</button>
+          </div>
+        </section>
+
+        <nav class="tabs">
+          <button class="tab active" data-tab="chat">Chat</button>
+          <button id="mgrTabBtn" class="tab" data-tab="mgr">MGR</button>
+        </nav>
+
+        <section id="chatTab" class="tab-panel active">
+          <div id="messages" class="messages">
+            <div class="message bot">Задай вопрос по базе знаний.</div>
+          </div>
+          <div class="chat-form">
+            <textarea id="question" placeholder="Например: дай ссылку на NuGet.CommandLine версии 6.10.0"></textarea>
+            <button id="askBtn" class="btn primary">Ask</button>
+          </div>
+        </section>
+
+        <section id="mgrTab" class="tab-panel mgr-panel">
+          <section class="card output-card">
+            <div class="card-head">
+              <strong>Output</strong>
+              <div class="segmented">
+                <label><input type="radio" name="outputMode" value="text" checked /> Text</label>
+                <label><input type="radio" name="outputMode" value="json" /> JSON</label>
+                <button id="clearLogBtn" class="link-btn">clear</button>
+              </div>
+            </div>
+            <pre id="log">Нажми Status или запусти действие.</pre>
+          </section>
+
+          <section class="quick-actions">
+            <button id="mgrStatusBtn" class="btn ghost">Status</button>
+            <button id="rebuildBtn" class="btn ghost">Rebuild KB</button>
+            <button id="askDebugBtn" class="btn ghost">Ask Debug</button>
+          </section>
+
+          <section class="card parse-card">
+            <div class="card-head">
+              <strong>Parse from file</strong>
+              <span class="muted">первые N или весь файл</span>
+            </div>
+            <div class="parse-grid">
+              <label class="field">
+                <span>Тип</span>
+                <select id="sourceFileType">
+                  <option value="packages">packages.txt</option>
+                  <option value="docs">docs_registry.json</option>
+                </select>
+              </label>
+              <label class="field">
+                <span>N</span>
+                <input id="sourceLimit" type="number" min="1" placeholder="all" />
+              </label>
+            </div>
+            <label class="field">
+              <span>Путь к файлу</span>
+              <input id="sourceFilePath" value="xdt/rpo/packages.txt" />
+            </label>
+            <div class="row">
+              <label class="check">
+                <input id="forceRefresh" type="checkbox" />
+                force refresh
+              </label>
+              <button id="parseFileBtn" class="btn primary">Parse file</button>
+            </div>
+          </section>
+
+          <section class="card url-card">
+            <div class="card-head">
+              <strong>Single URL</strong>
+              <span class="muted">одна страница</span>
+            </div>
+            <label class="field">
+              <span>URL</span>
+              <input id="singleUrl" placeholder="https://docs.python.org/3.12/library/functions.html#eval" />
+            </label>
+            <button id="parseUrlBtn" class="btn primary full">Parse URL</button>
+          </section>
+
+        </section>
+      </section>
+    </main>
+    <script src="popup.js"></script>
+  </body>
+</html>

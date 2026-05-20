@@ -1,0 +1,49 @@
+docker run --name dgraph-dev -d -p 8080:8080 -p 9080:9080 dgraph/standalone:latest
+
+Это поднимет Dgraph локально:
+
+8080 - HTTP
+9080 - gRPC, обычно нужен Python-клиенту
+
+
+
+Как проверить, что база запустилась
+
+Проверь контейнер: docker ps
+
+Посмотри логи:
+
+docker logs dgraph-dev
+
+
+
+
+Как останавливать и запускать потом
+
+Остановить:
+
+docker stop dgraph-dev
+
+Запустить снова:
+
+docker start dgraph-dev
+
+Удалить контейнер:
+
+docker rm -f dgraph-dev
+
+
+
+
+
+Default Interpreter Path
+c:\Users\Vlad\AppData\Local\Programs\Python\Python313\python.exe
+
+
+
+host
+ python -m uvicorn server:app --host 127.0.0.1 --port 8099 --reload
+ python -m uvicorn mgr_web.app:app --host 127.0.0.1 --port 8100
+
+
+taskkill /F /IM python.exe

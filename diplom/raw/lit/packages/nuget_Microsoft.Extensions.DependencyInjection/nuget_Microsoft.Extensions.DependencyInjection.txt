@@ -1,0 +1,219 @@
+URL: https://www.nuget.org/packages/Microsoft.Extensions.DependencyInjection
+TITLE: NuGet package: Microsoft.Extensions.DependencyInjection
+
+SOURCE_TYPE: nuget_package.
+PACKAGE_MANAGER: NuGet.
+PACKAGE_ID: Microsoft.Extensions.DependencyInjection.
+SOURCE_URL: https://www.nuget.org/packages/Microsoft.Extensions.DependencyInjection.
+
+NuGet package versions with direct .nupkg installer/package download links.
+
+PACKAGE: Microsoft.Extensions.DependencyInjection.
+VERSION: 9.0.9.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/9.0.9/microsoft.extensions.dependencyinjection.9.0.9.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/9.0.9/microsoft.extensions.dependencyinjection.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.Extensions.DependencyInjection --version 9.0.9.
+
+PACKAGE: Microsoft.Extensions.DependencyInjection.
+VERSION: 9.0.10.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/9.0.10/microsoft.extensions.dependencyinjection.9.0.10.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/9.0.10/microsoft.extensions.dependencyinjection.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.Extensions.DependencyInjection --version 9.0.10.
+
+PACKAGE: Microsoft.Extensions.DependencyInjection.
+VERSION: 9.0.11.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/9.0.11/microsoft.extensions.dependencyinjection.9.0.11.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/9.0.11/microsoft.extensions.dependencyinjection.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.Extensions.DependencyInjection --version 9.0.11.
+
+PACKAGE: Microsoft.Extensions.DependencyInjection.
+VERSION: 9.0.12.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/9.0.12/microsoft.extensions.dependencyinjection.9.0.12.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/9.0.12/microsoft.extensions.dependencyinjection.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.Extensions.DependencyInjection --version 9.0.12.
+
+PACKAGE: Microsoft.Extensions.DependencyInjection.
+VERSION: 9.0.13.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/9.0.13/microsoft.extensions.dependencyinjection.9.0.13.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/9.0.13/microsoft.extensions.dependencyinjection.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.Extensions.DependencyInjection --version 9.0.13.
+
+PACKAGE: Microsoft.Extensions.DependencyInjection.
+VERSION: 9.0.14.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/9.0.14/microsoft.extensions.dependencyinjection.9.0.14.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/9.0.14/microsoft.extensions.dependencyinjection.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.Extensions.DependencyInjection --version 9.0.14.
+
+PACKAGE: Microsoft.Extensions.DependencyInjection.
+VERSION: 9.0.15.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/9.0.15/microsoft.extensions.dependencyinjection.9.0.15.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/9.0.15/microsoft.extensions.dependencyinjection.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.Extensions.DependencyInjection --version 9.0.15.
+
+PACKAGE: Microsoft.Extensions.DependencyInjection.
+VERSION: 9.0.16.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/9.0.16/microsoft.extensions.dependencyinjection.9.0.16.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/9.0.16/microsoft.extensions.dependencyinjection.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.Extensions.DependencyInjection --version 9.0.16.
+
+PACKAGE: Microsoft.Extensions.DependencyInjection.
+VERSION: 10.0.0-preview.1.25080.5.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/10.0.0-preview.1.25080.5/microsoft.extensions.dependencyinjection.10.0.0-preview.1.25080.5.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/10.0.0-preview.1.25080.5/microsoft.extensions.dependencyinjection.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.Extensions.DependencyInjection --version 10.0.0-preview.1.25080.5.
+
+PACKAGE: Microsoft.Extensions.DependencyInjection.
+VERSION: 10.0.0-preview.2.25163.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/10.0.0-preview.2.25163.2/microsoft.extensions.dependencyinjection.10.0.0-preview.2.25163.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/10.0.0-preview.2.25163.2/microsoft.extensions.dependencyinjection.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.Extensions.DependencyInjection --version 10.0.0-preview.2.25163.2.
+
+PACKAGE: Microsoft.Extensions.DependencyInjection.
+VERSION: 10.0.0-preview.3.25171.5.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/10.0.0-preview.3.25171.5/microsoft.extensions.dependencyinjection.10.0.0-preview.3.25171.5.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/10.0.0-preview.3.25171.5/microsoft.extensions.dependencyinjection.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.Extensions.DependencyInjection --version 10.0.0-preview.3.25171.5.
+
+PACKAGE: Microsoft.Extensions.DependencyInjection.
+VERSION: 10.0.0-preview.4.25258.110.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/10.0.0-preview.4.25258.110/microsoft.extensions.dependencyinjection.10.0.0-preview.4.25258.110.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/10.0.0-preview.4.25258.110/microsoft.extensions.dependencyinjection.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.Extensions.DependencyInjection --version 10.0.0-preview.4.25258.110.
+
+PACKAGE: Microsoft.Extensions.DependencyInjection.
+VERSION: 10.0.0-preview.5.25277.114.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/10.0.0-preview.5.25277.114/microsoft.extensions.dependencyinjection.10.0.0-preview.5.25277.114.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/10.0.0-preview.5.25277.114/microsoft.extensions.dependencyinjection.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.Extensions.DependencyInjection --version 10.0.0-preview.5.25277.114.
+
+PACKAGE: Microsoft.Extensions.DependencyInjection.
+VERSION: 10.0.0-preview.6.25358.103.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/10.0.0-preview.6.25358.103/microsoft.extensions.dependencyinjection.10.0.0-preview.6.25358.103.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/10.0.0-preview.6.25358.103/microsoft.extensions.dependencyinjection.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.Extensions.DependencyInjection --version 10.0.0-preview.6.25358.103.
+
+PACKAGE: Microsoft.Extensions.DependencyInjection.
+VERSION: 10.0.0-preview.7.25380.108.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/10.0.0-preview.7.25380.108/microsoft.extensions.dependencyinjection.10.0.0-preview.7.25380.108.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/10.0.0-preview.7.25380.108/microsoft.extensions.dependencyinjection.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.Extensions.DependencyInjection --version 10.0.0-preview.7.25380.108.
+
+PACKAGE: Microsoft.Extensions.DependencyInjection.
+VERSION: 10.0.0-rc.1.25451.107.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/10.0.0-rc.1.25451.107/microsoft.extensions.dependencyinjection.10.0.0-rc.1.25451.107.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/10.0.0-rc.1.25451.107/microsoft.extensions.dependencyinjection.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.Extensions.DependencyInjection --version 10.0.0-rc.1.25451.107.
+
+PACKAGE: Microsoft.Extensions.DependencyInjection.
+VERSION: 10.0.0-rc.2.25502.107.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/10.0.0-rc.2.25502.107/microsoft.extensions.dependencyinjection.10.0.0-rc.2.25502.107.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/10.0.0-rc.2.25502.107/microsoft.extensions.dependencyinjection.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.Extensions.DependencyInjection --version 10.0.0-rc.2.25502.107.
+
+PACKAGE: Microsoft.Extensions.DependencyInjection.
+VERSION: 10.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/10.0.0/microsoft.extensions.dependencyinjection.10.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/10.0.0/microsoft.extensions.dependencyinjection.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.Extensions.DependencyInjection --version 10.0.0.
+
+PACKAGE: Microsoft.Extensions.DependencyInjection.
+VERSION: 10.0.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/10.0.1/microsoft.extensions.dependencyinjection.10.0.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/10.0.1/microsoft.extensions.dependencyinjection.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.Extensions.DependencyInjection --version 10.0.1.
+
+PACKAGE: Microsoft.Extensions.DependencyInjection.
+VERSION: 10.0.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/10.0.2/microsoft.extensions.dependencyinjection.10.0.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/10.0.2/microsoft.extensions.dependencyinjection.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.Extensions.DependencyInjection --version 10.0.2.
+
+PACKAGE: Microsoft.Extensions.DependencyInjection.
+VERSION: 10.0.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/10.0.3/microsoft.extensions.dependencyinjection.10.0.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/10.0.3/microsoft.extensions.dependencyinjection.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.Extensions.DependencyInjection --version 10.0.3.
+
+PACKAGE: Microsoft.Extensions.DependencyInjection.
+VERSION: 10.0.4.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/10.0.4/microsoft.extensions.dependencyinjection.10.0.4.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/10.0.4/microsoft.extensions.dependencyinjection.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.Extensions.DependencyInjection --version 10.0.4.
+
+PACKAGE: Microsoft.Extensions.DependencyInjection.
+VERSION: 10.0.5.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/10.0.5/microsoft.extensions.dependencyinjection.10.0.5.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/10.0.5/microsoft.extensions.dependencyinjection.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.Extensions.DependencyInjection --version 10.0.5.
+
+PACKAGE: Microsoft.Extensions.DependencyInjection.
+VERSION: 10.0.6.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/10.0.6/microsoft.extensions.dependencyinjection.10.0.6.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/10.0.6/microsoft.extensions.dependencyinjection.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.Extensions.DependencyInjection --version 10.0.6.
+
+PACKAGE: Microsoft.Extensions.DependencyInjection.
+VERSION: 10.0.7.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/10.0.7/microsoft.extensions.dependencyinjection.10.0.7.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/10.0.7/microsoft.extensions.dependencyinjection.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.Extensions.DependencyInjection --version 10.0.7.
+
+PACKAGE: Microsoft.Extensions.DependencyInjection.
+VERSION: 10.0.8.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/10.0.8/microsoft.extensions.dependencyinjection.10.0.8.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/10.0.8/microsoft.extensions.dependencyinjection.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.Extensions.DependencyInjection --version 10.0.8.
+
+PACKAGE: Microsoft.Extensions.DependencyInjection.
+VERSION: 11.0.0-preview.1.26104.118.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/11.0.0-preview.1.26104.118/microsoft.extensions.dependencyinjection.11.0.0-preview.1.26104.118.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/11.0.0-preview.1.26104.118/microsoft.extensions.dependencyinjection.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.Extensions.DependencyInjection --version 11.0.0-preview.1.26104.118.
+
+PACKAGE: Microsoft.Extensions.DependencyInjection.
+VERSION: 11.0.0-preview.2.26159.112.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/11.0.0-preview.2.26159.112/microsoft.extensions.dependencyinjection.11.0.0-preview.2.26159.112.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/11.0.0-preview.2.26159.112/microsoft.extensions.dependencyinjection.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.Extensions.DependencyInjection --version 11.0.0-preview.2.26159.112.
+
+PACKAGE: Microsoft.Extensions.DependencyInjection.
+VERSION: 11.0.0-preview.3.26207.106.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/11.0.0-preview.3.26207.106/microsoft.extensions.dependencyinjection.11.0.0-preview.3.26207.106.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/11.0.0-preview.3.26207.106/microsoft.extensions.dependencyinjection.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.Extensions.DependencyInjection --version 11.0.0-preview.3.26207.106.
+
+PACKAGE: Microsoft.Extensions.DependencyInjection.
+VERSION: 11.0.0-preview.4.26230.115.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/11.0.0-preview.4.26230.115/microsoft.extensions.dependencyinjection.11.0.0-preview.4.26230.115.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/11.0.0-preview.4.26230.115/microsoft.extensions.dependencyinjection.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.Extensions.DependencyInjection --version 11.0.0-preview.4.26230.115.

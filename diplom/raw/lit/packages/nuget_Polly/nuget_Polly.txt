@@ -1,0 +1,219 @@
+URL: https://www.nuget.org/packages/Polly
+TITLE: NuGet package: Polly
+
+SOURCE_TYPE: nuget_package.
+PACKAGE_MANAGER: NuGet.
+PACKAGE_ID: Polly.
+SOURCE_URL: https://www.nuget.org/packages/Polly.
+
+NuGet package versions with direct .nupkg installer/package download links.
+
+PACKAGE: Polly.
+VERSION: 8.0.0-alpha.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/polly/8.0.0-alpha.1/polly.8.0.0-alpha.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/polly/8.0.0-alpha.1/polly.nuspec.
+INSTALL_COMMAND: dotnet add package Polly --version 8.0.0-alpha.1.
+
+PACKAGE: Polly.
+VERSION: 8.0.0-alpha.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/polly/8.0.0-alpha.2/polly.8.0.0-alpha.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/polly/8.0.0-alpha.2/polly.nuspec.
+INSTALL_COMMAND: dotnet add package Polly --version 8.0.0-alpha.2.
+
+PACKAGE: Polly.
+VERSION: 8.0.0-alpha.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/polly/8.0.0-alpha.3/polly.8.0.0-alpha.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/polly/8.0.0-alpha.3/polly.nuspec.
+INSTALL_COMMAND: dotnet add package Polly --version 8.0.0-alpha.3.
+
+PACKAGE: Polly.
+VERSION: 8.0.0-alpha.4.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/polly/8.0.0-alpha.4/polly.8.0.0-alpha.4.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/polly/8.0.0-alpha.4/polly.nuspec.
+INSTALL_COMMAND: dotnet add package Polly --version 8.0.0-alpha.4.
+
+PACKAGE: Polly.
+VERSION: 8.0.0-alpha.5.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/polly/8.0.0-alpha.5/polly.8.0.0-alpha.5.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/polly/8.0.0-alpha.5/polly.nuspec.
+INSTALL_COMMAND: dotnet add package Polly --version 8.0.0-alpha.5.
+
+PACKAGE: Polly.
+VERSION: 8.0.0-alpha.6.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/polly/8.0.0-alpha.6/polly.8.0.0-alpha.6.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/polly/8.0.0-alpha.6/polly.nuspec.
+INSTALL_COMMAND: dotnet add package Polly --version 8.0.0-alpha.6.
+
+PACKAGE: Polly.
+VERSION: 8.0.0-alpha.7.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/polly/8.0.0-alpha.7/polly.8.0.0-alpha.7.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/polly/8.0.0-alpha.7/polly.nuspec.
+INSTALL_COMMAND: dotnet add package Polly --version 8.0.0-alpha.7.
+
+PACKAGE: Polly.
+VERSION: 8.0.0-alpha.8.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/polly/8.0.0-alpha.8/polly.8.0.0-alpha.8.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/polly/8.0.0-alpha.8/polly.nuspec.
+INSTALL_COMMAND: dotnet add package Polly --version 8.0.0-alpha.8.
+
+PACKAGE: Polly.
+VERSION: 8.0.0-alpha.9.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/polly/8.0.0-alpha.9/polly.8.0.0-alpha.9.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/polly/8.0.0-alpha.9/polly.nuspec.
+INSTALL_COMMAND: dotnet add package Polly --version 8.0.0-alpha.9.
+
+PACKAGE: Polly.
+VERSION: 8.0.0-beta.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/polly/8.0.0-beta.1/polly.8.0.0-beta.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/polly/8.0.0-beta.1/polly.nuspec.
+INSTALL_COMMAND: dotnet add package Polly --version 8.0.0-beta.1.
+
+PACKAGE: Polly.
+VERSION: 8.0.0-beta.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/polly/8.0.0-beta.2/polly.8.0.0-beta.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/polly/8.0.0-beta.2/polly.nuspec.
+INSTALL_COMMAND: dotnet add package Polly --version 8.0.0-beta.2.
+
+PACKAGE: Polly.
+VERSION: 8.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/polly/8.0.0/polly.8.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/polly/8.0.0/polly.nuspec.
+INSTALL_COMMAND: dotnet add package Polly --version 8.0.0.
+
+PACKAGE: Polly.
+VERSION: 8.1.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/polly/8.1.0/polly.8.1.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/polly/8.1.0/polly.nuspec.
+INSTALL_COMMAND: dotnet add package Polly --version 8.1.0.
+
+PACKAGE: Polly.
+VERSION: 8.2.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/polly/8.2.0/polly.8.2.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/polly/8.2.0/polly.nuspec.
+INSTALL_COMMAND: dotnet add package Polly --version 8.2.0.
+
+PACKAGE: Polly.
+VERSION: 8.2.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/polly/8.2.1/polly.8.2.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/polly/8.2.1/polly.nuspec.
+INSTALL_COMMAND: dotnet add package Polly --version 8.2.1.
+
+PACKAGE: Polly.
+VERSION: 8.3.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/polly/8.3.0/polly.8.3.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/polly/8.3.0/polly.nuspec.
+INSTALL_COMMAND: dotnet add package Polly --version 8.3.0.
+
+PACKAGE: Polly.
+VERSION: 8.3.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/polly/8.3.1/polly.8.3.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/polly/8.3.1/polly.nuspec.
+INSTALL_COMMAND: dotnet add package Polly --version 8.3.1.
+
+PACKAGE: Polly.
+VERSION: 8.4.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/polly/8.4.0/polly.8.4.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/polly/8.4.0/polly.nuspec.
+INSTALL_COMMAND: dotnet add package Polly --version 8.4.0.
+
+PACKAGE: Polly.
+VERSION: 8.4.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/polly/8.4.1/polly.8.4.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/polly/8.4.1/polly.nuspec.
+INSTALL_COMMAND: dotnet add package Polly --version 8.4.1.
+
+PACKAGE: Polly.
+VERSION: 8.4.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/polly/8.4.2/polly.8.4.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/polly/8.4.2/polly.nuspec.
+INSTALL_COMMAND: dotnet add package Polly --version 8.4.2.
+
+PACKAGE: Polly.
+VERSION: 8.5.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/polly/8.5.0/polly.8.5.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/polly/8.5.0/polly.nuspec.
+INSTALL_COMMAND: dotnet add package Polly --version 8.5.0.
+
+PACKAGE: Polly.
+VERSION: 8.5.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/polly/8.5.1/polly.8.5.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/polly/8.5.1/polly.nuspec.
+INSTALL_COMMAND: dotnet add package Polly --version 8.5.1.
+
+PACKAGE: Polly.
+VERSION: 8.5.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/polly/8.5.2/polly.8.5.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/polly/8.5.2/polly.nuspec.
+INSTALL_COMMAND: dotnet add package Polly --version 8.5.2.
+
+PACKAGE: Polly.
+VERSION: 8.6.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/polly/8.6.0/polly.8.6.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/polly/8.6.0/polly.nuspec.
+INSTALL_COMMAND: dotnet add package Polly --version 8.6.0.
+
+PACKAGE: Polly.
+VERSION: 8.6.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/polly/8.6.1/polly.8.6.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/polly/8.6.1/polly.nuspec.
+INSTALL_COMMAND: dotnet add package Polly --version 8.6.1.
+
+PACKAGE: Polly.
+VERSION: 8.6.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/polly/8.6.2/polly.8.6.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/polly/8.6.2/polly.nuspec.
+INSTALL_COMMAND: dotnet add package Polly --version 8.6.2.
+
+PACKAGE: Polly.
+VERSION: 8.6.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/polly/8.6.3/polly.8.6.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/polly/8.6.3/polly.nuspec.
+INSTALL_COMMAND: dotnet add package Polly --version 8.6.3.
+
+PACKAGE: Polly.
+VERSION: 8.6.4.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/polly/8.6.4/polly.8.6.4.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/polly/8.6.4/polly.nuspec.
+INSTALL_COMMAND: dotnet add package Polly --version 8.6.4.
+
+PACKAGE: Polly.
+VERSION: 8.6.5.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/polly/8.6.5/polly.8.6.5.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/polly/8.6.5/polly.nuspec.
+INSTALL_COMMAND: dotnet add package Polly --version 8.6.5.
+
+PACKAGE: Polly.
+VERSION: 8.6.6.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/polly/8.6.6/polly.8.6.6.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/polly/8.6.6/polly.nuspec.
+INSTALL_COMMAND: dotnet add package Polly --version 8.6.6.

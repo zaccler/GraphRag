@@ -1,0 +1,219 @@
+URL: https://www.nuget.org/packages/Hangfire
+TITLE: NuGet package: Hangfire
+
+SOURCE_TYPE: nuget_package.
+PACKAGE_MANAGER: NuGet.
+PACKAGE_ID: Hangfire.
+SOURCE_URL: https://www.nuget.org/packages/Hangfire.
+
+NuGet package versions with direct .nupkg installer/package download links.
+
+PACKAGE: Hangfire.
+VERSION: 1.8.0-beta3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.0-beta3/hangfire.1.8.0-beta3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.0-beta3/hangfire.nuspec.
+INSTALL_COMMAND: dotnet add package Hangfire --version 1.8.0-beta3.
+
+PACKAGE: Hangfire.
+VERSION: 1.8.0-beta4.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.0-beta4/hangfire.1.8.0-beta4.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.0-beta4/hangfire.nuspec.
+INSTALL_COMMAND: dotnet add package Hangfire --version 1.8.0-beta4.
+
+PACKAGE: Hangfire.
+VERSION: 1.8.0-rc1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.0-rc1/hangfire.1.8.0-rc1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.0-rc1/hangfire.nuspec.
+INSTALL_COMMAND: dotnet add package Hangfire --version 1.8.0-rc1.
+
+PACKAGE: Hangfire.
+VERSION: 1.8.0-rc2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.0-rc2/hangfire.1.8.0-rc2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.0-rc2/hangfire.nuspec.
+INSTALL_COMMAND: dotnet add package Hangfire --version 1.8.0-rc2.
+
+PACKAGE: Hangfire.
+VERSION: 1.8.0-rc3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.0-rc3/hangfire.1.8.0-rc3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.0-rc3/hangfire.nuspec.
+INSTALL_COMMAND: dotnet add package Hangfire --version 1.8.0-rc3.
+
+PACKAGE: Hangfire.
+VERSION: 1.8.0-rc4.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.0-rc4/hangfire.1.8.0-rc4.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.0-rc4/hangfire.nuspec.
+INSTALL_COMMAND: dotnet add package Hangfire --version 1.8.0-rc4.
+
+PACKAGE: Hangfire.
+VERSION: 1.8.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.0/hangfire.1.8.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.0/hangfire.nuspec.
+INSTALL_COMMAND: dotnet add package Hangfire --version 1.8.0.
+
+PACKAGE: Hangfire.
+VERSION: 1.8.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.1/hangfire.1.8.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.1/hangfire.nuspec.
+INSTALL_COMMAND: dotnet add package Hangfire --version 1.8.1.
+
+PACKAGE: Hangfire.
+VERSION: 1.8.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.2/hangfire.1.8.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.2/hangfire.nuspec.
+INSTALL_COMMAND: dotnet add package Hangfire --version 1.8.2.
+
+PACKAGE: Hangfire.
+VERSION: 1.8.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.3/hangfire.1.8.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.3/hangfire.nuspec.
+INSTALL_COMMAND: dotnet add package Hangfire --version 1.8.3.
+
+PACKAGE: Hangfire.
+VERSION: 1.8.4.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.4/hangfire.1.8.4.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.4/hangfire.nuspec.
+INSTALL_COMMAND: dotnet add package Hangfire --version 1.8.4.
+
+PACKAGE: Hangfire.
+VERSION: 1.8.5.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.5/hangfire.1.8.5.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.5/hangfire.nuspec.
+INSTALL_COMMAND: dotnet add package Hangfire --version 1.8.5.
+
+PACKAGE: Hangfire.
+VERSION: 1.8.6.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.6/hangfire.1.8.6.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.6/hangfire.nuspec.
+INSTALL_COMMAND: dotnet add package Hangfire --version 1.8.6.
+
+PACKAGE: Hangfire.
+VERSION: 1.8.7.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.7/hangfire.1.8.7.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.7/hangfire.nuspec.
+INSTALL_COMMAND: dotnet add package Hangfire --version 1.8.7.
+
+PACKAGE: Hangfire.
+VERSION: 1.8.8.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.8/hangfire.1.8.8.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.8/hangfire.nuspec.
+INSTALL_COMMAND: dotnet add package Hangfire --version 1.8.8.
+
+PACKAGE: Hangfire.
+VERSION: 1.8.9.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.9/hangfire.1.8.9.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.9/hangfire.nuspec.
+INSTALL_COMMAND: dotnet add package Hangfire --version 1.8.9.
+
+PACKAGE: Hangfire.
+VERSION: 1.8.10.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.10/hangfire.1.8.10.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.10/hangfire.nuspec.
+INSTALL_COMMAND: dotnet add package Hangfire --version 1.8.10.
+
+PACKAGE: Hangfire.
+VERSION: 1.8.11.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.11/hangfire.1.8.11.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.11/hangfire.nuspec.
+INSTALL_COMMAND: dotnet add package Hangfire --version 1.8.11.
+
+PACKAGE: Hangfire.
+VERSION: 1.8.12.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.12/hangfire.1.8.12.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.12/hangfire.nuspec.
+INSTALL_COMMAND: dotnet add package Hangfire --version 1.8.12.
+
+PACKAGE: Hangfire.
+VERSION: 1.8.13.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.13/hangfire.1.8.13.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.13/hangfire.nuspec.
+INSTALL_COMMAND: dotnet add package Hangfire --version 1.8.13.
+
+PACKAGE: Hangfire.
+VERSION: 1.8.14.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.14/hangfire.1.8.14.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.14/hangfire.nuspec.
+INSTALL_COMMAND: dotnet add package Hangfire --version 1.8.14.
+
+PACKAGE: Hangfire.
+VERSION: 1.8.15.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.15/hangfire.1.8.15.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.15/hangfire.nuspec.
+INSTALL_COMMAND: dotnet add package Hangfire --version 1.8.15.
+
+PACKAGE: Hangfire.
+VERSION: 1.8.16.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.16/hangfire.1.8.16.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.16/hangfire.nuspec.
+INSTALL_COMMAND: dotnet add package Hangfire --version 1.8.16.
+
+PACKAGE: Hangfire.
+VERSION: 1.8.17.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.17/hangfire.1.8.17.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.17/hangfire.nuspec.
+INSTALL_COMMAND: dotnet add package Hangfire --version 1.8.17.
+
+PACKAGE: Hangfire.
+VERSION: 1.8.18.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.18/hangfire.1.8.18.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.18/hangfire.nuspec.
+INSTALL_COMMAND: dotnet add package Hangfire --version 1.8.18.
+
+PACKAGE: Hangfire.
+VERSION: 1.8.19.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.19/hangfire.1.8.19.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.19/hangfire.nuspec.
+INSTALL_COMMAND: dotnet add package Hangfire --version 1.8.19.
+
+PACKAGE: Hangfire.
+VERSION: 1.8.20.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.20/hangfire.1.8.20.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.20/hangfire.nuspec.
+INSTALL_COMMAND: dotnet add package Hangfire --version 1.8.20.
+
+PACKAGE: Hangfire.
+VERSION: 1.8.21.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.21/hangfire.1.8.21.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.21/hangfire.nuspec.
+INSTALL_COMMAND: dotnet add package Hangfire --version 1.8.21.
+
+PACKAGE: Hangfire.
+VERSION: 1.8.22.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.22/hangfire.1.8.22.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.22/hangfire.nuspec.
+INSTALL_COMMAND: dotnet add package Hangfire --version 1.8.22.
+
+PACKAGE: Hangfire.
+VERSION: 1.8.23.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.23/hangfire.1.8.23.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/hangfire/1.8.23/hangfire.nuspec.
+INSTALL_COMMAND: dotnet add package Hangfire --version 1.8.23.

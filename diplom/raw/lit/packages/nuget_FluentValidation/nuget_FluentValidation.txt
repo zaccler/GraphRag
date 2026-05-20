@@ -1,0 +1,709 @@
+﻿URL: https://www.nuget.org/packages/FluentValidation.
+TITLE: NuGet package: FluentValidation.
+
+SOURCE_TYPE: nuget_package.
+PACKAGE_MANAGER: NuGet.
+PACKAGE_ID: FluentValidation.
+SOURCE_URL: https://www.nuget.org/packages/FluentValidation.
+
+NuGet package versions with direct .nupkg installer/package download links.
+
+PACKAGE: FluentValidation.
+VERSION: 8.0.101.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/8.0.101/fluentvalidation.8.0.101.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/8.0.101/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 8.0.101.
+
+PACKAGE: FluentValidation.
+VERSION: 8.1.0-preview1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/8.1.0-preview1/fluentvalidation.8.1.0-preview1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/8.1.0-preview1/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 8.1.0-preview1.
+
+PACKAGE: FluentValidation.
+VERSION: 8.1.0-preview2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/8.1.0-preview2/fluentvalidation.8.1.0-preview2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/8.1.0-preview2/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 8.1.0-preview2.
+
+PACKAGE: FluentValidation.
+VERSION: 8.1.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/8.1.0/fluentvalidation.8.1.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/8.1.0/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 8.1.0.
+
+PACKAGE: FluentValidation.
+VERSION: 8.1.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/8.1.1/fluentvalidation.8.1.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/8.1.1/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 8.1.1.
+
+PACKAGE: FluentValidation.
+VERSION: 8.1.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/8.1.2/fluentvalidation.8.1.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/8.1.2/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 8.1.2.
+
+PACKAGE: FluentValidation.
+VERSION: 8.1.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/8.1.3/fluentvalidation.8.1.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/8.1.3/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 8.1.3.
+
+PACKAGE: FluentValidation.
+VERSION: 8.2.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/8.2.0/fluentvalidation.8.2.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/8.2.0/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 8.2.0.
+
+PACKAGE: FluentValidation.
+VERSION: 8.2.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/8.2.1/fluentvalidation.8.2.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/8.2.1/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 8.2.1.
+
+PACKAGE: FluentValidation.
+VERSION: 8.2.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/8.2.2/fluentvalidation.8.2.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/8.2.2/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 8.2.2.
+
+PACKAGE: FluentValidation.
+VERSION: 8.2.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/8.2.3/fluentvalidation.8.2.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/8.2.3/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 8.2.3.
+
+PACKAGE: FluentValidation.
+VERSION: 8.3.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/8.3.0/fluentvalidation.8.3.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/8.3.0/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 8.3.0.
+
+PACKAGE: FluentValidation.
+VERSION: 8.4.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/8.4.0/fluentvalidation.8.4.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/8.4.0/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 8.4.0.
+
+PACKAGE: FluentValidation.
+VERSION: 8.5.0-preview1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/8.5.0-preview1/fluentvalidation.8.5.0-preview1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/8.5.0-preview1/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 8.5.0-preview1.
+
+PACKAGE: FluentValidation.
+VERSION: 8.5.0-preview2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/8.5.0-preview2/fluentvalidation.8.5.0-preview2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/8.5.0-preview2/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 8.5.0-preview2.
+
+PACKAGE: FluentValidation.
+VERSION: 8.5.0-preview3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/8.5.0-preview3/fluentvalidation.8.5.0-preview3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/8.5.0-preview3/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 8.5.0-preview3.
+
+PACKAGE: FluentValidation.
+VERSION: 8.5.0-preview4.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/8.5.0-preview4/fluentvalidation.8.5.0-preview4.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/8.5.0-preview4/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 8.5.0-preview4.
+
+PACKAGE: FluentValidation.
+VERSION: 8.5.0-preview5.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/8.5.0-preview5/fluentvalidation.8.5.0-preview5.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/8.5.0-preview5/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 8.5.0-preview5.
+
+PACKAGE: FluentValidation.
+VERSION: 8.5.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/8.5.0/fluentvalidation.8.5.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/8.5.0/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 8.5.0.
+
+PACKAGE: FluentValidation.
+VERSION: 8.5.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/8.5.1/fluentvalidation.8.5.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/8.5.1/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 8.5.1.
+
+PACKAGE: FluentValidation.
+VERSION: 8.6.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/8.6.0/fluentvalidation.8.6.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/8.6.0/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 8.6.0.
+
+PACKAGE: FluentValidation.
+VERSION: 8.6.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/8.6.1/fluentvalidation.8.6.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/8.6.1/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 8.6.1.
+
+PACKAGE: FluentValidation.
+VERSION: 8.6.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/8.6.2/fluentvalidation.8.6.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/8.6.2/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 8.6.2.
+
+PACKAGE: FluentValidation.
+VERSION: 8.6.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/8.6.3/fluentvalidation.8.6.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/8.6.3/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 8.6.3.
+
+PACKAGE: FluentValidation.
+VERSION: 9.0.0-preview1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/9.0.0-preview1/fluentvalidation.9.0.0-preview1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/9.0.0-preview1/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 9.0.0-preview1.
+
+PACKAGE: FluentValidation.
+VERSION: 9.0.0-preview2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/9.0.0-preview2/fluentvalidation.9.0.0-preview2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/9.0.0-preview2/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 9.0.0-preview2.
+
+PACKAGE: FluentValidation.
+VERSION: 9.0.0-preview3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/9.0.0-preview3/fluentvalidation.9.0.0-preview3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/9.0.0-preview3/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 9.0.0-preview3.
+
+PACKAGE: FluentValidation.
+VERSION: 9.0.0-preview4.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/9.0.0-preview4/fluentvalidation.9.0.0-preview4.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/9.0.0-preview4/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 9.0.0-preview4.
+
+PACKAGE: FluentValidation.
+VERSION: 9.0.0-preview5.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/9.0.0-preview5/fluentvalidation.9.0.0-preview5.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/9.0.0-preview5/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 9.0.0-preview5.
+
+PACKAGE: FluentValidation.
+VERSION: 9.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/9.0.0/fluentvalidation.9.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/9.0.0/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 9.0.0.
+
+PACKAGE: FluentValidation.
+VERSION: 9.0.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/9.0.1/fluentvalidation.9.0.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/9.0.1/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 9.0.1.
+
+PACKAGE: FluentValidation.
+VERSION: 9.1.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/9.1.0/fluentvalidation.9.1.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/9.1.0/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 9.1.0.
+
+PACKAGE: FluentValidation.
+VERSION: 9.1.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/9.1.1/fluentvalidation.9.1.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/9.1.1/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 9.1.1.
+
+PACKAGE: FluentValidation.
+VERSION: 9.1.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/9.1.2/fluentvalidation.9.1.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/9.1.2/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 9.1.2.
+
+PACKAGE: FluentValidation.
+VERSION: 9.1.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/9.1.3/fluentvalidation.9.1.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/9.1.3/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 9.1.3.
+
+PACKAGE: FluentValidation.
+VERSION: 9.2.0-ci-6.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/9.2.0-ci-6/fluentvalidation.9.2.0-ci-6.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/9.2.0-ci-6/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 9.2.0-ci-6.
+
+PACKAGE: FluentValidation.
+VERSION: 9.2.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/9.2.0/fluentvalidation.9.2.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/9.2.0/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 9.2.0.
+
+PACKAGE: FluentValidation.
+VERSION: 9.2.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/9.2.1/fluentvalidation.9.2.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/9.2.1/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 9.2.1.
+
+PACKAGE: FluentValidation.
+VERSION: 9.2.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/9.2.2/fluentvalidation.9.2.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/9.2.2/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 9.2.2.
+
+PACKAGE: FluentValidation.
+VERSION: 9.3.0-preview1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/9.3.0-preview1/fluentvalidation.9.3.0-preview1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/9.3.0-preview1/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 9.3.0-preview1.
+
+PACKAGE: FluentValidation.
+VERSION: 9.3.0-preview2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/9.3.0-preview2/fluentvalidation.9.3.0-preview2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/9.3.0-preview2/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 9.3.0-preview2.
+
+PACKAGE: FluentValidation.
+VERSION: 9.3.0-preview3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/9.3.0-preview3/fluentvalidation.9.3.0-preview3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/9.3.0-preview3/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 9.3.0-preview3.
+
+PACKAGE: FluentValidation.
+VERSION: 9.3.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/9.3.0/fluentvalidation.9.3.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/9.3.0/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 9.3.0.
+
+PACKAGE: FluentValidation.
+VERSION: 9.4.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/9.4.0/fluentvalidation.9.4.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/9.4.0/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 9.4.0.
+
+PACKAGE: FluentValidation.
+VERSION: 9.5.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/9.5.0/fluentvalidation.9.5.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/9.5.0/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 9.5.0.
+
+PACKAGE: FluentValidation.
+VERSION: 9.5.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/9.5.1/fluentvalidation.9.5.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/9.5.1/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 9.5.1.
+
+PACKAGE: FluentValidation.
+VERSION: 9.5.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/9.5.2/fluentvalidation.9.5.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/9.5.2/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 9.5.2.
+
+PACKAGE: FluentValidation.
+VERSION: 9.5.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/9.5.3/fluentvalidation.9.5.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/9.5.3/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 9.5.3.
+
+PACKAGE: FluentValidation.
+VERSION: 9.5.4.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/9.5.4/fluentvalidation.9.5.4.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/9.5.4/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 9.5.4.
+
+PACKAGE: FluentValidation.
+VERSION: 10.0.0-preview1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/10.0.0-preview1/fluentvalidation.10.0.0-preview1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/10.0.0-preview1/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 10.0.0-preview1.
+
+PACKAGE: FluentValidation.
+VERSION: 10.0.0-preview2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/10.0.0-preview2/fluentvalidation.10.0.0-preview2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/10.0.0-preview2/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 10.0.0-preview2.
+
+PACKAGE: FluentValidation.
+VERSION: 10.0.0-preview3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/10.0.0-preview3/fluentvalidation.10.0.0-preview3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/10.0.0-preview3/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 10.0.0-preview3.
+
+PACKAGE: FluentValidation.
+VERSION: 10.0.0-preview4.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/10.0.0-preview4/fluentvalidation.10.0.0-preview4.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/10.0.0-preview4/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 10.0.0-preview4.
+
+PACKAGE: FluentValidation.
+VERSION: 10.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/10.0.0/fluentvalidation.10.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/10.0.0/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 10.0.0.
+
+PACKAGE: FluentValidation.
+VERSION: 10.0.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/10.0.1/fluentvalidation.10.0.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/10.0.1/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 10.0.1.
+
+PACKAGE: FluentValidation.
+VERSION: 10.0.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/10.0.2/fluentvalidation.10.0.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/10.0.2/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 10.0.2.
+
+PACKAGE: FluentValidation.
+VERSION: 10.0.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/10.0.3/fluentvalidation.10.0.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/10.0.3/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 10.0.3.
+
+PACKAGE: FluentValidation.
+VERSION: 10.0.4.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/10.0.4/fluentvalidation.10.0.4.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/10.0.4/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 10.0.4.
+
+PACKAGE: FluentValidation.
+VERSION: 10.1.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/10.1.0/fluentvalidation.10.1.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/10.1.0/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 10.1.0.
+
+PACKAGE: FluentValidation.
+VERSION: 10.2.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/10.2.0/fluentvalidation.10.2.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/10.2.0/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 10.2.0.
+
+PACKAGE: FluentValidation.
+VERSION: 10.2.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/10.2.1/fluentvalidation.10.2.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/10.2.1/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 10.2.1.
+
+PACKAGE: FluentValidation.
+VERSION: 10.2.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/10.2.2/fluentvalidation.10.2.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/10.2.2/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 10.2.2.
+
+PACKAGE: FluentValidation.
+VERSION: 10.2.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/10.2.3/fluentvalidation.10.2.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/10.2.3/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 10.2.3.
+
+PACKAGE: FluentValidation.
+VERSION: 10.3.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/10.3.0/fluentvalidation.10.3.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/10.3.0/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 10.3.0.
+
+PACKAGE: FluentValidation.
+VERSION: 10.3.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/10.3.1/fluentvalidation.10.3.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/10.3.1/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 10.3.1.
+
+PACKAGE: FluentValidation.
+VERSION: 10.3.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/10.3.2/fluentvalidation.10.3.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/10.3.2/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 10.3.2.
+
+PACKAGE: FluentValidation.
+VERSION: 10.3.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/10.3.3/fluentvalidation.10.3.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/10.3.3/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 10.3.3.
+
+PACKAGE: FluentValidation.
+VERSION: 10.3.4.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/10.3.4/fluentvalidation.10.3.4.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/10.3.4/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 10.3.4.
+
+PACKAGE: FluentValidation.
+VERSION: 10.3.5.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/10.3.5/fluentvalidation.10.3.5.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/10.3.5/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 10.3.5.
+
+PACKAGE: FluentValidation.
+VERSION: 10.3.6.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/10.3.6/fluentvalidation.10.3.6.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/10.3.6/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 10.3.6.
+
+PACKAGE: FluentValidation.
+VERSION: 10.4.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/10.4.0/fluentvalidation.10.4.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/10.4.0/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 10.4.0.
+
+PACKAGE: FluentValidation.
+VERSION: 11.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/11.0.0/fluentvalidation.11.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/11.0.0/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 11.0.0.
+
+PACKAGE: FluentValidation.
+VERSION: 11.0.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/11.0.1/fluentvalidation.11.0.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/11.0.1/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 11.0.1.
+
+PACKAGE: FluentValidation.
+VERSION: 11.0.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/11.0.2/fluentvalidation.11.0.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/11.0.2/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 11.0.2.
+
+PACKAGE: FluentValidation.
+VERSION: 11.0.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/11.0.3/fluentvalidation.11.0.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/11.0.3/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 11.0.3.
+
+PACKAGE: FluentValidation.
+VERSION: 11.1.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/11.1.0/fluentvalidation.11.1.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/11.1.0/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 11.1.0.
+
+PACKAGE: FluentValidation.
+VERSION: 11.1.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/11.1.1/fluentvalidation.11.1.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/11.1.1/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 11.1.1.
+
+PACKAGE: FluentValidation.
+VERSION: 11.2.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/11.2.0/fluentvalidation.11.2.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/11.2.0/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 11.2.0.
+
+PACKAGE: FluentValidation.
+VERSION: 11.2.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/11.2.1/fluentvalidation.11.2.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/11.2.1/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 11.2.1.
+
+PACKAGE: FluentValidation.
+VERSION: 11.2.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/11.2.2/fluentvalidation.11.2.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/11.2.2/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 11.2.2.
+
+PACKAGE: FluentValidation.
+VERSION: 11.3.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/11.3.0/fluentvalidation.11.3.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/11.3.0/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 11.3.0.
+
+PACKAGE: FluentValidation.
+VERSION: 11.4.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/11.4.0/fluentvalidation.11.4.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/11.4.0/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 11.4.0.
+
+PACKAGE: FluentValidation.
+VERSION: 11.5.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/11.5.0/fluentvalidation.11.5.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/11.5.0/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 11.5.0.
+
+PACKAGE: FluentValidation.
+VERSION: 11.5.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/11.5.1/fluentvalidation.11.5.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/11.5.1/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 11.5.1.
+
+PACKAGE: FluentValidation.
+VERSION: 11.5.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/11.5.2/fluentvalidation.11.5.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/11.5.2/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 11.5.2.
+
+PACKAGE: FluentValidation.
+VERSION: 11.6.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/11.6.0/fluentvalidation.11.6.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/11.6.0/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 11.6.0.
+
+PACKAGE: FluentValidation.
+VERSION: 11.7.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/11.7.0/fluentvalidation.11.7.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/11.7.0/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 11.7.0.
+
+PACKAGE: FluentValidation.
+VERSION: 11.7.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/11.7.1/fluentvalidation.11.7.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/11.7.1/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 11.7.1.
+
+PACKAGE: FluentValidation.
+VERSION: 11.8.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/11.8.0/fluentvalidation.11.8.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/11.8.0/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 11.8.0.
+
+PACKAGE: FluentValidation.
+VERSION: 11.8.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/11.8.1/fluentvalidation.11.8.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/11.8.1/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 11.8.1.
+
+PACKAGE: FluentValidation.
+VERSION: 11.9.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/11.9.0/fluentvalidation.11.9.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/11.9.0/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 11.9.0.
+
+PACKAGE: FluentValidation.
+VERSION: 11.9.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/11.9.1/fluentvalidation.11.9.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/11.9.1/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 11.9.1.
+
+PACKAGE: FluentValidation.
+VERSION: 11.9.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/11.9.2/fluentvalidation.11.9.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/11.9.2/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 11.9.2.
+
+PACKAGE: FluentValidation.
+VERSION: 11.10.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/11.10.0/fluentvalidation.11.10.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/11.10.0/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 11.10.0.
+
+PACKAGE: FluentValidation.
+VERSION: 11.11.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/11.11.0/fluentvalidation.11.11.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/11.11.0/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 11.11.0.
+
+PACKAGE: FluentValidation.
+VERSION: 11.12.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/11.12.0/fluentvalidation.11.12.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/11.12.0/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 11.12.0.
+
+PACKAGE: FluentValidation.
+VERSION: 12.0.0-preview1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/12.0.0-preview1/fluentvalidation.12.0.0-preview1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/12.0.0-preview1/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 12.0.0-preview1.
+
+PACKAGE: FluentValidation.
+VERSION: 12.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/12.0.0/fluentvalidation.12.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/12.0.0/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 12.0.0.
+
+PACKAGE: FluentValidation.
+VERSION: 12.1.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/12.1.0/fluentvalidation.12.1.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/12.1.0/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 12.1.0.
+
+PACKAGE: FluentValidation.
+VERSION: 12.1.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/12.1.1/fluentvalidation.12.1.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/fluentvalidation/12.1.1/fluentvalidation.nuspec.
+INSTALL_COMMAND: dotnet add package FluentValidation --version 12.1.1.

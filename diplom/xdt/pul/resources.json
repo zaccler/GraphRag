@@ -1,0 +1,71 @@
+{
+  "defaults": {
+    "headers": {
+      "User-Agent": "GraphRAG-XDT/0.1"
+    },
+    "timeout_sec": 30,
+    "retries": 2,
+    "backoff_sec": [1, 3, 7]
+  },
+  "resources": [
+    {
+      "name": "github",
+      "hosts": ["api.github.com", "github.com"],
+      "token_env": "GITHUB_TOKEN",
+      "token_header": "Authorization",
+      "token_prefix": "Bearer",
+      "timeout_sec": 30,
+      "retries": 3,
+      "backoff_sec": [2, 5, 10]
+    },
+    {
+      "name": "nuget",
+      "hosts": ["api.nuget.org"],
+      "timeout_sec": 30,
+      "retries": 3,
+      "backoff_sec": [2, 5, 10]
+    },
+    {
+      "name": "pypi",
+      "hosts": ["pypi.org", "files.pythonhosted.org"],
+      "timeout_sec": 30,
+      "retries": 3,
+      "backoff_sec": [2, 5, 10]
+    },
+    {
+      "name": "npm",
+      "hosts": ["registry.npmjs.org"],
+      "timeout_sec": 30,
+      "retries": 3,
+      "backoff_sec": [2, 5, 10]
+    },
+    {
+      "name": "maven",
+      "hosts": ["search.maven.org", "repo1.maven.org"],
+      "timeout_sec": 30,
+      "retries": 3,
+      "backoff_sec": [2, 5, 10]
+    },
+    {
+      "name": "crates",
+      "hosts": ["crates.io"],
+      "timeout_sec": 30,
+      "retries": 3,
+      "backoff_sec": [2, 5, 10]
+    },
+    {
+      "name": "dockerhub",
+      "hosts": ["registry.hub.docker.com", "hub.docker.com"],
+      "timeout_sec": 30,
+      "retries": 3,
+      "backoff_sec": [2, 5, 10]
+    },
+    {
+      "name": "go",
+      "hosts": ["proxy.golang.org", "pkg.go.dev"],
+      "timeout_sec": 30,
+      "retries": 3,
+      "backoff_sec": [2, 5, 10]
+    }
+  ]
+}

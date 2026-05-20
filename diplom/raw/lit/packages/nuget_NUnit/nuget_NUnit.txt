@@ -1,0 +1,219 @@
+URL: https://www.nuget.org/packages/NUnit
+TITLE: NuGet package: NUnit
+
+SOURCE_TYPE: nuget_package.
+PACKAGE_MANAGER: NuGet.
+PACKAGE_ID: NUnit.
+SOURCE_URL: https://www.nuget.org/packages/NUnit.
+
+NuGet package versions with direct .nupkg installer/package download links.
+
+PACKAGE: NUnit.
+VERSION: 3.7.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nunit/3.7.0/nunit.3.7.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nunit/3.7.0/nunit.nuspec.
+INSTALL_COMMAND: dotnet add package NUnit --version 3.7.0.
+
+PACKAGE: NUnit.
+VERSION: 3.7.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nunit/3.7.1/nunit.3.7.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nunit/3.7.1/nunit.nuspec.
+INSTALL_COMMAND: dotnet add package NUnit --version 3.7.1.
+
+PACKAGE: NUnit.
+VERSION: 3.8.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nunit/3.8.0/nunit.3.8.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nunit/3.8.0/nunit.nuspec.
+INSTALL_COMMAND: dotnet add package NUnit --version 3.8.0.
+
+PACKAGE: NUnit.
+VERSION: 3.8.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nunit/3.8.1/nunit.3.8.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nunit/3.8.1/nunit.nuspec.
+INSTALL_COMMAND: dotnet add package NUnit --version 3.8.1.
+
+PACKAGE: NUnit.
+VERSION: 3.9.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nunit/3.9.0/nunit.3.9.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nunit/3.9.0/nunit.nuspec.
+INSTALL_COMMAND: dotnet add package NUnit --version 3.9.0.
+
+PACKAGE: NUnit.
+VERSION: 3.10.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nunit/3.10.0/nunit.3.10.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nunit/3.10.0/nunit.nuspec.
+INSTALL_COMMAND: dotnet add package NUnit --version 3.10.0.
+
+PACKAGE: NUnit.
+VERSION: 3.10.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nunit/3.10.1/nunit.3.10.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nunit/3.10.1/nunit.nuspec.
+INSTALL_COMMAND: dotnet add package NUnit --version 3.10.1.
+
+PACKAGE: NUnit.
+VERSION: 3.11.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nunit/3.11.0/nunit.3.11.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nunit/3.11.0/nunit.nuspec.
+INSTALL_COMMAND: dotnet add package NUnit --version 3.11.0.
+
+PACKAGE: NUnit.
+VERSION: 3.12.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nunit/3.12.0/nunit.3.12.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nunit/3.12.0/nunit.nuspec.
+INSTALL_COMMAND: dotnet add package NUnit --version 3.12.0.
+
+PACKAGE: NUnit.
+VERSION: 3.13.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nunit/3.13.0/nunit.3.13.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nunit/3.13.0/nunit.nuspec.
+INSTALL_COMMAND: dotnet add package NUnit --version 3.13.0.
+
+PACKAGE: NUnit.
+VERSION: 3.13.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nunit/3.13.1/nunit.3.13.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nunit/3.13.1/nunit.nuspec.
+INSTALL_COMMAND: dotnet add package NUnit --version 3.13.1.
+
+PACKAGE: NUnit.
+VERSION: 3.13.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nunit/3.13.2/nunit.3.13.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nunit/3.13.2/nunit.nuspec.
+INSTALL_COMMAND: dotnet add package NUnit --version 3.13.2.
+
+PACKAGE: NUnit.
+VERSION: 3.13.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nunit/3.13.3/nunit.3.13.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nunit/3.13.3/nunit.nuspec.
+INSTALL_COMMAND: dotnet add package NUnit --version 3.13.3.
+
+PACKAGE: NUnit.
+VERSION: 3.14.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nunit/3.14.0/nunit.3.14.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nunit/3.14.0/nunit.nuspec.
+INSTALL_COMMAND: dotnet add package NUnit --version 3.14.0.
+
+PACKAGE: NUnit.
+VERSION: 4.0.0-beta.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nunit/4.0.0-beta.1/nunit.4.0.0-beta.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nunit/4.0.0-beta.1/nunit.nuspec.
+INSTALL_COMMAND: dotnet add package NUnit --version 4.0.0-beta.1.
+
+PACKAGE: NUnit.
+VERSION: 4.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nunit/4.0.0/nunit.4.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nunit/4.0.0/nunit.nuspec.
+INSTALL_COMMAND: dotnet add package NUnit --version 4.0.0.
+
+PACKAGE: NUnit.
+VERSION: 4.0.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nunit/4.0.1/nunit.4.0.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nunit/4.0.1/nunit.nuspec.
+INSTALL_COMMAND: dotnet add package NUnit --version 4.0.1.
+
+PACKAGE: NUnit.
+VERSION: 4.1.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nunit/4.1.0/nunit.4.1.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nunit/4.1.0/nunit.nuspec.
+INSTALL_COMMAND: dotnet add package NUnit --version 4.1.0.
+
+PACKAGE: NUnit.
+VERSION: 4.2.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nunit/4.2.0/nunit.4.2.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nunit/4.2.0/nunit.nuspec.
+INSTALL_COMMAND: dotnet add package NUnit --version 4.2.0.
+
+PACKAGE: NUnit.
+VERSION: 4.2.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nunit/4.2.1/nunit.4.2.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nunit/4.2.1/nunit.nuspec.
+INSTALL_COMMAND: dotnet add package NUnit --version 4.2.1.
+
+PACKAGE: NUnit.
+VERSION: 4.2.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nunit/4.2.2/nunit.4.2.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nunit/4.2.2/nunit.nuspec.
+INSTALL_COMMAND: dotnet add package NUnit --version 4.2.2.
+
+PACKAGE: NUnit.
+VERSION: 4.3.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nunit/4.3.0/nunit.4.3.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nunit/4.3.0/nunit.nuspec.
+INSTALL_COMMAND: dotnet add package NUnit --version 4.3.0.
+
+PACKAGE: NUnit.
+VERSION: 4.3.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nunit/4.3.1/nunit.4.3.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nunit/4.3.1/nunit.nuspec.
+INSTALL_COMMAND: dotnet add package NUnit --version 4.3.1.
+
+PACKAGE: NUnit.
+VERSION: 4.3.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nunit/4.3.2/nunit.4.3.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nunit/4.3.2/nunit.nuspec.
+INSTALL_COMMAND: dotnet add package NUnit --version 4.3.2.
+
+PACKAGE: NUnit.
+VERSION: 4.4.0-beta.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nunit/4.4.0-beta.1/nunit.4.4.0-beta.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nunit/4.4.0-beta.1/nunit.nuspec.
+INSTALL_COMMAND: dotnet add package NUnit --version 4.4.0-beta.1.
+
+PACKAGE: NUnit.
+VERSION: 4.4.0-beta.2.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nunit/4.4.0-beta.2.1/nunit.4.4.0-beta.2.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nunit/4.4.0-beta.2.1/nunit.nuspec.
+INSTALL_COMMAND: dotnet add package NUnit --version 4.4.0-beta.2.1.
+
+PACKAGE: NUnit.
+VERSION: 4.4.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nunit/4.4.0/nunit.4.4.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nunit/4.4.0/nunit.nuspec.
+INSTALL_COMMAND: dotnet add package NUnit --version 4.4.0.
+
+PACKAGE: NUnit.
+VERSION: 4.5.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nunit/4.5.0/nunit.4.5.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nunit/4.5.0/nunit.nuspec.
+INSTALL_COMMAND: dotnet add package NUnit --version 4.5.0.
+
+PACKAGE: NUnit.
+VERSION: 4.5.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nunit/4.5.1/nunit.4.5.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nunit/4.5.1/nunit.nuspec.
+INSTALL_COMMAND: dotnet add package NUnit --version 4.5.1.
+
+PACKAGE: NUnit.
+VERSION: 4.6.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nunit/4.6.0/nunit.4.6.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nunit/4.6.0/nunit.nuspec.
+INSTALL_COMMAND: dotnet add package NUnit --version 4.6.0.

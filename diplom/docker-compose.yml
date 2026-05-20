@@ -1,0 +1,63 @@
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: diplom-api
+    depends_on:
+      - dgraph-alpha
+    env_file:
+      - .env
+    environment:
+      DGRAPH_ADDRESS: dgraph-alpha:9080
+      RAW_LIT_DIR: raw/lit
+      GENERATED_DIR: raw/generated
+      STORAGE_DIR: storage/ragu_graph
+      DHB_DIR: dhb/data
+      DOCS_REGISTRY_PATH: xdt/rpo/docs_registry.json
+      PACKAGE_REGISTRY_PATH: xdt/rpo/packages.txt
+    ports:
+      - "8099:8099"
+    volumes:
+      - ./raw:/app/raw
+      - ./storage:/app/storage
+      - ./dhb/data:/app/dhb/data
+      - ./xdt/rpo:/app/xdt/rpo
+    restart: unless-stopped
+
+  dgraph-zero:
+    image: dgraph/dgraph:latest
+    container_name: dgraph-zero
+    command: dgraph zero --my=dgraph-zero:5080
+    ports:
+      - "5080:5080"
+      - "6080:6080"
+    volumes:
+      - dgraph_zero:/dgraph
+
+  dgraph-alpha:
+    image: dgraph/dgraph:latest
+    container_name: dgraph-alpha
+    depends_on:
+      - dgraph-zero
+    command: >
+      dgraph alpha
+      --my=dgraph-alpha:7080
+      --zero=dgraph-zero:5080
+      --security "whitelist=0.0.0.0/0"
+    ports:
+      - "8080:8080"
+      - "9080:9080"
+    volumes:
+      - dgraph_alpha:/dgraph
+  dgraph-ratel:
+    image: dgraph/ratel:latest
+    container_name: dgraph-ratel
+    depends_on:
+      - dgraph-alpha
+    ports:
+      - "8000:8000"
+
+volumes:
+  dgraph_zero:
+  dgraph_alpha:

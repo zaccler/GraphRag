@@ -1,0 +1,709 @@
+﻿URL: https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.
+TITLE: NuGet package: Microsoft.EntityFrameworkCore.
+
+SOURCE_TYPE: nuget_package.
+PACKAGE_MANAGER: NuGet.
+PACKAGE_ID: Microsoft.EntityFrameworkCore.
+SOURCE_URL: https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.
+
+NuGet package versions with direct .nupkg installer/package download links.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 7.0.4.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/7.0.4/microsoft.entityframeworkcore.7.0.4.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/7.0.4/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 7.0.4.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 7.0.5.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/7.0.5/microsoft.entityframeworkcore.7.0.5.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/7.0.5/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 7.0.5.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 7.0.7.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/7.0.7/microsoft.entityframeworkcore.7.0.7.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/7.0.7/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 7.0.7.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 7.0.8.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/7.0.8/microsoft.entityframeworkcore.7.0.8.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/7.0.8/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 7.0.8.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 7.0.9.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/7.0.9/microsoft.entityframeworkcore.7.0.9.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/7.0.9/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 7.0.9.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 7.0.10.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/7.0.10/microsoft.entityframeworkcore.7.0.10.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/7.0.10/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 7.0.10.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 7.0.11.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/7.0.11/microsoft.entityframeworkcore.7.0.11.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/7.0.11/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 7.0.11.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 7.0.12.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/7.0.12/microsoft.entityframeworkcore.7.0.12.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/7.0.12/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 7.0.12.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 7.0.13.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/7.0.13/microsoft.entityframeworkcore.7.0.13.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/7.0.13/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 7.0.13.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 7.0.14.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/7.0.14/microsoft.entityframeworkcore.7.0.14.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/7.0.14/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 7.0.14.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 7.0.15.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/7.0.15/microsoft.entityframeworkcore.7.0.15.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/7.0.15/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 7.0.15.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 7.0.16.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/7.0.16/microsoft.entityframeworkcore.7.0.16.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/7.0.16/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 7.0.16.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 7.0.17.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/7.0.17/microsoft.entityframeworkcore.7.0.17.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/7.0.17/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 7.0.17.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 7.0.18.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/7.0.18/microsoft.entityframeworkcore.7.0.18.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/7.0.18/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 7.0.18.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 7.0.19.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/7.0.19/microsoft.entityframeworkcore.7.0.19.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/7.0.19/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 7.0.19.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 7.0.20.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/7.0.20/microsoft.entityframeworkcore.7.0.20.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/7.0.20/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 7.0.20.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 8.0.0-preview.1.23111.4.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.0-preview.1.23111.4/microsoft.entityframeworkcore.8.0.0-preview.1.23111.4.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.0-preview.1.23111.4/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 8.0.0-preview.1.23111.4.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 8.0.0-preview.2.23128.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.0-preview.2.23128.3/microsoft.entityframeworkcore.8.0.0-preview.2.23128.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.0-preview.2.23128.3/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 8.0.0-preview.2.23128.3.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 8.0.0-preview.3.23174.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.0-preview.3.23174.2/microsoft.entityframeworkcore.8.0.0-preview.3.23174.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.0-preview.3.23174.2/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 8.0.0-preview.3.23174.2.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 8.0.0-preview.4.23259.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.0-preview.4.23259.3/microsoft.entityframeworkcore.8.0.0-preview.4.23259.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.0-preview.4.23259.3/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 8.0.0-preview.4.23259.3.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 8.0.0-preview.5.23280.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.0-preview.5.23280.1/microsoft.entityframeworkcore.8.0.0-preview.5.23280.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.0-preview.5.23280.1/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 8.0.0-preview.5.23280.1.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 8.0.0-preview.6.23329.4.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.0-preview.6.23329.4/microsoft.entityframeworkcore.8.0.0-preview.6.23329.4.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.0-preview.6.23329.4/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 8.0.0-preview.6.23329.4.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 8.0.0-preview.7.23375.4.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.0-preview.7.23375.4/microsoft.entityframeworkcore.8.0.0-preview.7.23375.4.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.0-preview.7.23375.4/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 8.0.0-preview.7.23375.4.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 8.0.0-rc.1.23419.6.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.0-rc.1.23419.6/microsoft.entityframeworkcore.8.0.0-rc.1.23419.6.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.0-rc.1.23419.6/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 8.0.0-rc.1.23419.6.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 8.0.0-rc.2.23480.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.0-rc.2.23480.1/microsoft.entityframeworkcore.8.0.0-rc.2.23480.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.0-rc.2.23480.1/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 8.0.0-rc.2.23480.1.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 8.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.0/microsoft.entityframeworkcore.8.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.0/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 8.0.0.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 8.0.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.1/microsoft.entityframeworkcore.8.0.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.1/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 8.0.1.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 8.0.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.2/microsoft.entityframeworkcore.8.0.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.2/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 8.0.2.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 8.0.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.3/microsoft.entityframeworkcore.8.0.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.3/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 8.0.3.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 8.0.4.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.4/microsoft.entityframeworkcore.8.0.4.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.4/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 8.0.4.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 8.0.5.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.5/microsoft.entityframeworkcore.8.0.5.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.5/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 8.0.5.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 8.0.6.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.6/microsoft.entityframeworkcore.8.0.6.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.6/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 8.0.6.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 8.0.7.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.7/microsoft.entityframeworkcore.8.0.7.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.7/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 8.0.7.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 8.0.8.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.8/microsoft.entityframeworkcore.8.0.8.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.8/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 8.0.8.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 8.0.10.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.10/microsoft.entityframeworkcore.8.0.10.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.10/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 8.0.10.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 8.0.11.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.11/microsoft.entityframeworkcore.8.0.11.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.11/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 8.0.11.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 8.0.12.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.12/microsoft.entityframeworkcore.8.0.12.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.12/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 8.0.12.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 8.0.13.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.13/microsoft.entityframeworkcore.8.0.13.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.13/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 8.0.13.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 8.0.14.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.14/microsoft.entityframeworkcore.8.0.14.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.14/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 8.0.14.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 8.0.15.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.15/microsoft.entityframeworkcore.8.0.15.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.15/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 8.0.15.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 8.0.16.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.16/microsoft.entityframeworkcore.8.0.16.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.16/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 8.0.16.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 8.0.17.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.17/microsoft.entityframeworkcore.8.0.17.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.17/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 8.0.17.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 8.0.18.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.18/microsoft.entityframeworkcore.8.0.18.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.18/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 8.0.18.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 8.0.19.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.19/microsoft.entityframeworkcore.8.0.19.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.19/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 8.0.19.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 8.0.20.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.20/microsoft.entityframeworkcore.8.0.20.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.20/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 8.0.20.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 8.0.21.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.21/microsoft.entityframeworkcore.8.0.21.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.21/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 8.0.21.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 8.0.22.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.22/microsoft.entityframeworkcore.8.0.22.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.22/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 8.0.22.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 8.0.23.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.23/microsoft.entityframeworkcore.8.0.23.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.23/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 8.0.23.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 8.0.24.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.24/microsoft.entityframeworkcore.8.0.24.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.24/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 8.0.24.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 8.0.25.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.25/microsoft.entityframeworkcore.8.0.25.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.25/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 8.0.25.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 8.0.26.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.26/microsoft.entityframeworkcore.8.0.26.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.26/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 8.0.26.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 8.0.27.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.27/microsoft.entityframeworkcore.8.0.27.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/8.0.27/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 8.0.27.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 9.0.0-preview.1.24081.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/9.0.0-preview.1.24081.2/microsoft.entityframeworkcore.9.0.0-preview.1.24081.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/9.0.0-preview.1.24081.2/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 9.0.0-preview.1.24081.2.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 9.0.0-preview.2.24128.4.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/9.0.0-preview.2.24128.4/microsoft.entityframeworkcore.9.0.0-preview.2.24128.4.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/9.0.0-preview.2.24128.4/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 9.0.0-preview.2.24128.4.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 9.0.0-preview.3.24172.4.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/9.0.0-preview.3.24172.4/microsoft.entityframeworkcore.9.0.0-preview.3.24172.4.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/9.0.0-preview.3.24172.4/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 9.0.0-preview.3.24172.4.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 9.0.0-preview.4.24267.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/9.0.0-preview.4.24267.1/microsoft.entityframeworkcore.9.0.0-preview.4.24267.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/9.0.0-preview.4.24267.1/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 9.0.0-preview.4.24267.1.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 9.0.0-preview.5.24306.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/9.0.0-preview.5.24306.3/microsoft.entityframeworkcore.9.0.0-preview.5.24306.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/9.0.0-preview.5.24306.3/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 9.0.0-preview.5.24306.3.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 9.0.0-preview.6.24327.4.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/9.0.0-preview.6.24327.4/microsoft.entityframeworkcore.9.0.0-preview.6.24327.4.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/9.0.0-preview.6.24327.4/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 9.0.0-preview.6.24327.4.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 9.0.0-preview.7.24405.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/9.0.0-preview.7.24405.3/microsoft.entityframeworkcore.9.0.0-preview.7.24405.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/9.0.0-preview.7.24405.3/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 9.0.0-preview.7.24405.3.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 9.0.0-rc.1.24451.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/9.0.0-rc.1.24451.1/microsoft.entityframeworkcore.9.0.0-rc.1.24451.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/9.0.0-rc.1.24451.1/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 9.0.0-rc.1.24451.1.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 9.0.0-rc.2.24474.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/9.0.0-rc.2.24474.1/microsoft.entityframeworkcore.9.0.0-rc.2.24474.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/9.0.0-rc.2.24474.1/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 9.0.0-rc.2.24474.1.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 9.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/9.0.0/microsoft.entityframeworkcore.9.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/9.0.0/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 9.0.0.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 9.0.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/9.0.1/microsoft.entityframeworkcore.9.0.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/9.0.1/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 9.0.1.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 9.0.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/9.0.2/microsoft.entityframeworkcore.9.0.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/9.0.2/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 9.0.2.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 9.0.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/9.0.3/microsoft.entityframeworkcore.9.0.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/9.0.3/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 9.0.3.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 9.0.4.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/9.0.4/microsoft.entityframeworkcore.9.0.4.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/9.0.4/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 9.0.4.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 9.0.5.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/9.0.5/microsoft.entityframeworkcore.9.0.5.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/9.0.5/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 9.0.5.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 9.0.6.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/9.0.6/microsoft.entityframeworkcore.9.0.6.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/9.0.6/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 9.0.6.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 9.0.7.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/9.0.7/microsoft.entityframeworkcore.9.0.7.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/9.0.7/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 9.0.7.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 9.0.8.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/9.0.8/microsoft.entityframeworkcore.9.0.8.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/9.0.8/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 9.0.8.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 9.0.9.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/9.0.9/microsoft.entityframeworkcore.9.0.9.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/9.0.9/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 9.0.9.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 9.0.10.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/9.0.10/microsoft.entityframeworkcore.9.0.10.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/9.0.10/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 9.0.10.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 9.0.11.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/9.0.11/microsoft.entityframeworkcore.9.0.11.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/9.0.11/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 9.0.11.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 9.0.12.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/9.0.12/microsoft.entityframeworkcore.9.0.12.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/9.0.12/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 9.0.12.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 9.0.13.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/9.0.13/microsoft.entityframeworkcore.9.0.13.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/9.0.13/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 9.0.13.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 9.0.14.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/9.0.14/microsoft.entityframeworkcore.9.0.14.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/9.0.14/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 9.0.14.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 9.0.15.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/9.0.15/microsoft.entityframeworkcore.9.0.15.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/9.0.15/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 9.0.15.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 9.0.16.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/9.0.16/microsoft.entityframeworkcore.9.0.16.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/9.0.16/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 9.0.16.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 10.0.0-preview.1.25081.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/10.0.0-preview.1.25081.1/microsoft.entityframeworkcore.10.0.0-preview.1.25081.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/10.0.0-preview.1.25081.1/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 10.0.0-preview.1.25081.1.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 10.0.0-preview.2.25163.8.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/10.0.0-preview.2.25163.8/microsoft.entityframeworkcore.10.0.0-preview.2.25163.8.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/10.0.0-preview.2.25163.8/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 10.0.0-preview.2.25163.8.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 10.0.0-preview.3.25171.6.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/10.0.0-preview.3.25171.6/microsoft.entityframeworkcore.10.0.0-preview.3.25171.6.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/10.0.0-preview.3.25171.6/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 10.0.0-preview.3.25171.6.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 10.0.0-preview.4.25258.110.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/10.0.0-preview.4.25258.110/microsoft.entityframeworkcore.10.0.0-preview.4.25258.110.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/10.0.0-preview.4.25258.110/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 10.0.0-preview.4.25258.110.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 10.0.0-preview.5.25277.114.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/10.0.0-preview.5.25277.114/microsoft.entityframeworkcore.10.0.0-preview.5.25277.114.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/10.0.0-preview.5.25277.114/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 10.0.0-preview.5.25277.114.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 10.0.0-preview.6.25358.103.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/10.0.0-preview.6.25358.103/microsoft.entityframeworkcore.10.0.0-preview.6.25358.103.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/10.0.0-preview.6.25358.103/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 10.0.0-preview.6.25358.103.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 10.0.0-preview.7.25380.108.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/10.0.0-preview.7.25380.108/microsoft.entityframeworkcore.10.0.0-preview.7.25380.108.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/10.0.0-preview.7.25380.108/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 10.0.0-preview.7.25380.108.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 10.0.0-rc.1.25451.107.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/10.0.0-rc.1.25451.107/microsoft.entityframeworkcore.10.0.0-rc.1.25451.107.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/10.0.0-rc.1.25451.107/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 10.0.0-rc.1.25451.107.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 10.0.0-rc.2.25502.107.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/10.0.0-rc.2.25502.107/microsoft.entityframeworkcore.10.0.0-rc.2.25502.107.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/10.0.0-rc.2.25502.107/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 10.0.0-rc.2.25502.107.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 10.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/10.0.0/microsoft.entityframeworkcore.10.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/10.0.0/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 10.0.0.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 10.0.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/10.0.1/microsoft.entityframeworkcore.10.0.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/10.0.1/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 10.0.1.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 10.0.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/10.0.2/microsoft.entityframeworkcore.10.0.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/10.0.2/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 10.0.2.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 10.0.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/10.0.3/microsoft.entityframeworkcore.10.0.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/10.0.3/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 10.0.3.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 10.0.4.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/10.0.4/microsoft.entityframeworkcore.10.0.4.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/10.0.4/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 10.0.4.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 10.0.5.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/10.0.5/microsoft.entityframeworkcore.10.0.5.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/10.0.5/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 10.0.5.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 10.0.6.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/10.0.6/microsoft.entityframeworkcore.10.0.6.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/10.0.6/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 10.0.6.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 10.0.7.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/10.0.7/microsoft.entityframeworkcore.10.0.7.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/10.0.7/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 10.0.7.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 10.0.8.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/10.0.8/microsoft.entityframeworkcore.10.0.8.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/10.0.8/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 10.0.8.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 11.0.0-preview.1.26104.118.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/11.0.0-preview.1.26104.118/microsoft.entityframeworkcore.11.0.0-preview.1.26104.118.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/11.0.0-preview.1.26104.118/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 11.0.0-preview.1.26104.118.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 11.0.0-preview.2.26159.112.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/11.0.0-preview.2.26159.112/microsoft.entityframeworkcore.11.0.0-preview.2.26159.112.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/11.0.0-preview.2.26159.112/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 11.0.0-preview.2.26159.112.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 11.0.0-preview.3.26207.106.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/11.0.0-preview.3.26207.106/microsoft.entityframeworkcore.11.0.0-preview.3.26207.106.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/11.0.0-preview.3.26207.106/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 11.0.0-preview.3.26207.106.
+
+PACKAGE: Microsoft.EntityFrameworkCore.
+VERSION: 11.0.0-preview.4.26230.115.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/11.0.0-preview.4.26230.115/microsoft.entityframeworkcore.11.0.0-preview.4.26230.115.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/11.0.0-preview.4.26230.115/microsoft.entityframeworkcore.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.EntityFrameworkCore --version 11.0.0-preview.4.26230.115.

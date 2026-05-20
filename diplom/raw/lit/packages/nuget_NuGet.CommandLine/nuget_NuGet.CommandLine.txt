@@ -1,0 +1,709 @@
+﻿URL: https://www.nuget.org/packages/NuGet.CommandLine.
+TITLE: NuGet package: NuGet.CommandLine.
+
+SOURCE_TYPE: nuget_package.
+PACKAGE_MANAGER: NuGet.
+PACKAGE_ID: NuGet.CommandLine.
+SOURCE_URL: https://www.nuget.org/packages/NuGet.CommandLine.
+
+NuGet package versions with direct .nupkg installer/package download links.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 3.5.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/3.5.0/nuget.commandline.3.5.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/3.5.0/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 3.5.0.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 4.0.0-rc2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/4.0.0-rc2/nuget.commandline.4.0.0-rc2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/4.0.0-rc2/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 4.0.0-rc2.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 4.1.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/4.1.0/nuget.commandline.4.1.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/4.1.0/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 4.1.0.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 4.3.0-preview3-4168.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/4.3.0-preview3-4168/nuget.commandline.4.3.0-preview3-4168.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/4.3.0-preview3-4168/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 4.3.0-preview3-4168.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 4.3.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/4.3.0/nuget.commandline.4.3.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/4.3.0/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 4.3.0.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 4.3.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/4.3.1/nuget.commandline.4.3.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/4.3.1/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 4.3.1.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 4.4.1-svc.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/4.4.1-svc/nuget.commandline.4.4.1-svc.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/4.4.1-svc/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 4.4.1-svc.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 4.4.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/4.4.1/nuget.commandline.4.4.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/4.4.1/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 4.4.1.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 4.4.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/4.4.2/nuget.commandline.4.4.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/4.4.2/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 4.4.2.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 4.4.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/4.4.3/nuget.commandline.4.4.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/4.4.3/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 4.4.3.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 4.5.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/4.5.0/nuget.commandline.4.5.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/4.5.0/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 4.5.0.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 4.5.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/4.5.1/nuget.commandline.4.5.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/4.5.1/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 4.5.1.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 4.5.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/4.5.2/nuget.commandline.4.5.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/4.5.2/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 4.5.2.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 4.5.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/4.5.3/nuget.commandline.4.5.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/4.5.3/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 4.5.3.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 4.6.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/4.6.2/nuget.commandline.4.6.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/4.6.2/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 4.6.2.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 4.6.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/4.6.3/nuget.commandline.4.6.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/4.6.3/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 4.6.3.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 4.6.4.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/4.6.4/nuget.commandline.4.6.4.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/4.6.4/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 4.6.4.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 4.7.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/4.7.0/nuget.commandline.4.7.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/4.7.0/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 4.7.0.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 4.7.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/4.7.1/nuget.commandline.4.7.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/4.7.1/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 4.7.1.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 4.7.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/4.7.2/nuget.commandline.4.7.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/4.7.2/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 4.7.2.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 4.7.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/4.7.3/nuget.commandline.4.7.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/4.7.3/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 4.7.3.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 4.8.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/4.8.2/nuget.commandline.4.8.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/4.8.2/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 4.8.2.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 4.9.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/4.9.2/nuget.commandline.4.9.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/4.9.2/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 4.9.2.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 4.9.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/4.9.3/nuget.commandline.4.9.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/4.9.3/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 4.9.3.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 4.9.4.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/4.9.4/nuget.commandline.4.9.4.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/4.9.4/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 4.9.4.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 4.9.5.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/4.9.5/nuget.commandline.4.9.5.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/4.9.5/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 4.9.5.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 4.9.6.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/4.9.6/nuget.commandline.4.9.6.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/4.9.6/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 4.9.6.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 4.9.7.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/4.9.7/nuget.commandline.4.9.7.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/4.9.7/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 4.9.7.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 5.0.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/5.0.2/nuget.commandline.5.0.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/5.0.2/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 5.0.2.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 5.1.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/5.1.0/nuget.commandline.5.1.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/5.1.0/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 5.1.0.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 5.2.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/5.2.0/nuget.commandline.5.2.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/5.2.0/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 5.2.0.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 5.2.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/5.2.1/nuget.commandline.5.2.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/5.2.1/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 5.2.1.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 5.3.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/5.3.0/nuget.commandline.5.3.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/5.3.0/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 5.3.0.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 5.3.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/5.3.1/nuget.commandline.5.3.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/5.3.1/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 5.3.1.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 5.4.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/5.4.0/nuget.commandline.5.4.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/5.4.0/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 5.4.0.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 5.5.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/5.5.1/nuget.commandline.5.5.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/5.5.1/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 5.5.1.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 5.6.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/5.6.0/nuget.commandline.5.6.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/5.6.0/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 5.6.0.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 5.7.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/5.7.0/nuget.commandline.5.7.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/5.7.0/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 5.7.0.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 5.7.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/5.7.1/nuget.commandline.5.7.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/5.7.1/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 5.7.1.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 5.7.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/5.7.2/nuget.commandline.5.7.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/5.7.2/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 5.7.2.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 5.7.3-rtm.5.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/5.7.3-rtm.5/nuget.commandline.5.7.3-rtm.5.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/5.7.3-rtm.5/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 5.7.3-rtm.5.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 5.8.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/5.8.0/nuget.commandline.5.8.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/5.8.0/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 5.8.0.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 5.8.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/5.8.1/nuget.commandline.5.8.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/5.8.1/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 5.8.1.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 5.9.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/5.9.1/nuget.commandline.5.9.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/5.9.1/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 5.9.1.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 5.9.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/5.9.2/nuget.commandline.5.9.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/5.9.2/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 5.9.2.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 5.9.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/5.9.3/nuget.commandline.5.9.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/5.9.3/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 5.9.3.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 5.10.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/5.10.0/nuget.commandline.5.10.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/5.10.0/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 5.10.0.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 5.11.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/5.11.0/nuget.commandline.5.11.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/5.11.0/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 5.11.0.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 5.11.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/5.11.2/nuget.commandline.5.11.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/5.11.2/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 5.11.2.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 5.11.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/5.11.3/nuget.commandline.5.11.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/5.11.3/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 5.11.3.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 5.11.5.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/5.11.5/nuget.commandline.5.11.5.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/5.11.5/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 5.11.5.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 5.11.6.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/5.11.6/nuget.commandline.5.11.6.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/5.11.6/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 5.11.6.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 5.11.7.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/5.11.7/nuget.commandline.5.11.7.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/5.11.7/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 5.11.7.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 6.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.0.0/nuget.commandline.6.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.0.0/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 6.0.0.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 6.0.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.0.2/nuget.commandline.6.0.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.0.2/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 6.0.2.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 6.0.3-rc.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.0.3-rc.1/nuget.commandline.6.0.3-rc.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.0.3-rc.1/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 6.0.3-rc.1.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 6.0.5.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.0.5/nuget.commandline.6.0.5.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.0.5/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 6.0.5.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 6.0.6.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.0.6/nuget.commandline.6.0.6.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.0.6/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 6.0.6.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 6.1.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.1.0/nuget.commandline.6.1.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.1.0/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 6.1.0.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 6.2.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.2.0/nuget.commandline.6.2.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.2.0/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 6.2.0.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 6.2.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.2.1/nuget.commandline.6.2.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.2.1/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 6.2.1.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 6.2.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.2.2/nuget.commandline.6.2.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.2.2/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 6.2.2.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 6.2.4.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.2.4/nuget.commandline.6.2.4.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.2.4/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 6.2.4.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 6.3.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.3.0/nuget.commandline.6.3.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.3.0/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 6.3.0.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 6.3.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.3.1/nuget.commandline.6.3.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.3.1/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 6.3.1.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 6.3.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.3.3/nuget.commandline.6.3.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.3.3/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 6.3.3.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 6.3.4.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.3.4/nuget.commandline.6.3.4.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.3.4/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 6.3.4.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 6.4.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.4.0/nuget.commandline.6.4.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.4.0/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 6.4.0.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 6.4.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.4.2/nuget.commandline.6.4.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.4.2/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 6.4.2.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 6.4.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.4.3/nuget.commandline.6.4.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.4.3/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 6.4.3.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 6.5.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.5.0/nuget.commandline.6.5.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.5.0/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 6.5.0.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 6.5.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.5.1/nuget.commandline.6.5.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.5.1/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 6.5.1.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 6.6.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.6.1/nuget.commandline.6.6.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.6.1/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 6.6.1.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 6.6.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.6.2/nuget.commandline.6.6.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.6.2/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 6.6.2.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 6.7.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.7.0/nuget.commandline.6.7.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.7.0/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 6.7.0.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 6.7.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.7.1/nuget.commandline.6.7.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.7.1/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 6.7.1.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 6.8.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.8.0/nuget.commandline.6.8.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.8.0/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 6.8.0.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 6.8.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.8.1/nuget.commandline.6.8.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.8.1/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 6.8.1.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 6.8.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.8.2/nuget.commandline.6.8.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.8.2/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 6.8.2.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 6.9.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.9.1/nuget.commandline.6.9.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.9.1/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 6.9.1.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 6.10.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.10.0/nuget.commandline.6.10.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.10.0/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 6.10.0.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 6.10.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.10.1/nuget.commandline.6.10.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.10.1/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 6.10.1.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 6.10.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.10.2/nuget.commandline.6.10.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.10.2/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 6.10.2.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 6.11.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.11.0/nuget.commandline.6.11.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.11.0/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 6.11.0.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 6.11.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.11.1/nuget.commandline.6.11.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.11.1/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 6.11.1.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 6.11.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.11.2/nuget.commandline.6.11.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.11.2/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 6.11.2.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 6.12.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.12.0/nuget.commandline.6.12.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.12.0/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 6.12.0.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 6.12.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.12.1/nuget.commandline.6.12.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.12.1/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 6.12.1.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 6.12.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.12.2/nuget.commandline.6.12.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.12.2/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 6.12.2.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 6.12.4.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.12.4/nuget.commandline.6.12.4.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.12.4/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 6.12.4.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 6.12.5.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.12.5/nuget.commandline.6.12.5.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.12.5/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 6.12.5.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 6.13.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.13.1/nuget.commandline.6.13.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.13.1/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 6.13.1.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 6.13.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.13.2/nuget.commandline.6.13.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.13.2/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 6.13.2.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 6.14.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.14.0/nuget.commandline.6.14.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.14.0/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 6.14.0.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 6.14.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.14.3/nuget.commandline.6.14.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/6.14.3/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 6.14.3.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 7.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/7.0.0/nuget.commandline.7.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/7.0.0/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 7.0.0.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 7.0.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/7.0.1/nuget.commandline.7.0.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/7.0.1/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 7.0.1.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 7.0.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/7.0.3/nuget.commandline.7.0.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/7.0.3/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 7.0.3.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 7.3.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/7.3.0/nuget.commandline.7.3.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/7.3.0/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 7.3.0.
+
+PACKAGE: NuGet.CommandLine.
+VERSION: 7.3.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/7.3.1/nuget.commandline.7.3.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/nuget.commandline/7.3.1/nuget.commandline.nuspec.
+INSTALL_COMMAND: dotnet add package NuGet.CommandLine --version 7.3.1.

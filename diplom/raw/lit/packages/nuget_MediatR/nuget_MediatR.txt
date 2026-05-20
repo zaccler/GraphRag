@@ -1,0 +1,219 @@
+URL: https://www.nuget.org/packages/MediatR
+TITLE: NuGet package: MediatR
+
+SOURCE_TYPE: nuget_package.
+PACKAGE_MANAGER: NuGet.
+PACKAGE_ID: MediatR.
+SOURCE_URL: https://www.nuget.org/packages/MediatR.
+
+NuGet package versions with direct .nupkg installer/package download links.
+
+PACKAGE: MediatR.
+VERSION: 5.0.1-alpha-0001.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/mediatr/5.0.1-alpha-0001/mediatr.5.0.1-alpha-0001.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/mediatr/5.0.1-alpha-0001/mediatr.nuspec.
+INSTALL_COMMAND: dotnet add package MediatR --version 5.0.1-alpha-0001.
+
+PACKAGE: MediatR.
+VERSION: 5.0.1-alpha-0002.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/mediatr/5.0.1-alpha-0002/mediatr.5.0.1-alpha-0002.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/mediatr/5.0.1-alpha-0002/mediatr.nuspec.
+INSTALL_COMMAND: dotnet add package MediatR --version 5.0.1-alpha-0002.
+
+PACKAGE: MediatR.
+VERSION: 5.0.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/mediatr/5.0.1/mediatr.5.0.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/mediatr/5.0.1/mediatr.nuspec.
+INSTALL_COMMAND: dotnet add package MediatR --version 5.0.1.
+
+PACKAGE: MediatR.
+VERSION: 5.1.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/mediatr/5.1.0/mediatr.5.1.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/mediatr/5.1.0/mediatr.nuspec.
+INSTALL_COMMAND: dotnet add package MediatR --version 5.1.0.
+
+PACKAGE: MediatR.
+VERSION: 6.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/mediatr/6.0.0/mediatr.6.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/mediatr/6.0.0/mediatr.nuspec.
+INSTALL_COMMAND: dotnet add package MediatR --version 6.0.0.
+
+PACKAGE: MediatR.
+VERSION: 7.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/mediatr/7.0.0/mediatr.7.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/mediatr/7.0.0/mediatr.nuspec.
+INSTALL_COMMAND: dotnet add package MediatR --version 7.0.0.
+
+PACKAGE: MediatR.
+VERSION: 8.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/mediatr/8.0.0/mediatr.8.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/mediatr/8.0.0/mediatr.nuspec.
+INSTALL_COMMAND: dotnet add package MediatR --version 8.0.0.
+
+PACKAGE: MediatR.
+VERSION: 8.0.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/mediatr/8.0.1/mediatr.8.0.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/mediatr/8.0.1/mediatr.nuspec.
+INSTALL_COMMAND: dotnet add package MediatR --version 8.0.1.
+
+PACKAGE: MediatR.
+VERSION: 8.0.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/mediatr/8.0.2/mediatr.8.0.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/mediatr/8.0.2/mediatr.nuspec.
+INSTALL_COMMAND: dotnet add package MediatR --version 8.0.2.
+
+PACKAGE: MediatR.
+VERSION: 8.1.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/mediatr/8.1.0/mediatr.8.1.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/mediatr/8.1.0/mediatr.nuspec.
+INSTALL_COMMAND: dotnet add package MediatR --version 8.1.0.
+
+PACKAGE: MediatR.
+VERSION: 8.2.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/mediatr/8.2.0/mediatr.8.2.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/mediatr/8.2.0/mediatr.nuspec.
+INSTALL_COMMAND: dotnet add package MediatR --version 8.2.0.
+
+PACKAGE: MediatR.
+VERSION: 9.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/mediatr/9.0.0/mediatr.9.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/mediatr/9.0.0/mediatr.nuspec.
+INSTALL_COMMAND: dotnet add package MediatR --version 9.0.0.
+
+PACKAGE: MediatR.
+VERSION: 10.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/mediatr/10.0.0/mediatr.10.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/mediatr/10.0.0/mediatr.nuspec.
+INSTALL_COMMAND: dotnet add package MediatR --version 10.0.0.
+
+PACKAGE: MediatR.
+VERSION: 10.0.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/mediatr/10.0.1/mediatr.10.0.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/mediatr/10.0.1/mediatr.nuspec.
+INSTALL_COMMAND: dotnet add package MediatR --version 10.0.1.
+
+PACKAGE: MediatR.
+VERSION: 11.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/mediatr/11.0.0/mediatr.11.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/mediatr/11.0.0/mediatr.nuspec.
+INSTALL_COMMAND: dotnet add package MediatR --version 11.0.0.
+
+PACKAGE: MediatR.
+VERSION: 11.1.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/mediatr/11.1.0/mediatr.11.1.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/mediatr/11.1.0/mediatr.nuspec.
+INSTALL_COMMAND: dotnet add package MediatR --version 11.1.0.
+
+PACKAGE: MediatR.
+VERSION: 12.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/mediatr/12.0.0/mediatr.12.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/mediatr/12.0.0/mediatr.nuspec.
+INSTALL_COMMAND: dotnet add package MediatR --version 12.0.0.
+
+PACKAGE: MediatR.
+VERSION: 12.0.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/mediatr/12.0.1/mediatr.12.0.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/mediatr/12.0.1/mediatr.nuspec.
+INSTALL_COMMAND: dotnet add package MediatR --version 12.0.1.
+
+PACKAGE: MediatR.
+VERSION: 12.1.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/mediatr/12.1.0/mediatr.12.1.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/mediatr/12.1.0/mediatr.nuspec.
+INSTALL_COMMAND: dotnet add package MediatR --version 12.1.0.
+
+PACKAGE: MediatR.
+VERSION: 12.1.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/mediatr/12.1.1/mediatr.12.1.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/mediatr/12.1.1/mediatr.nuspec.
+INSTALL_COMMAND: dotnet add package MediatR --version 12.1.1.
+
+PACKAGE: MediatR.
+VERSION: 12.2.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/mediatr/12.2.0/mediatr.12.2.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/mediatr/12.2.0/mediatr.nuspec.
+INSTALL_COMMAND: dotnet add package MediatR --version 12.2.0.
+
+PACKAGE: MediatR.
+VERSION: 12.3.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/mediatr/12.3.0/mediatr.12.3.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/mediatr/12.3.0/mediatr.nuspec.
+INSTALL_COMMAND: dotnet add package MediatR --version 12.3.0.
+
+PACKAGE: MediatR.
+VERSION: 12.4.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/mediatr/12.4.0/mediatr.12.4.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/mediatr/12.4.0/mediatr.nuspec.
+INSTALL_COMMAND: dotnet add package MediatR --version 12.4.0.
+
+PACKAGE: MediatR.
+VERSION: 12.4.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/mediatr/12.4.1/mediatr.12.4.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/mediatr/12.4.1/mediatr.nuspec.
+INSTALL_COMMAND: dotnet add package MediatR --version 12.4.1.
+
+PACKAGE: MediatR.
+VERSION: 12.5.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/mediatr/12.5.0/mediatr.12.5.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/mediatr/12.5.0/mediatr.nuspec.
+INSTALL_COMMAND: dotnet add package MediatR --version 12.5.0.
+
+PACKAGE: MediatR.
+VERSION: 13.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/mediatr/13.0.0/mediatr.13.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/mediatr/13.0.0/mediatr.nuspec.
+INSTALL_COMMAND: dotnet add package MediatR --version 13.0.0.
+
+PACKAGE: MediatR.
+VERSION: 13.1.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/mediatr/13.1.0/mediatr.13.1.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/mediatr/13.1.0/mediatr.nuspec.
+INSTALL_COMMAND: dotnet add package MediatR --version 13.1.0.
+
+PACKAGE: MediatR.
+VERSION: 14.0.0-beta-1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/mediatr/14.0.0-beta-1/mediatr.14.0.0-beta-1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/mediatr/14.0.0-beta-1/mediatr.nuspec.
+INSTALL_COMMAND: dotnet add package MediatR --version 14.0.0-beta-1.
+
+PACKAGE: MediatR.
+VERSION: 14.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/mediatr/14.0.0/mediatr.14.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/mediatr/14.0.0/mediatr.nuspec.
+INSTALL_COMMAND: dotnet add package MediatR --version 14.0.0.
+
+PACKAGE: MediatR.
+VERSION: 14.1.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/mediatr/14.1.0/mediatr.14.1.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/mediatr/14.1.0/mediatr.nuspec.
+INSTALL_COMMAND: dotnet add package MediatR --version 14.1.0.

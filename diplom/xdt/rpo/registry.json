@@ -1,0 +1,18 @@
+{
+  "sources": [
+    {
+      "code": "python312_docs",
+      "type": "python_docs",
+      "root_url": "https://docs.python.org/3.12/",
+      "max_pages": 300,
+      "delay_sec": 0.15,
+      "enabled": true
+    },
+    {
+      "code": "python_map_page",
+      "type": "doc_page",
+      "url": "https://docs.python.org/3.12/library/functions.html#map",
+      "enabled": false
+    }
+  ]
+}

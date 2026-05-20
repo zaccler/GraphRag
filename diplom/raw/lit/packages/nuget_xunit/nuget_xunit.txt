@@ -1,0 +1,219 @@
+URL: https://www.nuget.org/packages/xunit
+TITLE: NuGet package: xunit
+
+SOURCE_TYPE: nuget_package.
+PACKAGE_MANAGER: NuGet.
+PACKAGE_ID: xunit.
+SOURCE_URL: https://www.nuget.org/packages/xunit.
+
+NuGet package versions with direct .nupkg installer/package download links.
+
+PACKAGE: xunit.
+VERSION: 2.5.0-pre.22.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.5.0-pre.22/xunit.2.5.0-pre.22.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.5.0-pre.22/xunit.nuspec.
+INSTALL_COMMAND: dotnet add package xunit --version 2.5.0-pre.22.
+
+PACKAGE: xunit.
+VERSION: 2.5.0-pre.26.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.5.0-pre.26/xunit.2.5.0-pre.26.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.5.0-pre.26/xunit.nuspec.
+INSTALL_COMMAND: dotnet add package xunit --version 2.5.0-pre.26.
+
+PACKAGE: xunit.
+VERSION: 2.5.0-pre.37.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.5.0-pre.37/xunit.2.5.0-pre.37.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.5.0-pre.37/xunit.nuspec.
+INSTALL_COMMAND: dotnet add package xunit --version 2.5.0-pre.37.
+
+PACKAGE: xunit.
+VERSION: 2.5.0-pre.44.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.5.0-pre.44/xunit.2.5.0-pre.44.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.5.0-pre.44/xunit.nuspec.
+INSTALL_COMMAND: dotnet add package xunit --version 2.5.0-pre.44.
+
+PACKAGE: xunit.
+VERSION: 2.5.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.5.0/xunit.2.5.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.5.0/xunit.nuspec.
+INSTALL_COMMAND: dotnet add package xunit --version 2.5.0.
+
+PACKAGE: xunit.
+VERSION: 2.5.1-pre.11.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.5.1-pre.11/xunit.2.5.1-pre.11.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.5.1-pre.11/xunit.nuspec.
+INSTALL_COMMAND: dotnet add package xunit --version 2.5.1-pre.11.
+
+PACKAGE: xunit.
+VERSION: 2.5.1-pre.12.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.5.1-pre.12/xunit.2.5.1-pre.12.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.5.1-pre.12/xunit.nuspec.
+INSTALL_COMMAND: dotnet add package xunit --version 2.5.1-pre.12.
+
+PACKAGE: xunit.
+VERSION: 2.5.1-pre.20.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.5.1-pre.20/xunit.2.5.1-pre.20.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.5.1-pre.20/xunit.nuspec.
+INSTALL_COMMAND: dotnet add package xunit --version 2.5.1-pre.20.
+
+PACKAGE: xunit.
+VERSION: 2.5.1-pre.26.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.5.1-pre.26/xunit.2.5.1-pre.26.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.5.1-pre.26/xunit.nuspec.
+INSTALL_COMMAND: dotnet add package xunit --version 2.5.1-pre.26.
+
+PACKAGE: xunit.
+VERSION: 2.5.1-pre.33.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.5.1-pre.33/xunit.2.5.1-pre.33.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.5.1-pre.33/xunit.nuspec.
+INSTALL_COMMAND: dotnet add package xunit --version 2.5.1-pre.33.
+
+PACKAGE: xunit.
+VERSION: 2.5.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.5.1/xunit.2.5.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.5.1/xunit.nuspec.
+INSTALL_COMMAND: dotnet add package xunit --version 2.5.1.
+
+PACKAGE: xunit.
+VERSION: 2.5.2-pre.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.5.2-pre.2/xunit.2.5.2-pre.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.5.2-pre.2/xunit.nuspec.
+INSTALL_COMMAND: dotnet add package xunit --version 2.5.2-pre.2.
+
+PACKAGE: xunit.
+VERSION: 2.5.2-pre.6.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.5.2-pre.6/xunit.2.5.2-pre.6.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.5.2-pre.6/xunit.nuspec.
+INSTALL_COMMAND: dotnet add package xunit --version 2.5.2-pre.6.
+
+PACKAGE: xunit.
+VERSION: 2.5.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.5.2/xunit.2.5.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.5.2/xunit.nuspec.
+INSTALL_COMMAND: dotnet add package xunit --version 2.5.2.
+
+PACKAGE: xunit.
+VERSION: 2.5.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.5.3/xunit.2.5.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.5.3/xunit.nuspec.
+INSTALL_COMMAND: dotnet add package xunit --version 2.5.3.
+
+PACKAGE: xunit.
+VERSION: 2.6.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.6.0/xunit.2.6.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.6.0/xunit.nuspec.
+INSTALL_COMMAND: dotnet add package xunit --version 2.6.0.
+
+PACKAGE: xunit.
+VERSION: 2.6.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.6.1/xunit.2.6.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.6.1/xunit.nuspec.
+INSTALL_COMMAND: dotnet add package xunit --version 2.6.1.
+
+PACKAGE: xunit.
+VERSION: 2.6.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.6.2/xunit.2.6.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.6.2/xunit.nuspec.
+INSTALL_COMMAND: dotnet add package xunit --version 2.6.2.
+
+PACKAGE: xunit.
+VERSION: 2.6.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.6.3/xunit.2.6.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.6.3/xunit.nuspec.
+INSTALL_COMMAND: dotnet add package xunit --version 2.6.3.
+
+PACKAGE: xunit.
+VERSION: 2.6.4.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.6.4/xunit.2.6.4.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.6.4/xunit.nuspec.
+INSTALL_COMMAND: dotnet add package xunit --version 2.6.4.
+
+PACKAGE: xunit.
+VERSION: 2.6.5.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.6.5/xunit.2.6.5.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.6.5/xunit.nuspec.
+INSTALL_COMMAND: dotnet add package xunit --version 2.6.5.
+
+PACKAGE: xunit.
+VERSION: 2.6.6.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.6.6/xunit.2.6.6.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.6.6/xunit.nuspec.
+INSTALL_COMMAND: dotnet add package xunit --version 2.6.6.
+
+PACKAGE: xunit.
+VERSION: 2.7.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.7.0/xunit.2.7.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.7.0/xunit.nuspec.
+INSTALL_COMMAND: dotnet add package xunit --version 2.7.0.
+
+PACKAGE: xunit.
+VERSION: 2.7.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.7.1/xunit.2.7.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.7.1/xunit.nuspec.
+INSTALL_COMMAND: dotnet add package xunit --version 2.7.1.
+
+PACKAGE: xunit.
+VERSION: 2.8.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.8.0/xunit.2.8.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.8.0/xunit.nuspec.
+INSTALL_COMMAND: dotnet add package xunit --version 2.8.0.
+
+PACKAGE: xunit.
+VERSION: 2.8.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.8.1/xunit.2.8.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.8.1/xunit.nuspec.
+INSTALL_COMMAND: dotnet add package xunit --version 2.8.1.
+
+PACKAGE: xunit.
+VERSION: 2.9.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.9.0/xunit.2.9.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.9.0/xunit.nuspec.
+INSTALL_COMMAND: dotnet add package xunit --version 2.9.0.
+
+PACKAGE: xunit.
+VERSION: 2.9.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.9.1/xunit.2.9.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.9.1/xunit.nuspec.
+INSTALL_COMMAND: dotnet add package xunit --version 2.9.1.
+
+PACKAGE: xunit.
+VERSION: 2.9.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.9.2/xunit.2.9.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.9.2/xunit.nuspec.
+INSTALL_COMMAND: dotnet add package xunit --version 2.9.2.
+
+PACKAGE: xunit.
+VERSION: 2.9.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.9.3/xunit.2.9.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/xunit/2.9.3/xunit.nuspec.
+INSTALL_COMMAND: dotnet add package xunit --version 2.9.3.

@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>GraphRAG Manager</title>
+    <link rel="stylesheet" href="/static/styles.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <section class="hero">
+        <div>
+          <p class="eyebrow">GraphRAG local cabinet</p>
+          <h1>Чат и менеджер базы знаний</h1>
+          <p class="muted">Пользователь задает вопросы, админ запускает сбор пакетов, документации и Google Sheet.</p>
+        </div>
+        <div class="status-card">
+          <span id="roleBadge">не вошли</span>
+          <button id="statusBtn" class="ghost">Статус API</button>
+        </div>
+      </section>
+
+      <section class="grid">
+        <form id="authForm" class="card">
+          <h2>Вход / регистрация</h2>
+          <label>Логин<input id="username" autocomplete="username" /></label>
+          <label>Пароль<input id="password" type="password" autocomplete="current-password" /></label>
+          <label>Код админа<input id="adminCode" placeholder="только для админа" /></label>
+          <div class="row">
+            <button type="button" id="loginBtn">Войти</button>
+            <button type="button" id="registerBtn" class="secondary">Регистрация</button>
+          </div>
+          <p class="hint">Первый зарегистрированный пользователь автоматически станет админом.</p>
+        </form>
+
+        <section class="card chat-card">
+          <h2>Чат</h2>
+          <div id="messages" class="messages"></div>
+          <div class="ask-row">
+            <textarea id="question" placeholder="Например: какая последняя версия NuGet.CommandLine?"></textarea>
+            <button id="askBtn">Спросить</button>
+          </div>
+        </section>
+
+        <section class="card admin-card">
+          <h2>Менеджер</h2>
+          <p class="hint">Доступно только админу. Команды идут в основной сервер GraphRAG.</p>
+          <div class="actions">
+            <button id="runPackagesBtn">Парсить пакеты</button>
+            <button id="runDocsBtn">Парсить docs registry</button>
+            <button id="rebuildBtn">Rebuild</button>
+            <button id="jobsBtn" class="secondary">История задач</button>
+          </div>
+          <div class="sheet-box">
+            <h3>Dashboard Google Sheet</h3>
+            <input id="sheetUrl" placeholder="Google Sheet URL" />
+            <input id="sheetGid" placeholder="gid, например 0" />
+            <input id="sheetTitle" placeholder="Название" />
+            <button id="runSheetBtn">Синхронизировать dashboard</button>
+          </div>
+        </section>
+
+        <section class="card log-card">
+          <h2>Лог</h2>
+          <pre id="log"></pre>
+        </section>
+      </section>
+    </main>
+    <script src="/static/app.js"></script>
+  </body>
+</html>

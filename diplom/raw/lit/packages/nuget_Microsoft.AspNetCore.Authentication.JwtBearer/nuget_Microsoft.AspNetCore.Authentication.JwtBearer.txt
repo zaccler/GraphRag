@@ -1,0 +1,219 @@
+URL: https://www.nuget.org/packages/Microsoft.AspNetCore.Authentication.JwtBearer
+TITLE: NuGet package: Microsoft.AspNetCore.Authentication.JwtBearer
+
+SOURCE_TYPE: nuget_package.
+PACKAGE_MANAGER: NuGet.
+PACKAGE_ID: Microsoft.AspNetCore.Authentication.JwtBearer.
+SOURCE_URL: https://www.nuget.org/packages/Microsoft.AspNetCore.Authentication.JwtBearer.
+
+NuGet package versions with direct .nupkg installer/package download links.
+
+PACKAGE: Microsoft.AspNetCore.Authentication.JwtBearer.
+VERSION: 9.0.9.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/9.0.9/microsoft.aspnetcore.authentication.jwtbearer.9.0.9.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/9.0.9/microsoft.aspnetcore.authentication.jwtbearer.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer --version 9.0.9.
+
+PACKAGE: Microsoft.AspNetCore.Authentication.JwtBearer.
+VERSION: 9.0.10.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/9.0.10/microsoft.aspnetcore.authentication.jwtbearer.9.0.10.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/9.0.10/microsoft.aspnetcore.authentication.jwtbearer.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer --version 9.0.10.
+
+PACKAGE: Microsoft.AspNetCore.Authentication.JwtBearer.
+VERSION: 9.0.11.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/9.0.11/microsoft.aspnetcore.authentication.jwtbearer.9.0.11.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/9.0.11/microsoft.aspnetcore.authentication.jwtbearer.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer --version 9.0.11.
+
+PACKAGE: Microsoft.AspNetCore.Authentication.JwtBearer.
+VERSION: 9.0.12.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/9.0.12/microsoft.aspnetcore.authentication.jwtbearer.9.0.12.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/9.0.12/microsoft.aspnetcore.authentication.jwtbearer.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer --version 9.0.12.
+
+PACKAGE: Microsoft.AspNetCore.Authentication.JwtBearer.
+VERSION: 9.0.13.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/9.0.13/microsoft.aspnetcore.authentication.jwtbearer.9.0.13.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/9.0.13/microsoft.aspnetcore.authentication.jwtbearer.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer --version 9.0.13.
+
+PACKAGE: Microsoft.AspNetCore.Authentication.JwtBearer.
+VERSION: 9.0.14.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/9.0.14/microsoft.aspnetcore.authentication.jwtbearer.9.0.14.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/9.0.14/microsoft.aspnetcore.authentication.jwtbearer.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer --version 9.0.14.
+
+PACKAGE: Microsoft.AspNetCore.Authentication.JwtBearer.
+VERSION: 9.0.15.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/9.0.15/microsoft.aspnetcore.authentication.jwtbearer.9.0.15.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/9.0.15/microsoft.aspnetcore.authentication.jwtbearer.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer --version 9.0.15.
+
+PACKAGE: Microsoft.AspNetCore.Authentication.JwtBearer.
+VERSION: 9.0.16.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/9.0.16/microsoft.aspnetcore.authentication.jwtbearer.9.0.16.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/9.0.16/microsoft.aspnetcore.authentication.jwtbearer.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer --version 9.0.16.
+
+PACKAGE: Microsoft.AspNetCore.Authentication.JwtBearer.
+VERSION: 10.0.0-preview.1.25120.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/10.0.0-preview.1.25120.3/microsoft.aspnetcore.authentication.jwtbearer.10.0.0-preview.1.25120.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/10.0.0-preview.1.25120.3/microsoft.aspnetcore.authentication.jwtbearer.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer --version 10.0.0-preview.1.25120.3.
+
+PACKAGE: Microsoft.AspNetCore.Authentication.JwtBearer.
+VERSION: 10.0.0-preview.2.25164.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/10.0.0-preview.2.25164.1/microsoft.aspnetcore.authentication.jwtbearer.10.0.0-preview.2.25164.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/10.0.0-preview.2.25164.1/microsoft.aspnetcore.authentication.jwtbearer.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer --version 10.0.0-preview.2.25164.1.
+
+PACKAGE: Microsoft.AspNetCore.Authentication.JwtBearer.
+VERSION: 10.0.0-preview.3.25172.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/10.0.0-preview.3.25172.1/microsoft.aspnetcore.authentication.jwtbearer.10.0.0-preview.3.25172.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/10.0.0-preview.3.25172.1/microsoft.aspnetcore.authentication.jwtbearer.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer --version 10.0.0-preview.3.25172.1.
+
+PACKAGE: Microsoft.AspNetCore.Authentication.JwtBearer.
+VERSION: 10.0.0-preview.4.25258.110.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/10.0.0-preview.4.25258.110/microsoft.aspnetcore.authentication.jwtbearer.10.0.0-preview.4.25258.110.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/10.0.0-preview.4.25258.110/microsoft.aspnetcore.authentication.jwtbearer.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer --version 10.0.0-preview.4.25258.110.
+
+PACKAGE: Microsoft.AspNetCore.Authentication.JwtBearer.
+VERSION: 10.0.0-preview.5.25277.114.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/10.0.0-preview.5.25277.114/microsoft.aspnetcore.authentication.jwtbearer.10.0.0-preview.5.25277.114.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/10.0.0-preview.5.25277.114/microsoft.aspnetcore.authentication.jwtbearer.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer --version 10.0.0-preview.5.25277.114.
+
+PACKAGE: Microsoft.AspNetCore.Authentication.JwtBearer.
+VERSION: 10.0.0-preview.6.25358.103.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/10.0.0-preview.6.25358.103/microsoft.aspnetcore.authentication.jwtbearer.10.0.0-preview.6.25358.103.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/10.0.0-preview.6.25358.103/microsoft.aspnetcore.authentication.jwtbearer.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer --version 10.0.0-preview.6.25358.103.
+
+PACKAGE: Microsoft.AspNetCore.Authentication.JwtBearer.
+VERSION: 10.0.0-preview.7.25380.108.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/10.0.0-preview.7.25380.108/microsoft.aspnetcore.authentication.jwtbearer.10.0.0-preview.7.25380.108.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/10.0.0-preview.7.25380.108/microsoft.aspnetcore.authentication.jwtbearer.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer --version 10.0.0-preview.7.25380.108.
+
+PACKAGE: Microsoft.AspNetCore.Authentication.JwtBearer.
+VERSION: 10.0.0-rc.1.25451.107.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/10.0.0-rc.1.25451.107/microsoft.aspnetcore.authentication.jwtbearer.10.0.0-rc.1.25451.107.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/10.0.0-rc.1.25451.107/microsoft.aspnetcore.authentication.jwtbearer.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer --version 10.0.0-rc.1.25451.107.
+
+PACKAGE: Microsoft.AspNetCore.Authentication.JwtBearer.
+VERSION: 10.0.0-rc.2.25502.107.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/10.0.0-rc.2.25502.107/microsoft.aspnetcore.authentication.jwtbearer.10.0.0-rc.2.25502.107.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/10.0.0-rc.2.25502.107/microsoft.aspnetcore.authentication.jwtbearer.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer --version 10.0.0-rc.2.25502.107.
+
+PACKAGE: Microsoft.AspNetCore.Authentication.JwtBearer.
+VERSION: 10.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/10.0.0/microsoft.aspnetcore.authentication.jwtbearer.10.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/10.0.0/microsoft.aspnetcore.authentication.jwtbearer.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer --version 10.0.0.
+
+PACKAGE: Microsoft.AspNetCore.Authentication.JwtBearer.
+VERSION: 10.0.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/10.0.1/microsoft.aspnetcore.authentication.jwtbearer.10.0.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/10.0.1/microsoft.aspnetcore.authentication.jwtbearer.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer --version 10.0.1.
+
+PACKAGE: Microsoft.AspNetCore.Authentication.JwtBearer.
+VERSION: 10.0.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/10.0.2/microsoft.aspnetcore.authentication.jwtbearer.10.0.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/10.0.2/microsoft.aspnetcore.authentication.jwtbearer.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer --version 10.0.2.
+
+PACKAGE: Microsoft.AspNetCore.Authentication.JwtBearer.
+VERSION: 10.0.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/10.0.3/microsoft.aspnetcore.authentication.jwtbearer.10.0.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/10.0.3/microsoft.aspnetcore.authentication.jwtbearer.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer --version 10.0.3.
+
+PACKAGE: Microsoft.AspNetCore.Authentication.JwtBearer.
+VERSION: 10.0.4.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/10.0.4/microsoft.aspnetcore.authentication.jwtbearer.10.0.4.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/10.0.4/microsoft.aspnetcore.authentication.jwtbearer.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer --version 10.0.4.
+
+PACKAGE: Microsoft.AspNetCore.Authentication.JwtBearer.
+VERSION: 10.0.5.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/10.0.5/microsoft.aspnetcore.authentication.jwtbearer.10.0.5.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/10.0.5/microsoft.aspnetcore.authentication.jwtbearer.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer --version 10.0.5.
+
+PACKAGE: Microsoft.AspNetCore.Authentication.JwtBearer.
+VERSION: 10.0.6.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/10.0.6/microsoft.aspnetcore.authentication.jwtbearer.10.0.6.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/10.0.6/microsoft.aspnetcore.authentication.jwtbearer.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer --version 10.0.6.
+
+PACKAGE: Microsoft.AspNetCore.Authentication.JwtBearer.
+VERSION: 10.0.7.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/10.0.7/microsoft.aspnetcore.authentication.jwtbearer.10.0.7.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/10.0.7/microsoft.aspnetcore.authentication.jwtbearer.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer --version 10.0.7.
+
+PACKAGE: Microsoft.AspNetCore.Authentication.JwtBearer.
+VERSION: 10.0.8.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/10.0.8/microsoft.aspnetcore.authentication.jwtbearer.10.0.8.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/10.0.8/microsoft.aspnetcore.authentication.jwtbearer.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer --version 10.0.8.
+
+PACKAGE: Microsoft.AspNetCore.Authentication.JwtBearer.
+VERSION: 11.0.0-preview.1.26104.118.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/11.0.0-preview.1.26104.118/microsoft.aspnetcore.authentication.jwtbearer.11.0.0-preview.1.26104.118.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/11.0.0-preview.1.26104.118/microsoft.aspnetcore.authentication.jwtbearer.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer --version 11.0.0-preview.1.26104.118.
+
+PACKAGE: Microsoft.AspNetCore.Authentication.JwtBearer.
+VERSION: 11.0.0-preview.2.26159.112.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/11.0.0-preview.2.26159.112/microsoft.aspnetcore.authentication.jwtbearer.11.0.0-preview.2.26159.112.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/11.0.0-preview.2.26159.112/microsoft.aspnetcore.authentication.jwtbearer.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer --version 11.0.0-preview.2.26159.112.
+
+PACKAGE: Microsoft.AspNetCore.Authentication.JwtBearer.
+VERSION: 11.0.0-preview.3.26207.106.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/11.0.0-preview.3.26207.106/microsoft.aspnetcore.authentication.jwtbearer.11.0.0-preview.3.26207.106.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/11.0.0-preview.3.26207.106/microsoft.aspnetcore.authentication.jwtbearer.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer --version 11.0.0-preview.3.26207.106.
+
+PACKAGE: Microsoft.AspNetCore.Authentication.JwtBearer.
+VERSION: 11.0.0-preview.4.26230.115.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/11.0.0-preview.4.26230.115/microsoft.aspnetcore.authentication.jwtbearer.11.0.0-preview.4.26230.115.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.authentication.jwtbearer/11.0.0-preview.4.26230.115/microsoft.aspnetcore.authentication.jwtbearer.nuspec.
+INSTALL_COMMAND: dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer --version 11.0.0-preview.4.26230.115.

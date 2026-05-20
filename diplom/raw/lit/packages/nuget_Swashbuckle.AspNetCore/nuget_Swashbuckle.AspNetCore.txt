@@ -1,0 +1,709 @@
+﻿URL: https://www.nuget.org/packages/Swashbuckle.AspNetCore.
+TITLE: NuGet package: Swashbuckle.AspNetCore.
+
+SOURCE_TYPE: nuget_package.
+PACKAGE_MANAGER: NuGet.
+PACKAGE_ID: Swashbuckle.AspNetCore.
+SOURCE_URL: https://www.nuget.org/packages/Swashbuckle.AspNetCore.
+
+NuGet package versions with direct .nupkg installer/package download links.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 1.0.0-rc1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/1.0.0-rc1/swashbuckle.aspnetcore.1.0.0-rc1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/1.0.0-rc1/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 1.0.0-rc1.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 1.0.0-rc2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/1.0.0-rc2/swashbuckle.aspnetcore.1.0.0-rc2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/1.0.0-rc2/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 1.0.0-rc2.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 1.0.0-rc3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/1.0.0-rc3/swashbuckle.aspnetcore.1.0.0-rc3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/1.0.0-rc3/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 1.0.0-rc3.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 1.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/1.0.0/swashbuckle.aspnetcore.1.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/1.0.0/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 1.0.0.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 1.1.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/1.1.0/swashbuckle.aspnetcore.1.1.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/1.1.0/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 1.1.0.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 1.2.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/1.2.0/swashbuckle.aspnetcore.1.2.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/1.2.0/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 1.2.0.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 2.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/2.0.0/swashbuckle.aspnetcore.2.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/2.0.0/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 2.0.0.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 2.1.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/2.1.0/swashbuckle.aspnetcore.2.1.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/2.1.0/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 2.1.0.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 2.1.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/2.1.1/swashbuckle.aspnetcore.2.1.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/2.1.1/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 2.1.1.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 2.2.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/2.2.0/swashbuckle.aspnetcore.2.2.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/2.2.0/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 2.2.0.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 2.3.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/2.3.0/swashbuckle.aspnetcore.2.3.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/2.3.0/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 2.3.0.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 2.4.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/2.4.0/swashbuckle.aspnetcore.2.4.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/2.4.0/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 2.4.0.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 2.5.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/2.5.0/swashbuckle.aspnetcore.2.5.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/2.5.0/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 2.5.0.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 3.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/3.0.0/swashbuckle.aspnetcore.3.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/3.0.0/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 3.0.0.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 4.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/4.0.0/swashbuckle.aspnetcore.4.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/4.0.0/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 4.0.0.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 4.0.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/4.0.1/swashbuckle.aspnetcore.4.0.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/4.0.1/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 4.0.1.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 5.0.0-beta.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/5.0.0-beta/swashbuckle.aspnetcore.5.0.0-beta.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/5.0.0-beta/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 5.0.0-beta.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 5.0.0-rc1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/5.0.0-rc1/swashbuckle.aspnetcore.5.0.0-rc1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/5.0.0-rc1/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 5.0.0-rc1.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 5.0.0-rc2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/5.0.0-rc2/swashbuckle.aspnetcore.5.0.0-rc2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/5.0.0-rc2/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 5.0.0-rc2.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 5.0.0-rc3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/5.0.0-rc3/swashbuckle.aspnetcore.5.0.0-rc3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/5.0.0-rc3/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 5.0.0-rc3.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 5.0.0-rc4.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/5.0.0-rc4/swashbuckle.aspnetcore.5.0.0-rc4.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/5.0.0-rc4/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 5.0.0-rc4.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 5.0.0-rc5.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/5.0.0-rc5/swashbuckle.aspnetcore.5.0.0-rc5.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/5.0.0-rc5/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 5.0.0-rc5.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 5.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/5.0.0/swashbuckle.aspnetcore.5.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/5.0.0/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 5.0.0.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 5.1.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/5.1.0/swashbuckle.aspnetcore.5.1.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/5.1.0/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 5.1.0.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 5.2.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/5.2.0/swashbuckle.aspnetcore.5.2.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/5.2.0/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 5.2.0.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 5.2.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/5.2.1/swashbuckle.aspnetcore.5.2.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/5.2.1/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 5.2.1.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 5.3.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/5.3.0/swashbuckle.aspnetcore.5.3.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/5.3.0/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 5.3.0.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 5.3.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/5.3.1/swashbuckle.aspnetcore.5.3.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/5.3.1/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 5.3.1.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 5.3.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/5.3.2/swashbuckle.aspnetcore.5.3.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/5.3.2/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 5.3.2.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 5.3.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/5.3.3/swashbuckle.aspnetcore.5.3.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/5.3.3/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 5.3.3.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 5.4.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/5.4.0/swashbuckle.aspnetcore.5.4.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/5.4.0/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 5.4.0.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 5.4.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/5.4.1/swashbuckle.aspnetcore.5.4.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/5.4.1/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 5.4.1.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 5.5.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/5.5.0/swashbuckle.aspnetcore.5.5.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/5.5.0/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 5.5.0.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 5.5.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/5.5.1/swashbuckle.aspnetcore.5.5.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/5.5.1/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 5.5.1.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 5.6.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/5.6.0/swashbuckle.aspnetcore.5.6.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/5.6.0/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 5.6.0.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 5.6.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/5.6.1/swashbuckle.aspnetcore.5.6.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/5.6.1/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 5.6.1.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 5.6.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/5.6.2/swashbuckle.aspnetcore.5.6.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/5.6.2/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 5.6.2.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 5.6.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 5.6.3.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 6.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.0.0/swashbuckle.aspnetcore.6.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.0.0/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 6.0.0.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 6.0.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.0.1/swashbuckle.aspnetcore.6.0.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.0.1/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 6.0.1.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 6.0.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.0.2/swashbuckle.aspnetcore.6.0.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.0.2/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 6.0.2.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 6.0.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.0.3/swashbuckle.aspnetcore.6.0.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.0.3/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 6.0.3.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 6.0.4.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.0.4/swashbuckle.aspnetcore.6.0.4.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.0.4/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 6.0.4.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 6.0.5.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.0.5/swashbuckle.aspnetcore.6.0.5.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.0.5/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 6.0.5.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 6.0.6.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.0.6/swashbuckle.aspnetcore.6.0.6.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.0.6/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 6.0.6.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 6.0.7.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.0.7/swashbuckle.aspnetcore.6.0.7.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.0.7/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 6.0.7.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 6.1.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.1.0/swashbuckle.aspnetcore.6.1.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.1.0/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 6.1.0.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 6.1.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.1.1/swashbuckle.aspnetcore.6.1.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.1.1/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 6.1.1.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 6.1.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.1.2/swashbuckle.aspnetcore.6.1.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.1.2/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 6.1.2.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 6.1.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.1.3/swashbuckle.aspnetcore.6.1.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.1.3/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 6.1.3.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 6.1.4.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.1.4/swashbuckle.aspnetcore.6.1.4.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.1.4/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 6.1.4.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 6.1.5.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.1.5/swashbuckle.aspnetcore.6.1.5.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.1.5/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 6.1.5.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 6.2.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.2.0/swashbuckle.aspnetcore.6.2.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.2.0/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 6.2.0.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 6.2.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.2.1/swashbuckle.aspnetcore.6.2.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.2.1/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 6.2.1.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 6.2.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.2.2/swashbuckle.aspnetcore.6.2.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.2.2/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 6.2.2.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 6.2.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 6.2.3.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 6.3.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.3.0/swashbuckle.aspnetcore.6.3.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.3.0/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 6.3.0.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 6.3.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.3.1/swashbuckle.aspnetcore.6.3.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.3.1/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 6.3.1.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 6.3.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.3.2/swashbuckle.aspnetcore.6.3.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.3.2/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 6.3.2.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 6.4.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 6.4.0.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 6.5.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 6.5.0.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 6.6.0-preview.322.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.6.0-preview.322/swashbuckle.aspnetcore.6.6.0-preview.322.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.6.0-preview.322/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 6.6.0-preview.322.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 6.6.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.6.1/swashbuckle.aspnetcore.6.6.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.6.1/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 6.6.1.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 6.6.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.6.2/swashbuckle.aspnetcore.6.6.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.6.2/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 6.6.2.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 6.7.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.7.0/swashbuckle.aspnetcore.6.7.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.7.0/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 6.7.0.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 6.7.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.7.1/swashbuckle.aspnetcore.6.7.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.7.1/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 6.7.1.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 6.7.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.7.2/swashbuckle.aspnetcore.6.7.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.7.2/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 6.7.2.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 6.7.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.7.3/swashbuckle.aspnetcore.6.7.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.7.3/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 6.7.3.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 6.8.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.8.0/swashbuckle.aspnetcore.6.8.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.8.0/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 6.8.0.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 6.8.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.8.1/swashbuckle.aspnetcore.6.8.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.8.1/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 6.8.1.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 6.9.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.9.0/swashbuckle.aspnetcore.6.9.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/6.9.0/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 6.9.0.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 7.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/7.0.0/swashbuckle.aspnetcore.7.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/7.0.0/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 7.0.0.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 7.1.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/7.1.0/swashbuckle.aspnetcore.7.1.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/7.1.0/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 7.1.0.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 7.2.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/7.2.0/swashbuckle.aspnetcore.7.2.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/7.2.0/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 7.2.0.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 7.3.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/7.3.0/swashbuckle.aspnetcore.7.3.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/7.3.0/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 7.3.0.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 7.3.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/7.3.1/swashbuckle.aspnetcore.7.3.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/7.3.1/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 7.3.1.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 7.3.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/7.3.2/swashbuckle.aspnetcore.7.3.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/7.3.2/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 7.3.2.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 8.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/8.0.0/swashbuckle.aspnetcore.8.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/8.0.0/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 8.0.0.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 8.1.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/8.1.0/swashbuckle.aspnetcore.8.1.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/8.1.0/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 8.1.0.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 8.1.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/8.1.1/swashbuckle.aspnetcore.8.1.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/8.1.1/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 8.1.1.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 8.1.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/8.1.2/swashbuckle.aspnetcore.8.1.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/8.1.2/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 8.1.2.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 8.1.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/8.1.3/swashbuckle.aspnetcore.8.1.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/8.1.3/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 8.1.3.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 8.1.4.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/8.1.4/swashbuckle.aspnetcore.8.1.4.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/8.1.4/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 8.1.4.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 9.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/9.0.0/swashbuckle.aspnetcore.9.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/9.0.0/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 9.0.0.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 9.0.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/9.0.1/swashbuckle.aspnetcore.9.0.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/9.0.1/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 9.0.1.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 9.0.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/9.0.2/swashbuckle.aspnetcore.9.0.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/9.0.2/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 9.0.2.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 9.0.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/9.0.3/swashbuckle.aspnetcore.9.0.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/9.0.3/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 9.0.3.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 9.0.4.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/9.0.4/swashbuckle.aspnetcore.9.0.4.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/9.0.4/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 9.0.4.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 9.0.5.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/9.0.5/swashbuckle.aspnetcore.9.0.5.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/9.0.5/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 9.0.5.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 9.0.6.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/9.0.6/swashbuckle.aspnetcore.9.0.6.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/9.0.6/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 9.0.6.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 10.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/10.0.0/swashbuckle.aspnetcore.10.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/10.0.0/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 10.0.0.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 10.0.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/10.0.1/swashbuckle.aspnetcore.10.0.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/10.0.1/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 10.0.1.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 10.1.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/10.1.0/swashbuckle.aspnetcore.10.1.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/10.1.0/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 10.1.0.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 10.1.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/10.1.1/swashbuckle.aspnetcore.10.1.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/10.1.1/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 10.1.1.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 10.1.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/10.1.2/swashbuckle.aspnetcore.10.1.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/10.1.2/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 10.1.2.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 10.1.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/10.1.3/swashbuckle.aspnetcore.10.1.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/10.1.3/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 10.1.3.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 10.1.4.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/10.1.4/swashbuckle.aspnetcore.10.1.4.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/10.1.4/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 10.1.4.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 10.1.5.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/10.1.5/swashbuckle.aspnetcore.10.1.5.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/10.1.5/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 10.1.5.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 10.1.6.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/10.1.6/swashbuckle.aspnetcore.10.1.6.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/10.1.6/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 10.1.6.
+
+PACKAGE: Swashbuckle.AspNetCore.
+VERSION: 10.1.7.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/10.1.7/swashbuckle.aspnetcore.10.1.7.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/swashbuckle.aspnetcore/10.1.7/swashbuckle.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Swashbuckle.AspNetCore --version 10.1.7.

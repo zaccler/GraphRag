@@ -1,0 +1,219 @@
+URL: https://www.nuget.org/packages/StackExchange.Redis
+TITLE: NuGet package: StackExchange.Redis
+
+SOURCE_TYPE: nuget_package.
+PACKAGE_MANAGER: NuGet.
+PACKAGE_ID: StackExchange.Redis.
+SOURCE_URL: https://www.nuget.org/packages/StackExchange.Redis.
+
+NuGet package versions with direct .nupkg installer/package download links.
+
+PACKAGE: StackExchange.Redis.
+VERSION: 2.8.16.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.8.16/stackexchange.redis.2.8.16.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.8.16/stackexchange.redis.nuspec.
+INSTALL_COMMAND: dotnet add package StackExchange.Redis --version 2.8.16.
+
+PACKAGE: StackExchange.Redis.
+VERSION: 2.8.22.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.8.22/stackexchange.redis.2.8.22.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.8.22/stackexchange.redis.nuspec.
+INSTALL_COMMAND: dotnet add package StackExchange.Redis --version 2.8.22.
+
+PACKAGE: StackExchange.Redis.
+VERSION: 2.8.24.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.8.24/stackexchange.redis.2.8.24.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.8.24/stackexchange.redis.nuspec.
+INSTALL_COMMAND: dotnet add package StackExchange.Redis --version 2.8.24.
+
+PACKAGE: StackExchange.Redis.
+VERSION: 2.8.29.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.8.29/stackexchange.redis.2.8.29.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.8.29/stackexchange.redis.nuspec.
+INSTALL_COMMAND: dotnet add package StackExchange.Redis --version 2.8.29.
+
+PACKAGE: StackExchange.Redis.
+VERSION: 2.8.31.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.8.31/stackexchange.redis.2.8.31.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.8.31/stackexchange.redis.nuspec.
+INSTALL_COMMAND: dotnet add package StackExchange.Redis --version 2.8.31.
+
+PACKAGE: StackExchange.Redis.
+VERSION: 2.8.37.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.8.37/stackexchange.redis.2.8.37.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.8.37/stackexchange.redis.nuspec.
+INSTALL_COMMAND: dotnet add package StackExchange.Redis --version 2.8.37.
+
+PACKAGE: StackExchange.Redis.
+VERSION: 2.8.41.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.8.41/stackexchange.redis.2.8.41.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.8.41/stackexchange.redis.nuspec.
+INSTALL_COMMAND: dotnet add package StackExchange.Redis --version 2.8.41.
+
+PACKAGE: StackExchange.Redis.
+VERSION: 2.8.47.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.8.47/stackexchange.redis.2.8.47.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.8.47/stackexchange.redis.nuspec.
+INSTALL_COMMAND: dotnet add package StackExchange.Redis --version 2.8.47.
+
+PACKAGE: StackExchange.Redis.
+VERSION: 2.8.50-g3f6a898e04.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.8.50-g3f6a898e04/stackexchange.redis.2.8.50-g3f6a898e04.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.8.50-g3f6a898e04/stackexchange.redis.nuspec.
+INSTALL_COMMAND: dotnet add package StackExchange.Redis --version 2.8.50-g3f6a898e04.
+
+PACKAGE: StackExchange.Redis.
+VERSION: 2.8.58.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.8.58/stackexchange.redis.2.8.58.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.8.58/stackexchange.redis.nuspec.
+INSTALL_COMMAND: dotnet add package StackExchange.Redis --version 2.8.58.
+
+PACKAGE: StackExchange.Redis.
+VERSION: 2.9.11.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.9.11/stackexchange.redis.2.9.11.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.9.11/stackexchange.redis.nuspec.
+INSTALL_COMMAND: dotnet add package StackExchange.Redis --version 2.9.11.
+
+PACKAGE: StackExchange.Redis.
+VERSION: 2.9.17.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.9.17/stackexchange.redis.2.9.17.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.9.17/stackexchange.redis.nuspec.
+INSTALL_COMMAND: dotnet add package StackExchange.Redis --version 2.9.17.
+
+PACKAGE: StackExchange.Redis.
+VERSION: 2.9.24.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.9.24/stackexchange.redis.2.9.24.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.9.24/stackexchange.redis.nuspec.
+INSTALL_COMMAND: dotnet add package StackExchange.Redis --version 2.9.24.
+
+PACKAGE: StackExchange.Redis.
+VERSION: 2.9.25.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.9.25/stackexchange.redis.2.9.25.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.9.25/stackexchange.redis.nuspec.
+INSTALL_COMMAND: dotnet add package StackExchange.Redis --version 2.9.25.
+
+PACKAGE: StackExchange.Redis.
+VERSION: 2.9.32.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.9.32/stackexchange.redis.2.9.32.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.9.32/stackexchange.redis.nuspec.
+INSTALL_COMMAND: dotnet add package StackExchange.Redis --version 2.9.32.
+
+PACKAGE: StackExchange.Redis.
+VERSION: 2.9.38.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.9.38/stackexchange.redis.2.9.38.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.9.38/stackexchange.redis.nuspec.
+INSTALL_COMMAND: dotnet add package StackExchange.Redis --version 2.9.38.
+
+PACKAGE: StackExchange.Redis.
+VERSION: 2.9.88-gcc3558f411.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.9.88-gcc3558f411/stackexchange.redis.2.9.88-gcc3558f411.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.9.88-gcc3558f411/stackexchange.redis.nuspec.
+INSTALL_COMMAND: dotnet add package StackExchange.Redis --version 2.9.88-gcc3558f411.
+
+PACKAGE: StackExchange.Redis.
+VERSION: 2.9.99-gfe04f9c406.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.9.99-gfe04f9c406/stackexchange.redis.2.9.99-gfe04f9c406.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.9.99-gfe04f9c406/stackexchange.redis.nuspec.
+INSTALL_COMMAND: dotnet add package StackExchange.Redis --version 2.9.99-gfe04f9c406.
+
+PACKAGE: StackExchange.Redis.
+VERSION: 2.10.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.10.1/stackexchange.redis.2.10.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.10.1/stackexchange.redis.nuspec.
+INSTALL_COMMAND: dotnet add package StackExchange.Redis --version 2.10.1.
+
+PACKAGE: StackExchange.Redis.
+VERSION: 2.10.14.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.10.14/stackexchange.redis.2.10.14.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.10.14/stackexchange.redis.nuspec.
+INSTALL_COMMAND: dotnet add package StackExchange.Redis --version 2.10.14.
+
+PACKAGE: StackExchange.Redis.
+VERSION: 2.11.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.11.0/stackexchange.redis.2.11.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.11.0/stackexchange.redis.nuspec.
+INSTALL_COMMAND: dotnet add package StackExchange.Redis --version 2.11.0.
+
+PACKAGE: StackExchange.Redis.
+VERSION: 2.11.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.11.3/stackexchange.redis.2.11.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.11.3/stackexchange.redis.nuspec.
+INSTALL_COMMAND: dotnet add package StackExchange.Redis --version 2.11.3.
+
+PACKAGE: StackExchange.Redis.
+VERSION: 2.11.8.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.11.8/stackexchange.redis.2.11.8.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.11.8/stackexchange.redis.nuspec.
+INSTALL_COMMAND: dotnet add package StackExchange.Redis --version 2.11.8.
+
+PACKAGE: StackExchange.Redis.
+VERSION: 2.12.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.12.1/stackexchange.redis.2.12.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.12.1/stackexchange.redis.nuspec.
+INSTALL_COMMAND: dotnet add package StackExchange.Redis --version 2.12.1.
+
+PACKAGE: StackExchange.Redis.
+VERSION: 2.12.4.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.12.4/stackexchange.redis.2.12.4.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.12.4/stackexchange.redis.nuspec.
+INSTALL_COMMAND: dotnet add package StackExchange.Redis --version 2.12.4.
+
+PACKAGE: StackExchange.Redis.
+VERSION: 2.12.8.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.12.8/stackexchange.redis.2.12.8.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.12.8/stackexchange.redis.nuspec.
+INSTALL_COMMAND: dotnet add package StackExchange.Redis --version 2.12.8.
+
+PACKAGE: StackExchange.Redis.
+VERSION: 2.12.14.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.12.14/stackexchange.redis.2.12.14.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.12.14/stackexchange.redis.nuspec.
+INSTALL_COMMAND: dotnet add package StackExchange.Redis --version 2.12.14.
+
+PACKAGE: StackExchange.Redis.
+VERSION: 2.13.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.13.1/stackexchange.redis.2.13.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.13.1/stackexchange.redis.nuspec.
+INSTALL_COMMAND: dotnet add package StackExchange.Redis --version 2.13.1.
+
+PACKAGE: StackExchange.Redis.
+VERSION: 3.0.2-preview.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/3.0.2-preview/stackexchange.redis.3.0.2-preview.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/3.0.2-preview/stackexchange.redis.nuspec.
+INSTALL_COMMAND: dotnet add package StackExchange.Redis --version 3.0.2-preview.
+
+PACKAGE: StackExchange.Redis.
+VERSION: 3.0.15-preview.g4f313ac133.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/3.0.15-preview.g4f313ac133/stackexchange.redis.3.0.15-preview.g4f313ac133.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/stackexchange.redis/3.0.15-preview.g4f313ac133/stackexchange.redis.nuspec.
+INSTALL_COMMAND: dotnet add package StackExchange.Redis --version 3.0.15-preview.g4f313ac133.

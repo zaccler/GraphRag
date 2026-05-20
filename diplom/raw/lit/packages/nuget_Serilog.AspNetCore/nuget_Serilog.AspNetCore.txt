@@ -1,0 +1,709 @@
+﻿URL: https://www.nuget.org/packages/Serilog.AspNetCore.
+TITLE: NuGet package: Serilog.AspNetCore.
+
+SOURCE_TYPE: nuget_package.
+PACKAGE_MANAGER: NuGet.
+PACKAGE_ID: Serilog.AspNetCore.
+SOURCE_URL: https://www.nuget.org/packages/Serilog.AspNetCore.
+
+NuGet package versions with direct .nupkg installer/package download links.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 3.0.0-dev-00040.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.0.0-dev-00040/serilog.aspnetcore.3.0.0-dev-00040.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.0.0-dev-00040/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 3.0.0-dev-00040.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 3.0.0-dev-00041.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.0.0-dev-00041/serilog.aspnetcore.3.0.0-dev-00041.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.0.0-dev-00041/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 3.0.0-dev-00041.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 3.0.0-dev-00043.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.0.0-dev-00043/serilog.aspnetcore.3.0.0-dev-00043.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.0.0-dev-00043/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 3.0.0-dev-00043.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 3.0.0-dev-00046.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.0.0-dev-00046/serilog.aspnetcore.3.0.0-dev-00046.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.0.0-dev-00046/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 3.0.0-dev-00046.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 3.0.0-dev-00052.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.0.0-dev-00052/serilog.aspnetcore.3.0.0-dev-00052.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.0.0-dev-00052/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 3.0.0-dev-00052.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 3.0.0-dev-00053.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.0.0-dev-00053/serilog.aspnetcore.3.0.0-dev-00053.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.0.0-dev-00053/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 3.0.0-dev-00053.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 3.0.0-dev-00057.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.0.0-dev-00057/serilog.aspnetcore.3.0.0-dev-00057.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.0.0-dev-00057/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 3.0.0-dev-00057.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 3.0.0-dev-00058.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.0.0-dev-00058/serilog.aspnetcore.3.0.0-dev-00058.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.0.0-dev-00058/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 3.0.0-dev-00058.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 3.0.0-dev-00059.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.0.0-dev-00059/serilog.aspnetcore.3.0.0-dev-00059.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.0.0-dev-00059/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 3.0.0-dev-00059.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 3.0.0-dev-00067.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.0.0-dev-00067/serilog.aspnetcore.3.0.0-dev-00067.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.0.0-dev-00067/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 3.0.0-dev-00067.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 3.0.0-dev-00077.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.0.0-dev-00077/serilog.aspnetcore.3.0.0-dev-00077.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.0.0-dev-00077/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 3.0.0-dev-00077.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 3.0.0-dev-00079.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.0.0-dev-00079/serilog.aspnetcore.3.0.0-dev-00079.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.0.0-dev-00079/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 3.0.0-dev-00079.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 3.0.0-dev-00081.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.0.0-dev-00081/serilog.aspnetcore.3.0.0-dev-00081.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.0.0-dev-00081/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 3.0.0-dev-00081.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 3.0.0-dev-00083.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.0.0-dev-00083/serilog.aspnetcore.3.0.0-dev-00083.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.0.0-dev-00083/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 3.0.0-dev-00083.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 3.0.0-dev-00086.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.0.0-dev-00086/serilog.aspnetcore.3.0.0-dev-00086.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.0.0-dev-00086/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 3.0.0-dev-00086.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 3.0.0-dev-00088.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.0.0-dev-00088/serilog.aspnetcore.3.0.0-dev-00088.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.0.0-dev-00088/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 3.0.0-dev-00088.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 3.0.0-dev-00093.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.0.0-dev-00093/serilog.aspnetcore.3.0.0-dev-00093.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.0.0-dev-00093/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 3.0.0-dev-00093.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 3.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.0.0/serilog.aspnetcore.3.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.0.0/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 3.0.0.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 3.0.1-dev-00099.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.0.1-dev-00099/serilog.aspnetcore.3.0.1-dev-00099.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.0.1-dev-00099/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 3.0.1-dev-00099.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 3.0.1-dev-00109.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.0.1-dev-00109/serilog.aspnetcore.3.0.1-dev-00109.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.0.1-dev-00109/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 3.0.1-dev-00109.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 3.0.1-dev-00110.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.0.1-dev-00110/serilog.aspnetcore.3.0.1-dev-00110.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.0.1-dev-00110/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 3.0.1-dev-00110.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 3.0.1-dev-00116.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.0.1-dev-00116/serilog.aspnetcore.3.0.1-dev-00116.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.0.1-dev-00116/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 3.0.1-dev-00116.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 3.1.0-dev-00118.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.1.0-dev-00118/serilog.aspnetcore.3.1.0-dev-00118.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.1.0-dev-00118/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 3.1.0-dev-00118.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 3.1.0-dev-00119.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.1.0-dev-00119/serilog.aspnetcore.3.1.0-dev-00119.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.1.0-dev-00119/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 3.1.0-dev-00119.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 3.1.0-dev-00122.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.1.0-dev-00122/serilog.aspnetcore.3.1.0-dev-00122.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.1.0-dev-00122/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 3.1.0-dev-00122.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 3.1.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.1.0/serilog.aspnetcore.3.1.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.1.0/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 3.1.0.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 3.1.1-dev-00132.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.1.1-dev-00132/serilog.aspnetcore.3.1.1-dev-00132.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.1.1-dev-00132/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 3.1.1-dev-00132.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 3.2.0-dev-00133.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.2.0-dev-00133/serilog.aspnetcore.3.2.0-dev-00133.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.2.0-dev-00133/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 3.2.0-dev-00133.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 3.2.0-dev-00135.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.2.0-dev-00135/serilog.aspnetcore.3.2.0-dev-00135.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.2.0-dev-00135/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 3.2.0-dev-00135.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 3.2.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.2.0/serilog.aspnetcore.3.2.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.2.0/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 3.2.0.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 3.2.1-dev-00142.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.2.1-dev-00142/serilog.aspnetcore.3.2.1-dev-00142.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.2.1-dev-00142/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 3.2.1-dev-00142.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 3.2.1-dev-00147.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.2.1-dev-00147/serilog.aspnetcore.3.2.1-dev-00147.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.2.1-dev-00147/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 3.2.1-dev-00147.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 3.3.0-dev-00149.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.3.0-dev-00149/serilog.aspnetcore.3.3.0-dev-00149.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.3.0-dev-00149/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 3.3.0-dev-00149.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 3.3.0-dev-00152.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.3.0-dev-00152/serilog.aspnetcore.3.3.0-dev-00152.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.3.0-dev-00152/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 3.3.0-dev-00152.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 3.3.0-dev-00160.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.3.0-dev-00160/serilog.aspnetcore.3.3.0-dev-00160.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.3.0-dev-00160/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 3.3.0-dev-00160.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 3.3.0-dev-00161.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.3.0-dev-00161/serilog.aspnetcore.3.3.0-dev-00161.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.3.0-dev-00161/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 3.3.0-dev-00161.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 3.4.0-dev-00167.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.4.0-dev-00167/serilog.aspnetcore.3.4.0-dev-00167.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.4.0-dev-00167/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 3.4.0-dev-00167.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 3.4.0-dev-00168.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.4.0-dev-00168/serilog.aspnetcore.3.4.0-dev-00168.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.4.0-dev-00168/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 3.4.0-dev-00168.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 3.4.0-dev-00171.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.4.0-dev-00171/serilog.aspnetcore.3.4.0-dev-00171.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.4.0-dev-00171/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 3.4.0-dev-00171.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 3.4.0-dev-00173.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.4.0-dev-00173/serilog.aspnetcore.3.4.0-dev-00173.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.4.0-dev-00173/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 3.4.0-dev-00173.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 3.4.0-dev-00174.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.4.0-dev-00174/serilog.aspnetcore.3.4.0-dev-00174.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.4.0-dev-00174/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 3.4.0-dev-00174.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 3.4.0-dev-00176.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.4.0-dev-00176/serilog.aspnetcore.3.4.0-dev-00176.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.4.0-dev-00176/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 3.4.0-dev-00176.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 3.4.0-dev-00177.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.4.0-dev-00177/serilog.aspnetcore.3.4.0-dev-00177.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.4.0-dev-00177/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 3.4.0-dev-00177.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 3.4.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.4.0/serilog.aspnetcore.3.4.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.4.0/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 3.4.0.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 3.4.1-dev-00180.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.4.1-dev-00180/serilog.aspnetcore.3.4.1-dev-00180.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.4.1-dev-00180/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 3.4.1-dev-00180.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 3.4.1-dev-00188.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.4.1-dev-00188/serilog.aspnetcore.3.4.1-dev-00188.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/3.4.1-dev-00188/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 3.4.1-dev-00188.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 4.0.0-dev-00198.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/4.0.0-dev-00198/serilog.aspnetcore.4.0.0-dev-00198.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/4.0.0-dev-00198/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 4.0.0-dev-00198.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 4.0.0-dev-00199.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/4.0.0-dev-00199/serilog.aspnetcore.4.0.0-dev-00199.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/4.0.0-dev-00199/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 4.0.0-dev-00199.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 4.0.0-dev-00202.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/4.0.0-dev-00202/serilog.aspnetcore.4.0.0-dev-00202.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/4.0.0-dev-00202/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 4.0.0-dev-00202.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 4.0.0-dev-00204.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/4.0.0-dev-00204/serilog.aspnetcore.4.0.0-dev-00204.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/4.0.0-dev-00204/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 4.0.0-dev-00204.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 4.0.0-dev-00206.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/4.0.0-dev-00206/serilog.aspnetcore.4.0.0-dev-00206.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/4.0.0-dev-00206/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 4.0.0-dev-00206.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 4.0.0-dev-00208.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/4.0.0-dev-00208/serilog.aspnetcore.4.0.0-dev-00208.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/4.0.0-dev-00208/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 4.0.0-dev-00208.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 4.0.0-dev-00210.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/4.0.0-dev-00210/serilog.aspnetcore.4.0.0-dev-00210.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/4.0.0-dev-00210/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 4.0.0-dev-00210.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 4.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/4.0.0/serilog.aspnetcore.4.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/4.0.0/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 4.0.0.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 4.0.1-dev-00219.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/4.0.1-dev-00219/serilog.aspnetcore.4.0.1-dev-00219.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/4.0.1-dev-00219/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 4.0.1-dev-00219.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 4.0.1-dev-00222.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/4.0.1-dev-00222/serilog.aspnetcore.4.0.1-dev-00222.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/4.0.1-dev-00222/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 4.0.1-dev-00222.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 4.1.0-dev-00223.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/4.1.0-dev-00223/serilog.aspnetcore.4.1.0-dev-00223.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/4.1.0-dev-00223/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 4.1.0-dev-00223.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 4.1.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/4.1.0/serilog.aspnetcore.4.1.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/4.1.0/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 4.1.0.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 4.1.1-dev-00227.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/4.1.1-dev-00227/serilog.aspnetcore.4.1.1-dev-00227.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/4.1.1-dev-00227/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 4.1.1-dev-00227.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 4.1.1-dev-00229.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/4.1.1-dev-00229/serilog.aspnetcore.4.1.1-dev-00229.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/4.1.1-dev-00229/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 4.1.1-dev-00229.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 4.1.1-dev-00241.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/4.1.1-dev-00241/serilog.aspnetcore.4.1.1-dev-00241.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/4.1.1-dev-00241/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 4.1.1-dev-00241.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 4.1.1-dev-00250.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/4.1.1-dev-00250/serilog.aspnetcore.4.1.1-dev-00250.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/4.1.1-dev-00250/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 4.1.1-dev-00250.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 5.0.0-dev-00259.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/5.0.0-dev-00259/serilog.aspnetcore.5.0.0-dev-00259.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/5.0.0-dev-00259/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 5.0.0-dev-00259.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 5.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/5.0.0/serilog.aspnetcore.5.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/5.0.0/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 5.0.0.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 5.0.1-dev-00262.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/5.0.1-dev-00262/serilog.aspnetcore.5.0.1-dev-00262.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/5.0.1-dev-00262/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 5.0.1-dev-00262.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 5.0.1-dev-00264.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/5.0.1-dev-00264/serilog.aspnetcore.5.0.1-dev-00264.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/5.0.1-dev-00264/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 5.0.1-dev-00264.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 6.0.0-dev-00265.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/6.0.0-dev-00265/serilog.aspnetcore.6.0.0-dev-00265.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/6.0.0-dev-00265/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 6.0.0-dev-00265.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 6.0.0-dev-00270.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/6.0.0-dev-00270/serilog.aspnetcore.6.0.0-dev-00270.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/6.0.0-dev-00270/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 6.0.0-dev-00270.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 6.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/6.0.0/serilog.aspnetcore.6.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/6.0.0/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 6.0.0.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 6.0.1-dev-00275.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/6.0.1-dev-00275/serilog.aspnetcore.6.0.1-dev-00275.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/6.0.1-dev-00275/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 6.0.1-dev-00275.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 6.0.1-dev-00280.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/6.0.1-dev-00280/serilog.aspnetcore.6.0.1-dev-00280.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/6.0.1-dev-00280/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 6.0.1-dev-00280.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 6.0.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/6.0.1/serilog.aspnetcore.6.0.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/6.0.1/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 6.0.1.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 6.1.0-dev-00281.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/6.1.0-dev-00281/serilog.aspnetcore.6.1.0-dev-00281.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/6.1.0-dev-00281/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 6.1.0-dev-00281.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 6.1.0-dev-00285.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/6.1.0-dev-00285/serilog.aspnetcore.6.1.0-dev-00285.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/6.1.0-dev-00285/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 6.1.0-dev-00285.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 6.1.0-dev-00289.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/6.1.0-dev-00289/serilog.aspnetcore.6.1.0-dev-00289.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/6.1.0-dev-00289/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 6.1.0-dev-00289.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 6.1.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/6.1.0/serilog.aspnetcore.6.1.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/6.1.0/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 6.1.0.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 6.1.1-dev-00293.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/6.1.1-dev-00293/serilog.aspnetcore.6.1.1-dev-00293.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/6.1.1-dev-00293/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 6.1.1-dev-00293.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 6.1.1-dev-00295.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/6.1.1-dev-00295/serilog.aspnetcore.6.1.1-dev-00295.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/6.1.1-dev-00295/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 6.1.1-dev-00295.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 7.0.0-dev-00302.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/7.0.0-dev-00302/serilog.aspnetcore.7.0.0-dev-00302.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/7.0.0-dev-00302/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 7.0.0-dev-00302.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 7.0.0-dev-00304.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/7.0.0-dev-00304/serilog.aspnetcore.7.0.0-dev-00304.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/7.0.0-dev-00304/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 7.0.0-dev-00304.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 7.0.0-dev-00314.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/7.0.0-dev-00314/serilog.aspnetcore.7.0.0-dev-00314.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/7.0.0-dev-00314/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 7.0.0-dev-00314.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 7.0.0-dev-00315.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/7.0.0-dev-00315/serilog.aspnetcore.7.0.0-dev-00315.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/7.0.0-dev-00315/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 7.0.0-dev-00315.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 7.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/7.0.0/serilog.aspnetcore.7.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/7.0.0/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 7.0.0.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 7.0.1-dev-00320.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/7.0.1-dev-00320/serilog.aspnetcore.7.0.1-dev-00320.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/7.0.1-dev-00320/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 7.0.1-dev-00320.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 8.0.0-dev-00323.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/8.0.0-dev-00323/serilog.aspnetcore.8.0.0-dev-00323.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/8.0.0-dev-00323/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 8.0.0-dev-00323.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 8.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/8.0.0/serilog.aspnetcore.8.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/8.0.0/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 8.0.0.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 8.0.1-dev-00329.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/8.0.1-dev-00329/serilog.aspnetcore.8.0.1-dev-00329.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/8.0.1-dev-00329/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 8.0.1-dev-00329.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 8.0.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/8.0.1/serilog.aspnetcore.8.0.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/8.0.1/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 8.0.1.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 8.0.2-dev-00334.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/8.0.2-dev-00334/serilog.aspnetcore.8.0.2-dev-00334.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/8.0.2-dev-00334/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 8.0.2-dev-00334.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 8.0.2-dev-00336.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/8.0.2-dev-00336/serilog.aspnetcore.8.0.2-dev-00336.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/8.0.2-dev-00336/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 8.0.2-dev-00336.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 8.0.2-dev-00338.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/8.0.2-dev-00338/serilog.aspnetcore.8.0.2-dev-00338.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/8.0.2-dev-00338/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 8.0.2-dev-00338.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 8.0.2-dev-00341.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/8.0.2-dev-00341/serilog.aspnetcore.8.0.2-dev-00341.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/8.0.2-dev-00341/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 8.0.2-dev-00341.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 8.0.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/8.0.2/serilog.aspnetcore.8.0.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/8.0.2/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 8.0.2.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 8.0.3-dev-00346.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/8.0.3-dev-00346/serilog.aspnetcore.8.0.3-dev-00346.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/8.0.3-dev-00346/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 8.0.3-dev-00346.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 8.0.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/8.0.3/serilog.aspnetcore.8.0.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/8.0.3/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 8.0.3.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 9.0.0-dev-02301.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/9.0.0-dev-02301/serilog.aspnetcore.9.0.0-dev-02301.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/9.0.0-dev-02301/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 9.0.0-dev-02301.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 9.0.0-dev-02302.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/9.0.0-dev-02302/serilog.aspnetcore.9.0.0-dev-02302.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/9.0.0-dev-02302/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 9.0.0-dev-02302.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 9.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/9.0.0/serilog.aspnetcore.9.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/9.0.0/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 9.0.0.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 10.0.0-dev-02309.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/10.0.0-dev-02309/serilog.aspnetcore.10.0.0-dev-02309.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/10.0.0-dev-02309/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 10.0.0-dev-02309.
+
+PACKAGE: Serilog.AspNetCore.
+VERSION: 10.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/10.0.0/serilog.aspnetcore.10.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/serilog.aspnetcore/10.0.0/serilog.aspnetcore.nuspec.
+INSTALL_COMMAND: dotnet add package Serilog.AspNetCore --version 10.0.0.

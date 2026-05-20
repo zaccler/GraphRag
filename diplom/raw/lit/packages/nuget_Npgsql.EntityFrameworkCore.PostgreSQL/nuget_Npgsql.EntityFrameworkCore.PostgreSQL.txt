@@ -1,0 +1,219 @@
+URL: https://www.nuget.org/packages/Npgsql.EntityFrameworkCore.PostgreSQL
+TITLE: NuGet package: Npgsql.EntityFrameworkCore.PostgreSQL
+
+SOURCE_TYPE: nuget_package.
+PACKAGE_MANAGER: NuGet.
+PACKAGE_ID: Npgsql.EntityFrameworkCore.PostgreSQL.
+SOURCE_URL: https://www.nuget.org/packages/Npgsql.EntityFrameworkCore.PostgreSQL.
+
+NuGet package versions with direct .nupkg installer/package download links.
+
+PACKAGE: Npgsql.EntityFrameworkCore.PostgreSQL.
+VERSION: 8.0.0-rc.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/8.0.0-rc.2/npgsql.entityframeworkcore.postgresql.8.0.0-rc.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/8.0.0-rc.2/npgsql.entityframeworkcore.postgresql.nuspec.
+INSTALL_COMMAND: dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL --version 8.0.0-rc.2.
+
+PACKAGE: Npgsql.EntityFrameworkCore.PostgreSQL.
+VERSION: 8.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/8.0.0/npgsql.entityframeworkcore.postgresql.8.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/8.0.0/npgsql.entityframeworkcore.postgresql.nuspec.
+INSTALL_COMMAND: dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL --version 8.0.0.
+
+PACKAGE: Npgsql.EntityFrameworkCore.PostgreSQL.
+VERSION: 8.0.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/8.0.2/npgsql.entityframeworkcore.postgresql.8.0.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/8.0.2/npgsql.entityframeworkcore.postgresql.nuspec.
+INSTALL_COMMAND: dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL --version 8.0.2.
+
+PACKAGE: Npgsql.EntityFrameworkCore.PostgreSQL.
+VERSION: 8.0.4.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/8.0.4/npgsql.entityframeworkcore.postgresql.8.0.4.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/8.0.4/npgsql.entityframeworkcore.postgresql.nuspec.
+INSTALL_COMMAND: dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL --version 8.0.4.
+
+PACKAGE: Npgsql.EntityFrameworkCore.PostgreSQL.
+VERSION: 8.0.8.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/8.0.8/npgsql.entityframeworkcore.postgresql.8.0.8.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/8.0.8/npgsql.entityframeworkcore.postgresql.nuspec.
+INSTALL_COMMAND: dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL --version 8.0.8.
+
+PACKAGE: Npgsql.EntityFrameworkCore.PostgreSQL.
+VERSION: 8.0.10.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/8.0.10/npgsql.entityframeworkcore.postgresql.8.0.10.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/8.0.10/npgsql.entityframeworkcore.postgresql.nuspec.
+INSTALL_COMMAND: dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL --version 8.0.10.
+
+PACKAGE: Npgsql.EntityFrameworkCore.PostgreSQL.
+VERSION: 8.0.11.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/8.0.11/npgsql.entityframeworkcore.postgresql.8.0.11.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/8.0.11/npgsql.entityframeworkcore.postgresql.nuspec.
+INSTALL_COMMAND: dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL --version 8.0.11.
+
+PACKAGE: Npgsql.EntityFrameworkCore.PostgreSQL.
+VERSION: 9.0.0-preview.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/9.0.0-preview.1/npgsql.entityframeworkcore.postgresql.9.0.0-preview.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/9.0.0-preview.1/npgsql.entityframeworkcore.postgresql.nuspec.
+INSTALL_COMMAND: dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL --version 9.0.0-preview.1.
+
+PACKAGE: Npgsql.EntityFrameworkCore.PostgreSQL.
+VERSION: 9.0.0-preview.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/9.0.0-preview.2/npgsql.entityframeworkcore.postgresql.9.0.0-preview.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/9.0.0-preview.2/npgsql.entityframeworkcore.postgresql.nuspec.
+INSTALL_COMMAND: dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL --version 9.0.0-preview.2.
+
+PACKAGE: Npgsql.EntityFrameworkCore.PostgreSQL.
+VERSION: 9.0.0-preview.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/9.0.0-preview.3/npgsql.entityframeworkcore.postgresql.9.0.0-preview.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/9.0.0-preview.3/npgsql.entityframeworkcore.postgresql.nuspec.
+INSTALL_COMMAND: dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL --version 9.0.0-preview.3.
+
+PACKAGE: Npgsql.EntityFrameworkCore.PostgreSQL.
+VERSION: 9.0.0-preview.7.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/9.0.0-preview.7/npgsql.entityframeworkcore.postgresql.9.0.0-preview.7.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/9.0.0-preview.7/npgsql.entityframeworkcore.postgresql.nuspec.
+INSTALL_COMMAND: dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL --version 9.0.0-preview.7.
+
+PACKAGE: Npgsql.EntityFrameworkCore.PostgreSQL.
+VERSION: 9.0.0-rc.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/9.0.0-rc.1/npgsql.entityframeworkcore.postgresql.9.0.0-rc.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/9.0.0-rc.1/npgsql.entityframeworkcore.postgresql.nuspec.
+INSTALL_COMMAND: dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL --version 9.0.0-rc.1.
+
+PACKAGE: Npgsql.EntityFrameworkCore.PostgreSQL.
+VERSION: 9.0.0-rc.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/9.0.0-rc.2/npgsql.entityframeworkcore.postgresql.9.0.0-rc.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/9.0.0-rc.2/npgsql.entityframeworkcore.postgresql.nuspec.
+INSTALL_COMMAND: dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL --version 9.0.0-rc.2.
+
+PACKAGE: Npgsql.EntityFrameworkCore.PostgreSQL.
+VERSION: 9.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/9.0.0/npgsql.entityframeworkcore.postgresql.9.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/9.0.0/npgsql.entityframeworkcore.postgresql.nuspec.
+INSTALL_COMMAND: dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL --version 9.0.0.
+
+PACKAGE: Npgsql.EntityFrameworkCore.PostgreSQL.
+VERSION: 9.0.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/9.0.1/npgsql.entityframeworkcore.postgresql.9.0.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/9.0.1/npgsql.entityframeworkcore.postgresql.nuspec.
+INSTALL_COMMAND: dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL --version 9.0.1.
+
+PACKAGE: Npgsql.EntityFrameworkCore.PostgreSQL.
+VERSION: 9.0.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/9.0.2/npgsql.entityframeworkcore.postgresql.9.0.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/9.0.2/npgsql.entityframeworkcore.postgresql.nuspec.
+INSTALL_COMMAND: dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL --version 9.0.2.
+
+PACKAGE: Npgsql.EntityFrameworkCore.PostgreSQL.
+VERSION: 9.0.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/9.0.3/npgsql.entityframeworkcore.postgresql.9.0.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/9.0.3/npgsql.entityframeworkcore.postgresql.nuspec.
+INSTALL_COMMAND: dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL --version 9.0.3.
+
+PACKAGE: Npgsql.EntityFrameworkCore.PostgreSQL.
+VERSION: 9.0.4.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/9.0.4/npgsql.entityframeworkcore.postgresql.9.0.4.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/9.0.4/npgsql.entityframeworkcore.postgresql.nuspec.
+INSTALL_COMMAND: dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL --version 9.0.4.
+
+PACKAGE: Npgsql.EntityFrameworkCore.PostgreSQL.
+VERSION: 10.0.0-preview.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/10.0.0-preview.1/npgsql.entityframeworkcore.postgresql.10.0.0-preview.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/10.0.0-preview.1/npgsql.entityframeworkcore.postgresql.nuspec.
+INSTALL_COMMAND: dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL --version 10.0.0-preview.1.
+
+PACKAGE: Npgsql.EntityFrameworkCore.PostgreSQL.
+VERSION: 10.0.0-preview.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/10.0.0-preview.2/npgsql.entityframeworkcore.postgresql.10.0.0-preview.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/10.0.0-preview.2/npgsql.entityframeworkcore.postgresql.nuspec.
+INSTALL_COMMAND: dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL --version 10.0.0-preview.2.
+
+PACKAGE: Npgsql.EntityFrameworkCore.PostgreSQL.
+VERSION: 10.0.0-preview.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/10.0.0-preview.3/npgsql.entityframeworkcore.postgresql.10.0.0-preview.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/10.0.0-preview.3/npgsql.entityframeworkcore.postgresql.nuspec.
+INSTALL_COMMAND: dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL --version 10.0.0-preview.3.
+
+PACKAGE: Npgsql.EntityFrameworkCore.PostgreSQL.
+VERSION: 10.0.0-preview.5.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/10.0.0-preview.5/npgsql.entityframeworkcore.postgresql.10.0.0-preview.5.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/10.0.0-preview.5/npgsql.entityframeworkcore.postgresql.nuspec.
+INSTALL_COMMAND: dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL --version 10.0.0-preview.5.
+
+PACKAGE: Npgsql.EntityFrameworkCore.PostgreSQL.
+VERSION: 10.0.0-preview.7.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/10.0.0-preview.7/npgsql.entityframeworkcore.postgresql.10.0.0-preview.7.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/10.0.0-preview.7/npgsql.entityframeworkcore.postgresql.nuspec.
+INSTALL_COMMAND: dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL --version 10.0.0-preview.7.
+
+PACKAGE: Npgsql.EntityFrameworkCore.PostgreSQL.
+VERSION: 10.0.0-rc.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/10.0.0-rc.1/npgsql.entityframeworkcore.postgresql.10.0.0-rc.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/10.0.0-rc.1/npgsql.entityframeworkcore.postgresql.nuspec.
+INSTALL_COMMAND: dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL --version 10.0.0-rc.1.
+
+PACKAGE: Npgsql.EntityFrameworkCore.PostgreSQL.
+VERSION: 10.0.0-rc.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/10.0.0-rc.2/npgsql.entityframeworkcore.postgresql.10.0.0-rc.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/10.0.0-rc.2/npgsql.entityframeworkcore.postgresql.nuspec.
+INSTALL_COMMAND: dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL --version 10.0.0-rc.2.
+
+PACKAGE: Npgsql.EntityFrameworkCore.PostgreSQL.
+VERSION: 10.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/10.0.0/npgsql.entityframeworkcore.postgresql.10.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/10.0.0/npgsql.entityframeworkcore.postgresql.nuspec.
+INSTALL_COMMAND: dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL --version 10.0.0.
+
+PACKAGE: Npgsql.EntityFrameworkCore.PostgreSQL.
+VERSION: 10.0.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/10.0.1/npgsql.entityframeworkcore.postgresql.10.0.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/10.0.1/npgsql.entityframeworkcore.postgresql.nuspec.
+INSTALL_COMMAND: dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL --version 10.0.1.
+
+PACKAGE: Npgsql.EntityFrameworkCore.PostgreSQL.
+VERSION: 11.0.0-preview.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/11.0.0-preview.1/npgsql.entityframeworkcore.postgresql.11.0.0-preview.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/11.0.0-preview.1/npgsql.entityframeworkcore.postgresql.nuspec.
+INSTALL_COMMAND: dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL --version 11.0.0-preview.1.
+
+PACKAGE: Npgsql.EntityFrameworkCore.PostgreSQL.
+VERSION: 11.0.0-preview.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/11.0.0-preview.2/npgsql.entityframeworkcore.postgresql.11.0.0-preview.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/11.0.0-preview.2/npgsql.entityframeworkcore.postgresql.nuspec.
+INSTALL_COMMAND: dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL --version 11.0.0-preview.2.
+
+PACKAGE: Npgsql.EntityFrameworkCore.PostgreSQL.
+VERSION: 11.0.0-preview.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/11.0.0-preview.3/npgsql.entityframeworkcore.postgresql.11.0.0-preview.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/npgsql.entityframeworkcore.postgresql/11.0.0-preview.3/npgsql.entityframeworkcore.postgresql.nuspec.
+INSTALL_COMMAND: dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL --version 11.0.0-preview.3.

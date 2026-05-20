@@ -1,0 +1,219 @@
+URL: https://www.nuget.org/packages/Moq
+TITLE: NuGet package: Moq
+
+SOURCE_TYPE: nuget_package.
+PACKAGE_MANAGER: NuGet.
+PACKAGE_ID: Moq.
+SOURCE_URL: https://www.nuget.org/packages/Moq.
+
+NuGet package versions with direct .nupkg installer/package download links.
+
+PACKAGE: Moq.
+VERSION: 4.13.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/moq/4.13.1/moq.4.13.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/moq/4.13.1/moq.nuspec.
+INSTALL_COMMAND: dotnet add package Moq --version 4.13.1.
+
+PACKAGE: Moq.
+VERSION: 4.14.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/moq/4.14.0/moq.4.14.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/moq/4.14.0/moq.nuspec.
+INSTALL_COMMAND: dotnet add package Moq --version 4.14.0.
+
+PACKAGE: Moq.
+VERSION: 4.14.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/moq/4.14.1/moq.4.14.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/moq/4.14.1/moq.nuspec.
+INSTALL_COMMAND: dotnet add package Moq --version 4.14.1.
+
+PACKAGE: Moq.
+VERSION: 4.14.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/moq/4.14.2/moq.4.14.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/moq/4.14.2/moq.nuspec.
+INSTALL_COMMAND: dotnet add package Moq --version 4.14.2.
+
+PACKAGE: Moq.
+VERSION: 4.14.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/moq/4.14.3/moq.4.14.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/moq/4.14.3/moq.nuspec.
+INSTALL_COMMAND: dotnet add package Moq --version 4.14.3.
+
+PACKAGE: Moq.
+VERSION: 4.14.4.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/moq/4.14.4/moq.4.14.4.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/moq/4.14.4/moq.nuspec.
+INSTALL_COMMAND: dotnet add package Moq --version 4.14.4.
+
+PACKAGE: Moq.
+VERSION: 4.14.5.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/moq/4.14.5/moq.4.14.5.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/moq/4.14.5/moq.nuspec.
+INSTALL_COMMAND: dotnet add package Moq --version 4.14.5.
+
+PACKAGE: Moq.
+VERSION: 4.14.6.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/moq/4.14.6/moq.4.14.6.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/moq/4.14.6/moq.nuspec.
+INSTALL_COMMAND: dotnet add package Moq --version 4.14.6.
+
+PACKAGE: Moq.
+VERSION: 4.14.7.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/moq/4.14.7/moq.4.14.7.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/moq/4.14.7/moq.nuspec.
+INSTALL_COMMAND: dotnet add package Moq --version 4.14.7.
+
+PACKAGE: Moq.
+VERSION: 4.15.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/moq/4.15.1/moq.4.15.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/moq/4.15.1/moq.nuspec.
+INSTALL_COMMAND: dotnet add package Moq --version 4.15.1.
+
+PACKAGE: Moq.
+VERSION: 4.15.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/moq/4.15.2/moq.4.15.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/moq/4.15.2/moq.nuspec.
+INSTALL_COMMAND: dotnet add package Moq --version 4.15.2.
+
+PACKAGE: Moq.
+VERSION: 4.16.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/moq/4.16.0/moq.4.16.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/moq/4.16.0/moq.nuspec.
+INSTALL_COMMAND: dotnet add package Moq --version 4.16.0.
+
+PACKAGE: Moq.
+VERSION: 4.16.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/moq/4.16.1/moq.4.16.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/moq/4.16.1/moq.nuspec.
+INSTALL_COMMAND: dotnet add package Moq --version 4.16.1.
+
+PACKAGE: Moq.
+VERSION: 4.17.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/moq/4.17.1/moq.4.17.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/moq/4.17.1/moq.nuspec.
+INSTALL_COMMAND: dotnet add package Moq --version 4.17.1.
+
+PACKAGE: Moq.
+VERSION: 4.17.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/moq/4.17.2/moq.4.17.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/moq/4.17.2/moq.nuspec.
+INSTALL_COMMAND: dotnet add package Moq --version 4.17.2.
+
+PACKAGE: Moq.
+VERSION: 4.18.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/moq/4.18.0/moq.4.18.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/moq/4.18.0/moq.nuspec.
+INSTALL_COMMAND: dotnet add package Moq --version 4.18.0.
+
+PACKAGE: Moq.
+VERSION: 4.18.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/moq/4.18.1/moq.4.18.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/moq/4.18.1/moq.nuspec.
+INSTALL_COMMAND: dotnet add package Moq --version 4.18.1.
+
+PACKAGE: Moq.
+VERSION: 4.18.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/moq/4.18.2/moq.4.18.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/moq/4.18.2/moq.nuspec.
+INSTALL_COMMAND: dotnet add package Moq --version 4.18.2.
+
+PACKAGE: Moq.
+VERSION: 4.18.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/moq/4.18.3/moq.4.18.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/moq/4.18.3/moq.nuspec.
+INSTALL_COMMAND: dotnet add package Moq --version 4.18.3.
+
+PACKAGE: Moq.
+VERSION: 4.18.4.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/moq/4.18.4/moq.4.18.4.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/moq/4.18.4/moq.nuspec.
+INSTALL_COMMAND: dotnet add package Moq --version 4.18.4.
+
+PACKAGE: Moq.
+VERSION: 4.20.0-alpha.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/moq/4.20.0-alpha/moq.4.20.0-alpha.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/moq/4.20.0-alpha/moq.nuspec.
+INSTALL_COMMAND: dotnet add package Moq --version 4.20.0-alpha.
+
+PACKAGE: Moq.
+VERSION: 4.20.0-beta.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/moq/4.20.0-beta/moq.4.20.0-beta.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/moq/4.20.0-beta/moq.nuspec.
+INSTALL_COMMAND: dotnet add package Moq --version 4.20.0-beta.
+
+PACKAGE: Moq.
+VERSION: 4.20.0-rc.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/moq/4.20.0-rc/moq.4.20.0-rc.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/moq/4.20.0-rc/moq.nuspec.
+INSTALL_COMMAND: dotnet add package Moq --version 4.20.0-rc.
+
+PACKAGE: Moq.
+VERSION: 4.20.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/moq/4.20.0/moq.4.20.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/moq/4.20.0/moq.nuspec.
+INSTALL_COMMAND: dotnet add package Moq --version 4.20.0.
+
+PACKAGE: Moq.
+VERSION: 4.20.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/moq/4.20.1/moq.4.20.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/moq/4.20.1/moq.nuspec.
+INSTALL_COMMAND: dotnet add package Moq --version 4.20.1.
+
+PACKAGE: Moq.
+VERSION: 4.20.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/moq/4.20.2/moq.4.20.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/moq/4.20.2/moq.nuspec.
+INSTALL_COMMAND: dotnet add package Moq --version 4.20.2.
+
+PACKAGE: Moq.
+VERSION: 4.20.69.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/moq/4.20.69/moq.4.20.69.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/moq/4.20.69/moq.nuspec.
+INSTALL_COMMAND: dotnet add package Moq --version 4.20.69.
+
+PACKAGE: Moq.
+VERSION: 4.20.70.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/moq/4.20.70/moq.4.20.70.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/moq/4.20.70/moq.nuspec.
+INSTALL_COMMAND: dotnet add package Moq --version 4.20.70.
+
+PACKAGE: Moq.
+VERSION: 4.20.71.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/moq/4.20.71/moq.4.20.71.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/moq/4.20.71/moq.nuspec.
+INSTALL_COMMAND: dotnet add package Moq --version 4.20.71.
+
+PACKAGE: Moq.
+VERSION: 4.20.72.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/moq/4.20.72/moq.4.20.72.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/moq/4.20.72/moq.nuspec.
+INSTALL_COMMAND: dotnet add package Moq --version 4.20.72.

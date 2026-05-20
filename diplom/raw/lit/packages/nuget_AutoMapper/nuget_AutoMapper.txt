@@ -1,0 +1,709 @@
+﻿URL: https://www.nuget.org/packages/AutoMapper.
+TITLE: NuGet package: AutoMapper.
+
+SOURCE_TYPE: nuget_package.
+PACKAGE_MANAGER: NuGet.
+PACKAGE_ID: AutoMapper.
+SOURCE_URL: https://www.nuget.org/packages/AutoMapper.
+
+NuGet package versions with direct .nupkg installer/package download links.
+
+PACKAGE: AutoMapper.
+VERSION: 3.3.0-ci1009.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/3.3.0-ci1009/automapper.3.3.0-ci1009.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/3.3.0-ci1009/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 3.3.0-ci1009.
+
+PACKAGE: AutoMapper.
+VERSION: 3.3.0-ci1016.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/3.3.0-ci1016/automapper.3.3.0-ci1016.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/3.3.0-ci1016/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 3.3.0-ci1016.
+
+PACKAGE: AutoMapper.
+VERSION: 3.3.0-ci1017.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/3.3.0-ci1017/automapper.3.3.0-ci1017.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/3.3.0-ci1017/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 3.3.0-ci1017.
+
+PACKAGE: AutoMapper.
+VERSION: 3.3.0-ci1018.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/3.3.0-ci1018/automapper.3.3.0-ci1018.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/3.3.0-ci1018/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 3.3.0-ci1018.
+
+PACKAGE: AutoMapper.
+VERSION: 3.3.0-ci1019.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/3.3.0-ci1019/automapper.3.3.0-ci1019.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/3.3.0-ci1019/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 3.3.0-ci1019.
+
+PACKAGE: AutoMapper.
+VERSION: 3.3.0-ci1020.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/3.3.0-ci1020/automapper.3.3.0-ci1020.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/3.3.0-ci1020/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 3.3.0-ci1020.
+
+PACKAGE: AutoMapper.
+VERSION: 3.3.0-ci1021.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/3.3.0-ci1021/automapper.3.3.0-ci1021.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/3.3.0-ci1021/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 3.3.0-ci1021.
+
+PACKAGE: AutoMapper.
+VERSION: 3.3.0-ci1022.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/3.3.0-ci1022/automapper.3.3.0-ci1022.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/3.3.0-ci1022/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 3.3.0-ci1022.
+
+PACKAGE: AutoMapper.
+VERSION: 3.3.0-ci1023.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/3.3.0-ci1023/automapper.3.3.0-ci1023.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/3.3.0-ci1023/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 3.3.0-ci1023.
+
+PACKAGE: AutoMapper.
+VERSION: 3.3.0-ci1024.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/3.3.0-ci1024/automapper.3.3.0-ci1024.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/3.3.0-ci1024/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 3.3.0-ci1024.
+
+PACKAGE: AutoMapper.
+VERSION: 3.3.0-ci1025.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/3.3.0-ci1025/automapper.3.3.0-ci1025.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/3.3.0-ci1025/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 3.3.0-ci1025.
+
+PACKAGE: AutoMapper.
+VERSION: 3.3.0-ci1026.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/3.3.0-ci1026/automapper.3.3.0-ci1026.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/3.3.0-ci1026/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 3.3.0-ci1026.
+
+PACKAGE: AutoMapper.
+VERSION: 3.3.0-ci1027.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/3.3.0-ci1027/automapper.3.3.0-ci1027.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/3.3.0-ci1027/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 3.3.0-ci1027.
+
+PACKAGE: AutoMapper.
+VERSION: 3.3.0-ci1028.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/3.3.0-ci1028/automapper.3.3.0-ci1028.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/3.3.0-ci1028/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 3.3.0-ci1028.
+
+PACKAGE: AutoMapper.
+VERSION: 3.3.0-ci1029.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/3.3.0-ci1029/automapper.3.3.0-ci1029.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/3.3.0-ci1029/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 3.3.0-ci1029.
+
+PACKAGE: AutoMapper.
+VERSION: 3.3.0-ci1030.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/3.3.0-ci1030/automapper.3.3.0-ci1030.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/3.3.0-ci1030/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 3.3.0-ci1030.
+
+PACKAGE: AutoMapper.
+VERSION: 3.3.0-ci1031.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/3.3.0-ci1031/automapper.3.3.0-ci1031.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/3.3.0-ci1031/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 3.3.0-ci1031.
+
+PACKAGE: AutoMapper.
+VERSION: 3.3.0-ci1032.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/3.3.0-ci1032/automapper.3.3.0-ci1032.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/3.3.0-ci1032/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 3.3.0-ci1032.
+
+PACKAGE: AutoMapper.
+VERSION: 3.3.0-ci1033.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/3.3.0-ci1033/automapper.3.3.0-ci1033.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/3.3.0-ci1033/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 3.3.0-ci1033.
+
+PACKAGE: AutoMapper.
+VERSION: 3.3.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/3.3.0/automapper.3.3.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/3.3.0/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 3.3.0.
+
+PACKAGE: AutoMapper.
+VERSION: 3.3.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/3.3.1/automapper.3.3.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/3.3.1/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 3.3.1.
+
+PACKAGE: AutoMapper.
+VERSION: 4.0.0-alpha1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-alpha1/automapper.4.0.0-alpha1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-alpha1/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 4.0.0-alpha1.
+
+PACKAGE: AutoMapper.
+VERSION: 4.0.0-ci1002.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-ci1002/automapper.4.0.0-ci1002.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-ci1002/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 4.0.0-ci1002.
+
+PACKAGE: AutoMapper.
+VERSION: 4.0.0-ci1004.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-ci1004/automapper.4.0.0-ci1004.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-ci1004/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 4.0.0-ci1004.
+
+PACKAGE: AutoMapper.
+VERSION: 4.0.0-ci1006.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-ci1006/automapper.4.0.0-ci1006.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-ci1006/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 4.0.0-ci1006.
+
+PACKAGE: AutoMapper.
+VERSION: 4.0.0-ci1007.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-ci1007/automapper.4.0.0-ci1007.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-ci1007/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 4.0.0-ci1007.
+
+PACKAGE: AutoMapper.
+VERSION: 4.0.0-ci1014.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-ci1014/automapper.4.0.0-ci1014.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-ci1014/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 4.0.0-ci1014.
+
+PACKAGE: AutoMapper.
+VERSION: 4.0.0-ci1015.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-ci1015/automapper.4.0.0-ci1015.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-ci1015/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 4.0.0-ci1015.
+
+PACKAGE: AutoMapper.
+VERSION: 4.0.0-ci1017.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-ci1017/automapper.4.0.0-ci1017.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-ci1017/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 4.0.0-ci1017.
+
+PACKAGE: AutoMapper.
+VERSION: 4.0.0-ci1018.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-ci1018/automapper.4.0.0-ci1018.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-ci1018/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 4.0.0-ci1018.
+
+PACKAGE: AutoMapper.
+VERSION: 4.0.0-ci1019.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-ci1019/automapper.4.0.0-ci1019.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-ci1019/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 4.0.0-ci1019.
+
+PACKAGE: AutoMapper.
+VERSION: 4.0.0-ci1020.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-ci1020/automapper.4.0.0-ci1020.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-ci1020/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 4.0.0-ci1020.
+
+PACKAGE: AutoMapper.
+VERSION: 4.0.0-ci1021.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-ci1021/automapper.4.0.0-ci1021.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-ci1021/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 4.0.0-ci1021.
+
+PACKAGE: AutoMapper.
+VERSION: 4.0.0-ci1026.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-ci1026/automapper.4.0.0-ci1026.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-ci1026/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 4.0.0-ci1026.
+
+PACKAGE: AutoMapper.
+VERSION: 4.0.0-ci1031.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-ci1031/automapper.4.0.0-ci1031.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-ci1031/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 4.0.0-ci1031.
+
+PACKAGE: AutoMapper.
+VERSION: 4.0.0-ci1032.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-ci1032/automapper.4.0.0-ci1032.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-ci1032/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 4.0.0-ci1032.
+
+PACKAGE: AutoMapper.
+VERSION: 4.0.0-ci1034.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-ci1034/automapper.4.0.0-ci1034.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-ci1034/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 4.0.0-ci1034.
+
+PACKAGE: AutoMapper.
+VERSION: 4.0.0-ci1036.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-ci1036/automapper.4.0.0-ci1036.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-ci1036/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 4.0.0-ci1036.
+
+PACKAGE: AutoMapper.
+VERSION: 4.0.0-ci1038.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-ci1038/automapper.4.0.0-ci1038.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-ci1038/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 4.0.0-ci1038.
+
+PACKAGE: AutoMapper.
+VERSION: 4.0.0-ci1046.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-ci1046/automapper.4.0.0-ci1046.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-ci1046/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 4.0.0-ci1046.
+
+PACKAGE: AutoMapper.
+VERSION: 4.0.0-ci1049.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-ci1049/automapper.4.0.0-ci1049.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-ci1049/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 4.0.0-ci1049.
+
+PACKAGE: AutoMapper.
+VERSION: 4.0.0-ci1050.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-ci1050/automapper.4.0.0-ci1050.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-ci1050/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 4.0.0-ci1050.
+
+PACKAGE: AutoMapper.
+VERSION: 4.0.0-ci1051.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-ci1051/automapper.4.0.0-ci1051.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-ci1051/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 4.0.0-ci1051.
+
+PACKAGE: AutoMapper.
+VERSION: 4.0.0-ci1052.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-ci1052/automapper.4.0.0-ci1052.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-ci1052/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 4.0.0-ci1052.
+
+PACKAGE: AutoMapper.
+VERSION: 4.0.0-ci1053.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-ci1053/automapper.4.0.0-ci1053.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-ci1053/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 4.0.0-ci1053.
+
+PACKAGE: AutoMapper.
+VERSION: 4.0.0-ci1054.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-ci1054/automapper.4.0.0-ci1054.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-ci1054/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 4.0.0-ci1054.
+
+PACKAGE: AutoMapper.
+VERSION: 4.0.0-ci1056.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-ci1056/automapper.4.0.0-ci1056.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-ci1056/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 4.0.0-ci1056.
+
+PACKAGE: AutoMapper.
+VERSION: 4.0.0-ci1057.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-ci1057/automapper.4.0.0-ci1057.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-ci1057/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 4.0.0-ci1057.
+
+PACKAGE: AutoMapper.
+VERSION: 4.0.0-ci1061.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-ci1061/automapper.4.0.0-ci1061.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0-ci1061/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 4.0.0-ci1061.
+
+PACKAGE: AutoMapper.
+VERSION: 4.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0/automapper.4.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.0/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 4.0.0.
+
+PACKAGE: AutoMapper.
+VERSION: 4.0.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.1/automapper.4.0.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.1/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 4.0.1.
+
+PACKAGE: AutoMapper.
+VERSION: 4.0.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.2/automapper.4.0.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.2/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 4.0.2.
+
+PACKAGE: AutoMapper.
+VERSION: 4.0.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.3/automapper.4.0.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.3/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 4.0.3.
+
+PACKAGE: AutoMapper.
+VERSION: 4.0.4.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.4/automapper.4.0.4.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.0.4/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 4.0.4.
+
+PACKAGE: AutoMapper.
+VERSION: 4.1.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.1.0/automapper.4.1.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.1.0/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 4.1.0.
+
+PACKAGE: AutoMapper.
+VERSION: 4.1.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.1.1/automapper.4.1.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.1.1/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 4.1.1.
+
+PACKAGE: AutoMapper.
+VERSION: 4.2.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.2.0/automapper.4.2.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.2.0/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 4.2.0.
+
+PACKAGE: AutoMapper.
+VERSION: 4.2.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.2.1/automapper.4.2.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/4.2.1/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 4.2.1.
+
+PACKAGE: AutoMapper.
+VERSION: 5.0.0-beta-1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/5.0.0-beta-1/automapper.5.0.0-beta-1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/5.0.0-beta-1/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 5.0.0-beta-1.
+
+PACKAGE: AutoMapper.
+VERSION: 5.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/5.0.0/automapper.5.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/5.0.0/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 5.0.0.
+
+PACKAGE: AutoMapper.
+VERSION: 5.0.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/5.0.1/automapper.5.0.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/5.0.1/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 5.0.1.
+
+PACKAGE: AutoMapper.
+VERSION: 5.0.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/5.0.2/automapper.5.0.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/5.0.2/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 5.0.2.
+
+PACKAGE: AutoMapper.
+VERSION: 5.1.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/5.1.0/automapper.5.1.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/5.1.0/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 5.1.0.
+
+PACKAGE: AutoMapper.
+VERSION: 5.1.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/5.1.1/automapper.5.1.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/5.1.1/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 5.1.1.
+
+PACKAGE: AutoMapper.
+VERSION: 5.2.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/5.2.0/automapper.5.2.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/5.2.0/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 5.2.0.
+
+PACKAGE: AutoMapper.
+VERSION: 6.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/6.0.0/automapper.6.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/6.0.0/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 6.0.0.
+
+PACKAGE: AutoMapper.
+VERSION: 6.0.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/6.0.1/automapper.6.0.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/6.0.1/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 6.0.1.
+
+PACKAGE: AutoMapper.
+VERSION: 6.0.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/6.0.2/automapper.6.0.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/6.0.2/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 6.0.2.
+
+PACKAGE: AutoMapper.
+VERSION: 6.1.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/6.1.0/automapper.6.1.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/6.1.0/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 6.1.0.
+
+PACKAGE: AutoMapper.
+VERSION: 6.1.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/6.1.1/automapper.6.1.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/6.1.1/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 6.1.1.
+
+PACKAGE: AutoMapper.
+VERSION: 6.2.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/6.2.0/automapper.6.2.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/6.2.0/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 6.2.0.
+
+PACKAGE: AutoMapper.
+VERSION: 6.2.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/6.2.1/automapper.6.2.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/6.2.1/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 6.2.1.
+
+PACKAGE: AutoMapper.
+VERSION: 6.2.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/6.2.2/automapper.6.2.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/6.2.2/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 6.2.2.
+
+PACKAGE: AutoMapper.
+VERSION: 7.0.0-alpha-0001.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/7.0.0-alpha-0001/automapper.7.0.0-alpha-0001.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/7.0.0-alpha-0001/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 7.0.0-alpha-0001.
+
+PACKAGE: AutoMapper.
+VERSION: 7.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/7.0.0/automapper.7.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/7.0.0/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 7.0.0.
+
+PACKAGE: AutoMapper.
+VERSION: 7.0.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/7.0.1/automapper.7.0.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/7.0.1/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 7.0.1.
+
+PACKAGE: AutoMapper.
+VERSION: 8.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/8.0.0/automapper.8.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/8.0.0/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 8.0.0.
+
+PACKAGE: AutoMapper.
+VERSION: 8.1.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/8.1.0/automapper.8.1.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/8.1.0/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 8.1.0.
+
+PACKAGE: AutoMapper.
+VERSION: 8.1.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/8.1.1/automapper.8.1.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/8.1.1/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 8.1.1.
+
+PACKAGE: AutoMapper.
+VERSION: 9.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/9.0.0/automapper.9.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/9.0.0/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 9.0.0.
+
+PACKAGE: AutoMapper.
+VERSION: 10.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/10.0.0/automapper.10.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/10.0.0/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 10.0.0.
+
+PACKAGE: AutoMapper.
+VERSION: 10.1.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/10.1.0/automapper.10.1.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/10.1.0/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 10.1.0.
+
+PACKAGE: AutoMapper.
+VERSION: 10.1.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/10.1.1/automapper.10.1.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/10.1.1/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 10.1.1.
+
+PACKAGE: AutoMapper.
+VERSION: 11.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/11.0.0/automapper.11.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/11.0.0/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 11.0.0.
+
+PACKAGE: AutoMapper.
+VERSION: 11.0.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/11.0.1/automapper.11.0.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/11.0.1/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 11.0.1.
+
+PACKAGE: AutoMapper.
+VERSION: 12.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/12.0.0/automapper.12.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/12.0.0/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 12.0.0.
+
+PACKAGE: AutoMapper.
+VERSION: 12.0.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/12.0.1/automapper.12.0.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/12.0.1/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 12.0.1.
+
+PACKAGE: AutoMapper.
+VERSION: 13.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/13.0.0/automapper.13.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/13.0.0/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 13.0.0.
+
+PACKAGE: AutoMapper.
+VERSION: 13.0.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/13.0.1/automapper.13.0.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/13.0.1/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 13.0.1.
+
+PACKAGE: AutoMapper.
+VERSION: 14.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/14.0.0/automapper.14.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/14.0.0/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 14.0.0.
+
+PACKAGE: AutoMapper.
+VERSION: 15.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/15.0.0/automapper.15.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/15.0.0/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 15.0.0.
+
+PACKAGE: AutoMapper.
+VERSION: 15.0.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/15.0.1/automapper.15.0.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/15.0.1/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 15.0.1.
+
+PACKAGE: AutoMapper.
+VERSION: 15.1.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/15.1.0/automapper.15.1.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/15.1.0/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 15.1.0.
+
+PACKAGE: AutoMapper.
+VERSION: 15.1.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/15.1.1/automapper.15.1.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/15.1.1/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 15.1.1.
+
+PACKAGE: AutoMapper.
+VERSION: 15.1.2.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/15.1.2/automapper.15.1.2.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/15.1.2/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 15.1.2.
+
+PACKAGE: AutoMapper.
+VERSION: 15.1.3.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/15.1.3/automapper.15.1.3.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/15.1.3/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 15.1.3.
+
+PACKAGE: AutoMapper.
+VERSION: 16.0.0-beta-1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/16.0.0-beta-1/automapper.16.0.0-beta-1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/16.0.0-beta-1/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 16.0.0-beta-1.
+
+PACKAGE: AutoMapper.
+VERSION: 16.0.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/16.0.0/automapper.16.0.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/16.0.0/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 16.0.0.
+
+PACKAGE: AutoMapper.
+VERSION: 16.1.0.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/16.1.0/automapper.16.1.0.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/16.1.0/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 16.1.0.
+
+PACKAGE: AutoMapper.
+VERSION: 16.1.1.
+INSTALLER_TYPE: nupkg.
+DOWNLOAD_URL: https://api.nuget.org/v3-flatcontainer/automapper/16.1.1/automapper.16.1.1.nupkg.
+NUSPEC_URL: https://api.nuget.org/v3-flatcontainer/automapper/16.1.1/automapper.nuspec.
+INSTALL_COMMAND: dotnet add package AutoMapper --version 16.1.1.
