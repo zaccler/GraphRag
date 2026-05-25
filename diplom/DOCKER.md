@@ -1,5 +1,5 @@
 # Docker launch
-
+-
 ## First run
 
 1. Open the project folder:
