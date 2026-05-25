@@ -19,21 +19,24 @@ def _is_download_question(question):
     return any(word in text for word in ("скач", "ссыл", "download", "nupkg", "архив"))
 
 
-def _chunk_texts(dgraph_address, limit=2000):
+def _chunk_texts(dgraph_address, terms=None, limit=20):
     storage = DgraphKVStorage(
         address=dgraph_address,
         filename=DEFAULT_FILENAMES["chunks_kv_storage_name"],
     )
     try:
-        query = f"""
-        query q($kind: string) {{
-          rows(func: eq(ragu_store_kind, $kind), first: {limit}) @filter(type(RaguKV)) {{
-            ragu_key
-            ragu_value_json
-          }}
-        }}
-        """
-        rows = storage._query(query, {"$kind": storage.namespace}).get("rows", [])
+        if terms:
+            rows = storage.search_text_rows(terms, limit=limit)
+        else:
+            query = f"""
+            query q($kind: string) {{
+              rows(func: eq(ragu_store_kind, $kind), first: {limit}) @filter(type(RaguKV)) {{
+                ragu_key
+                ragu_value_json
+              }}
+            }}
+            """
+            rows = storage._query(query, {"$kind": storage.namespace}).get("rows", [])
         for row in rows:
             value = row.get("ragu_value_json")
             if not isinstance(value, str):
@@ -63,7 +66,7 @@ def package_download_answer(question, dgraph_address):
     package_lower = package.lower()
     version_line = f"VERSION: {version}".lower()
 
-    for chunk_text in _chunk_texts(dgraph_address):
+    for chunk_text in _chunk_texts(dgraph_address, f"{package} {version}"):
         text_lower = chunk_text.lower()
         if package_lower not in text_lower or version_line not in text_lower:
             continue

@@ -23,7 +23,7 @@ VECTOR_QUERY_PAGE_SIZE = 100
 DGRAPH_UNIFIED_SCHEMA = """
 ragu_store_kind: string @index(exact) .
 ragu_key: string @index(exact) .
-ragu_value_json: string .
+ragu_value_json: string @index(term) .
 ragu_vector_json: string .
 ragu_metadata_json: string .
 
@@ -175,6 +175,22 @@ class DgraphKVStorage(_DgraphStoreBase, BaseKVStorage[Any]):
             else item
             for item in values
         ]
+
+    def search_text_rows(self, terms, limit=6):
+        terms = " ".join(str(terms or "").split())
+        if not terms:
+            return []
+
+        limit = max(1, min(int(limit), 50))
+        query = f"""
+        query q($kind: string, $terms: string) {{
+          rows(func: anyofterms(ragu_value_json, $terms), first: {limit}) @filter(type(RaguKV) AND eq(ragu_store_kind, $kind)) {{
+            ragu_key
+            ragu_value_json
+          }}
+        }}
+        """
+        return self._query(query, {"$kind": self.namespace, "$terms": terms}).get("rows", [])
 
     async def filter_keys(self, data: list[str]) -> set[str]:
         existing = set(await self.all_keys())

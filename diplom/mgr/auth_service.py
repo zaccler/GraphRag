@@ -62,12 +62,18 @@ def send_auth_code_email(email, code):
     )
 
     smtp_cls = smtplib.SMTP_SSL if SMTP_USE_SSL else smtplib.SMTP
-    with smtp_cls(SMTP_HOST, SMTP_PORT, timeout=20) as server:
-        if SMTP_USE_TLS and not SMTP_USE_SSL:
-            server.starttls()
-        if SMTP_USER or SMTP_PASSWORD:
-            server.login(SMTP_USER, SMTP_PASSWORD)
-        server.send_message(message)
+    try:
+        with smtp_cls(SMTP_HOST, SMTP_PORT, timeout=20) as server:
+            if SMTP_USE_TLS and not SMTP_USE_SSL:
+                server.starttls()
+            if SMTP_USER or SMTP_PASSWORD:
+                server.login(SMTP_USER, SMTP_PASSWORD)
+            server.send_message(message)
+    except smtplib.SMTPAuthenticationError as exc:
+        raise RuntimeError(
+            "Gmail отклонил SMTP логин. Для Gmail нужен пароль приложения: "
+            "включи 2FA, создай App Password и укажи его в SMTP_PASSWORD без пробелов."
+        ) from exc
 
 
 def store_auth_code(email, code):

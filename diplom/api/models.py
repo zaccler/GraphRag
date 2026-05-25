@@ -31,6 +31,11 @@ class ChatLogRequest(BaseModel):
     answer: str
 
 
+class ChatHistoryRequest(BaseModel):
+    email: str
+    limit: int = 200
+
+
 class AskDebugResponse(BaseModel):
     answer: str
     raw_result: dict | list | str | None

@@ -85,7 +85,13 @@ function formatDebugOutput(data) {
 
 function compactText(data) {
   if (typeof data === "string") return data;
+  if (data instanceof Error) return data.message || String(data);
   if (!data || typeof data !== "object") return String(data);
+  if (typeof data.message === "string" && data.message.trim()) return data.message;
+  if (typeof data.error === "string" && data.error.trim()) return data.error;
+  if (Array.isArray(data.detail)) {
+    return data.detail.map((item) => item.msg || JSON.stringify(item)).join("\n");
+  }
   if (data.response_type || data.retrieved_context || data.raw_result) return formatDebugOutput(data);
   if (data.answer) return data.answer;
   if (data.preview) {
@@ -228,6 +234,7 @@ async function loadSettings() {
   $("apiUrl").value = apiUrl;
   renderRole();
   restoreAuthDraft();
+  await loadServerChatHistory();
 }
 
 async function saveSettings() {
@@ -343,6 +350,7 @@ async function verifyEmailCode() {
     await clearAuthDraft();
     finishButton($("verifyEmailCodeBtn"), true, "Готово");
     renderRole();
+    await loadServerChatHistory();
     checkStatus();
   } catch (error) {
     $("registerError").textContent = compactText(error);
@@ -399,15 +407,27 @@ function renderRole() {
 }
 
 async function api(path, options = {}) {
-  const response = await fetch(`${apiUrl}${path}`, {
-    ...options,
-    headers: {
-      "Content-Type": "application/json",
-      ...(options.headers || {}),
-    },
-  });
+  let response;
+  try {
+    response = await fetch(`${apiUrl}${path}`, {
+      ...options,
+      headers: {
+        "Content-Type": "application/json",
+        ...(options.headers || {}),
+      },
+    });
+  } catch (error) {
+    throw new Error(`API недоступен: ${apiUrl}. Проверь, что сервер запущен и endpoint указан правильно.`);
+  }
+
   const text = await response.text();
-  const data = text ? JSON.parse(text) : {};
+  let data = {};
+  try {
+    data = text ? JSON.parse(text) : {};
+  } catch (error) {
+    data = { detail: text || `HTTP ${response.status}` };
+  }
+
   if (!response.ok) throw data;
   return data;
 }
@@ -447,12 +467,25 @@ function clearMessages() {
   $("messages").textContent = "";
 }
 
+function historyForCurrentUser() {
+  const key = currentHistoryKey();
+  let logs = Array.isArray(chatLogsByUser[key]) ? chatLogsByUser[key] : [];
+
+  if (!logs.length && Array.isArray(chatLogsByUser.__legacy__) && chatLogsByUser.__legacy__.length) {
+    logs = chatLogsByUser.__legacy__;
+    chatLogsByUser[key] = logs.slice(-200);
+    chrome.storage.local.set({ chatLogsByUser });
+  }
+
+  return logs;
+}
+
 function renderChatHistory() {
   if (!role) return;
   clearMessages();
-  const visibleLogs = (chatLogsByUser[currentHistoryKey()] || []).slice(-30);
+  const visibleLogs = historyForCurrentUser().slice(-30);
   if (!visibleLogs.length) {
-    addMessage("bot", "Задай вопрос по базе знаний.");
+    addMessage("bot", "\u0417\u0430\u0434\u0430\u0439 \u0432\u043e\u043f\u0440\u043e\u0441 \u043f\u043e \u0431\u0430\u0437\u0435 \u0437\u043d\u0430\u043d\u0438\u0439.");
     return;
   }
   for (const item of visibleLogs) {
@@ -469,6 +502,41 @@ async function saveChatLog(question, answer) {
   await chrome.storage.local.set({ chatLogsByUser });
 }
 
+async function loadServerChatHistory() {
+  if (role !== "user" || !userEmail) return;
+
+  try {
+    const data = await api("/dhb/chat-history", {
+      method: "POST",
+      body: JSON.stringify({ email: userEmail, limit: 200 }),
+    });
+    const items = Array.isArray(data.items) ? data.items : [];
+    if (!items.length) return;
+
+    const key = currentHistoryKey();
+    const localLogs = Array.isArray(chatLogsByUser[key]) ? chatLogsByUser[key] : [];
+    const serverLogs = items
+      .map((item) => ({
+        time: item.time || item.timestamp || new Date().toISOString(),
+        role: "user",
+        email: userEmail,
+        question: item.question || "",
+        answer: item.answer || "",
+      }))
+      .filter((item) => item.question || item.answer);
+
+    const byText = new Map();
+    for (const item of [...localLogs, ...serverLogs]) {
+      byText.set(`${item.question}\n${item.answer}`, item);
+    }
+
+    chatLogsByUser[key] = Array.from(byText.values()).slice(-200);
+    await chrome.storage.local.set({ chatLogsByUser });
+    renderChatHistory();
+  } catch (error) {
+    console.warn("Chat history sync failed", error);
+  }
+}
 async function logChatToSheet(question, answer) {
   if (role !== "user" || !userEmail) return;
 

@@ -29,6 +29,7 @@ from api.models import (
     AuthCodeRequest,
     AuthResponse,
     AuthVerifyRequest,
+    ChatHistoryRequest,
     ChatLogRequest,
     DhbGoogleSheetRequest,
     ExportTextDbRequest,
@@ -42,7 +43,7 @@ from api.models import (
     ParseUrlRequest,
     StatusResponse,
 )
-from dhb.chat_logs import CHAT_LOG_PATH, save_chat_log
+from dhb.chat_logs import CHAT_LOG_PATH, load_chat_history, save_chat_log
 from dhb.dashboard import sync_google_sheet_dashboard
 from dhb.text_db_mirror import mirror_text_db_files
 from lms.answer_service import answer_with_timeout
@@ -455,6 +456,17 @@ async def auth_verify_code(request: AuthVerifyRequest):
 async def dhb_log_chat(request: ChatLogRequest):
     email = clean_email(request.email)
     return await save_chat_log(email, request.question, request.answer)
+
+
+@app.post("/dhb/chat-history")
+async def dhb_chat_history(request: ChatHistoryRequest):
+    email = clean_email(request.email)
+    history = await load_chat_history(email, request.limit)
+    return {
+        "status": "ok",
+        "email": email,
+        **history,
+    }
 
 
 @app.post("/ask", response_model=AskResponse)
